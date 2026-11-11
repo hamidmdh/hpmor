@@ -228,6 +228,7 @@ MODE_SCRIPT = """<script>
 
 def build_translated_chapter(n: int, src: dict, tr: dict, titles: dict[str, str]) -> str:
     validate_translation(src, tr)
+    is_machine = tr.get("translation") == "machine"
     by_n = {p["n"]: p for p in src["paragraphs"]}
     rows = []
     for sec in tr["sections"]:
@@ -238,15 +239,25 @@ def build_translated_chapter(n: int, src: dict, tr: dict, titles: dict[str, str]
             f'<tr id="sec-{sid}">'
             f'<td class="sec" data-label="بخش"><a class="sec-id" href="#sec-{sid}">§{fa_num(sid)}</a></td>'
             f'<td class="en verbatim col-en" dir="ltr" lang="en" data-label="۱. متن اصلی انگلیسی">{en_cells}</td>'
-            f'<td class="en summary col-en" dir="ltr" lang="en" data-label="۲. خلاصهٔ انگلیسی">{plain_summary(sec["summary_en"])}</td>'
-            f'<td class="fa trans col-fa" dir="rtl" lang="fa" data-label="۳. ترجمهٔ فارسی">{fa_cells}</td>'
+            f'<td class="fa trans col-fa" dir="rtl" lang="fa" data-label="۲. ترجمهٔ فارسی">{fa_cells}</td>'
+            f'<td class="en summary col-en" dir="ltr" lang="en" data-label="۳. خلاصهٔ انگلیسی">{plain_summary(sec["summary_en"])}</td>'
             f'<td class="fa summary col-fa" dir="rtl" lang="fa" data-label="۴. خلاصهٔ فارسی">{plain_summary(sec["summary_fa"])}</td>'
             "</tr>"
         )
 
+    if is_machine:
+        kicker = f"فصل {fa_num(n)} از {fa_num(TOTAL)} · ترجمهٔ ماشینی — نیازمند ویرایش"
+        notice = f"""<div class="notice machine-note">
+      <p><strong>این فصل با ترجمهٔ ماشینی آماده شده و هنوز ویرایش انسانی نشده است.</strong> متن برای خواندن و مقایسه در دسترس است، اما ممکن است برخی جمله‌ها ناهموار یا نادرست باشند. فصل‌های ۱ و ۲ ترجمهٔ دستی هستند.</p>
+      <p>برای اصلاح، فایل <code>data/ch{n:03d}.json</code> را در <a href="{REPO_URL}" rel="noopener">مخزن GitHub</a> ویرایش کنید و عبارت <code>"translation": "machine"</code> را بردارید.</p>
+    </div>"""
+    else:
+        kicker = f"فصل {fa_num(n)} از {fa_num(TOTAL)} · ترجمه‌شده"
+        notice = """<div class="notice">این صفحه متن اصلی انگلیسی را کنار ترجمه و خلاصه‌های فارسی می‌گذارد تا هم خواندن و هم مقایسه آسان باشد. اگر ستون‌های انگلیسی را نمی‌خواهید، از دکمهٔ «فقط فارسی» استفاده کنید.</div>"""
+
     body = f"""<main class="wrap">
   <div class="chapter-head">
-    <p class="kicker">فصل {fa_num(n)} از {fa_num(TOTAL)} · ترجمه‌شده</p>
+    <p class="kicker">{kicker}</p>
     <h1>{esc(tr["title_fa"])}</h1>
     <p class="latin">Chapter {n}: {esc(src["title"])}</p>
     <div class="chapter-meta">
@@ -256,16 +267,16 @@ def build_translated_chapter(n: int, src: dict, tr: dict, titles: dict[str, str]
       <a href="index.html">همهٔ فصل‌ها</a>
     </div>
   </div>
-  <div class="notice">این صفحه متن اصلی انگلیسی را کنار ترجمه و خلاصه‌های فارسی می‌گذارد تا هم خواندن و هم مقایسه آسان باشد. اگر ستون‌های انگلیسی را نمی‌خواهید، از دکمهٔ «فقط فارسی» استفاده کنید.</div>
+  {notice}
   {toolbar_html()}
   <div class="table-wrap">
     <table class="parallel">
-      <colgroup><col class="c-sec"><col class="c-en"><col class="c-sum"><col class="c-fa"><col class="c-fasum"></colgroup>
+      <colgroup><col class="c-sec"><col class="c-en"><col class="c-fa"><col class="c-sum"><col class="c-fasum"></colgroup>
       <thead><tr>
         <th scope="col">§</th>
         <th scope="col">۱. متن اصلی انگلیسی</th>
-        <th scope="col">۲. خلاصهٔ انگلیسی</th>
-        <th scope="col" dir="rtl" lang="fa">۳. ترجمهٔ فارسی</th>
+        <th scope="col" dir="rtl" lang="fa">۲. ترجمهٔ فارسی</th>
+        <th scope="col">۳. خلاصهٔ انگلیسی</th>
         <th scope="col" dir="rtl" lang="fa">۴. خلاصهٔ فارسی</th>
       </tr></thead>
       <tbody>
@@ -316,17 +327,22 @@ def build_source_chapter(n: int, src: dict, titles: dict[str, str]) -> str:
     )
 
 
-def build_index(titles: dict[str, str], translated: set[int]) -> str:
+def build_index(titles: dict[str, str], hand: set[int], machine: set[int]) -> str:
     cards = []
     for n in range(1, TOTAL + 1):
         src = load_source(n)
-        status = "done" if n in translated else "pending"
-        badge = (
-            '<span class="badge done">ترجمه‌شده</span>'
-            if status == "done"
-            else '<span class="badge pending">فقط انگلیسی</span>'
-        )
-        foot_label = "خواندن ترجمه" if status == "done" else "متن انگلیسی"
+        if n in hand:
+            status = "done"
+            badge = '<span class="badge done">ترجمهٔ دستی</span>'
+            foot_label = "خواندن ترجمه"
+        elif n in machine:
+            status = "machine"
+            badge = '<span class="badge machine">ترجمهٔ ماشینی</span>'
+            foot_label = "خواندن ترجمه"
+        else:
+            status = "pending"
+            badge = '<span class="badge pending">فقط انگلیسی</span>'
+            foot_label = "متن انگلیسی"
         search_blob = f"{n} {titles[str(n)]} {src['title']}".lower()
         cards.append(
             f'<li class="chapter-card" data-status="{status}" data-search="{esc(search_blob)}">'
@@ -338,14 +354,14 @@ def build_index(titles: dict[str, str], translated: set[int]) -> str:
             "</li>"
         )
 
-    done_count = len(translated)
+    done_count = len(hand | machine)
     percent = round(done_count * 100 / TOTAL, 1)
     body = f"""<main class="wrap">
   <section class="hero">
     <p class="kicker">پروژهٔ ترجمهٔ فارسی · نسخهٔ موازی</p>
     <h1>هری پاتر و روش‌های عقلانیت</h1>
     <p class="latin">Harry Potter and the Methods of Rationality — Eliezer Yudkowsky</p>
-    <p class="lead">متن اصلی انگلیسی، خلاصهٔ انگلیسی، ترجمهٔ فارسی و خلاصهٔ فارسی، کنار هم و بخش‌به‌بخش. یک ابزار مطالعه برای خواندن دقیق‌تر و مقایسهٔ زبان اصلی با ترجمه.</p>
+    <p class="lead">متن اصلی انگلیسی، ترجمهٔ فارسی، خلاصهٔ انگلیسی و خلاصهٔ فارسی، کنار هم و بخش‌به‌بخش. یک ابزار مطالعه برای خواندن دقیق‌تر و مقایسهٔ زبان اصلی با ترجمه.</p>
     <div class="hero-actions">
       <a class="btn primary" href="{chapter_url(1)}">شروع از فصل ۱</a>
       <a class="btn" href="about.html">دربارهٔ روش کار</a>
@@ -355,7 +371,7 @@ def build_index(titles: dict[str, str], translated: set[int]) -> str:
   <section class="panel progress-panel" aria-label="پیشرفت ترجمه">
     <div>
       <div class="label">پیشرفت ترجمه</div>
-      <div class="hint">ترجمه به‌ترتیب فصل‌ها اضافه می‌شود؛ فصل‌های دیگر فعلاً متن انگلیسی دارند.</div>
+      <div class="hint">{fa_num(len(hand))} فصل ترجمهٔ دستی · {fa_num(len(machine))} فصل ترجمهٔ ماشینی (نیازمند ویرایش) · {fa_num(TOTAL - done_count)} فصل فقط انگلیسی</div>
       <div class="progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="122" aria-valuenow="{done_count}">
         <div class="progress-fill" style="width:{percent}%"></div>
       </div>
@@ -373,8 +389,9 @@ def build_index(titles: dict[str, str], translated: set[int]) -> str:
       </label>
       <div class="filters" role="group" aria-label="صافی وضعیت">
         <button type="button" data-filter="all" aria-pressed="true">همه</button>
-        <button type="button" data-filter="done" aria-pressed="false">ترجمه‌شده</button>
-        <button type="button" data-filter="pending" aria-pressed="false">در انتظار</button>
+        <button type="button" data-filter="done" aria-pressed="false">ترجمهٔ دستی</button>
+        <button type="button" data-filter="machine" aria-pressed="false">ترجمهٔ ماشینی</button>
+        <button type="button" data-filter="pending" aria-pressed="false">فقط انگلیسی</button>
       </div>
     </div>
     <ol class="chapter-grid" id="chapter-list">
@@ -426,26 +443,30 @@ def build_index(titles: dict[str, str], translated: set[int]) -> str:
     )
 
 
-def build_about(titles: dict[str, str], translated: set[int]) -> str:
+def build_about(titles: dict[str, str], hand: set[int], machine: set[int]) -> str:
+    done_count = len(hand | machine)
     body = f"""<main class="wrap">
   <section class="hero" style="padding-bottom:1rem">
     <p class="kicker">دربارهٔ پروژه</p>
     <h1>چهار ستون، یک کتاب</h1>
-    <p class="lead">این سایت برای خواندن دقیق <em>هری پاتر و روش‌های عقلانیت</em> به فارسی ساخته شده است. هر بخش از فصل در چهار ستون نمایش داده می‌شود تا بتوانید متن اصلی، خلاصه، ترجمه و خلاصهٔ فارسی را کنار هم ببینید.</p>
+    <p class="lead">این سایت برای خواندن دقیق <em>هری پاتر و روش‌های عقلانیت</em> به فارسی ساخته شده است. هر بخش از فصل در چهار ستون نمایش داده می‌شود تا بتوانید متن اصلی، ترجمه، خلاصهٔ انگلیسی و خلاصهٔ فارسی را کنار هم ببینید.</p>
   </section>
 
   <div class="panel prose">
     <h2>ستون‌ها</h2>
     <ul>
       <li><strong>۱. متن اصلی انگلیسی:</strong> متن کامل و بدون تغییرِ داستان، برای مقایسه و بازبینی.</li>
-      <li><strong>۲. خلاصهٔ انگلیسی:</strong> یک یا دو جمله که اتفاق اصلی همان بخش را به انگلیسی می‌گوید.</li>
-      <li><strong>۳. ترجمهٔ فارسی:</strong> ترجمهٔ نزدیک به متن، با حفظ لحن و اصطلاحات داستان.</li>
+      <li><strong>۲. ترجمهٔ فارسی:</strong> ترجمهٔ نزدیک به متن، با حفظ لحن و اصطلاحات داستان.</li>
+      <li><strong>۳. خلاصهٔ انگلیسی:</strong> یک یا دو جمله که اتفاق اصلی همان بخش را به انگلیسی می‌گوید.</li>
       <li><strong>۴. خلاصهٔ فارسی:</strong> همان بخش، فشرده و به فارسی.</li>
     </ul>
 
     <h2>روش کار</h2>
     <p>متن انگلیسی از آینهٔ حاشیه‌نویسی‌شدهٔ <a href="https://hpmor.info/" rel="noopener">hpmor.info</a> گرفته می‌شود و پاراگراف‌به‌پاراگراف نگهداری می‌شود. هر فصل به بخش‌های کوتاه تقسیم می‌شود تا جدول خوانا بماند. ترجمه‌ها در فایل‌های JSON کنار متن اصلی ذخیره می‌شوند و سایت با یک اسکریپت پایتون ساخته می‌شود.</p>
-    <p>در حال حاضر <strong>{fa_num(len(translated))} فصل از {fa_num(TOTAL)} فصل</strong> ترجمه شده است. برای فصل‌های ترجمه‌نشده، متن انگلیسی در همان سایت قابل خواندن است.</p>
+    <p>در حال حاضر <strong>{fa_num(done_count)} فصل از {fa_num(TOTAL)} فصل</strong> به فارسی خواندنی است: {fa_num(len(hand))} فصل ترجمهٔ دستی و {fa_num(len(machine))} فصل ترجمهٔ ماشینی که هنوز ویرایش انسانی نشده است.</p>
+
+    <h2>وضعیت ترجمه</h2>
+    <p>فصل‌های ۱ و ۲ با دقت و به‌صورت دستی ترجمه شده‌اند. بقیهٔ فصل‌ها با ابزار ترجمهٔ ماشینی آماده شده‌اند تا کل کتاب از همین حالا قابل خواندن باشد؛ این فصل‌ها در فهرست با برچسب «ترجمهٔ ماشینی» مشخص شده‌اند و در بالای هر صفحه هم یادآوری شده است. هر فصل ماشینی را می‌توان بعداً با ویرایش فایل <code>data/chNNN.json</code> به ترجمهٔ انسانی ارتقا داد.</p>
 
     <h2>مشارکت</h2>
     <p>مخزن پروژه در <a href="{REPO_URL}" rel="noopener">github.com/hamidmdh/hpmor</a> است. برای افزودن یا اصلاح ترجمه، فایل <code>data/chNNN.json</code> را ویرایش کنید و سپس <code>python3 scripts/build.py</code> را اجرا کنید. اسکریپت <code>python3 scripts/verify.py</code> پوشش پاراگراف‌ها و کامل بودن ترجمه را بررسی می‌کند.</p>
@@ -463,25 +484,30 @@ def build_about(titles: dict[str, str], translated: set[int]) -> str:
 
 def main() -> int:
     titles = load_titles()
-    translated: set[int] = set()
+    hand: set[int] = set()
+    machine: set[int] = set()
     built = 0
     for n in range(1, TOTAL + 1):
         src = load_source(n)
         if translation_path(n).exists():
             tr = load_json(translation_path(n))
             page = build_translated_chapter(n, src, tr, titles)
-            translated.add(n)
+            if tr.get("translation") == "machine":
+                machine.add(n)
+            else:
+                hand.add(n)
         else:
             page = build_source_chapter(n, src, titles)
         (ROOT / chapter_url(n)).write_text(page, encoding="utf-8")
         built += 1
 
-    (ROOT / "index.html").write_text(build_index(titles, translated), encoding="utf-8")
-    (ROOT / "about.html").write_text(build_about(titles, translated), encoding="utf-8")
+    (ROOT / "index.html").write_text(build_index(titles, hand, machine), encoding="utf-8")
+    (ROOT / "about.html").write_text(build_about(titles, hand, machine), encoding="utf-8")
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
     print(f"built {built} chapter pages, index.html, about.html")
-    print(f"translated chapters: {sorted(translated)} ({len(translated)}/{TOTAL})")
+    print(f"hand-translated: {sorted(hand)} ({len(hand)}/{TOTAL})")
+    print(f"machine-translated: {len(machine)}/{TOTAL}")
     return 0
 
 

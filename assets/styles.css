@@ -117,6 +117,12 @@ a:hover { text-decoration: underline; text-underline-offset: .18em; }
   border-radius: 0 var(--radius) var(--radius) 0;
   padding: .9rem 1.1rem; margin: 0 0 1.6rem; font-size: .95rem;
 }
+.machine-note {
+  border-inline-start-color: #8a6bbf;
+  background: #f7f3ff; color: #4b3d63;
+}
+.machine-note p { margin: 0 0 .5rem; }
+.machine-note p:last-child { margin-bottom: 0; }
 
 /* ---------- chapter list ---------- */
 .list-toolbar {
@@ -177,6 +183,7 @@ a:hover { text-decoration: underline; text-underline-offset: .18em; }
   font-weight: 700; line-height: 1.7;
 }
 .badge.done { color: #0b5a52; background: #dff3ee; }
+.badge.machine { color: #5b3d8a; background: #eee7fb; }
 .badge.pending { color: #8a5a12; background: #fdf0d7; }
 .chapter-card a.overlay { position: absolute; inset: 0; border-radius: inherit; }
 .chapter-card { position: relative; }

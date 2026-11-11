@@ -1,6 +1,9 @@
 # data/raw contains cached upstream HTML and is reproducible with fetch_chapters.py
 data/raw/
 
+# machine-translation memo cache; reproducible, not part of the site
+data/mt_cache/
+
 # Python
 __pycache__/
 *.pyc

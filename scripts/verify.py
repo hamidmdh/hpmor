@@ -34,6 +34,7 @@ def main() -> int:
         fail(f"titles_fa.json missing: {missing_titles}")
 
     translated = []
+    machine = []
     total_paragraphs = 0
     total_sections = 0
     for n in range(1, TOTAL + 1):
@@ -96,7 +97,12 @@ def main() -> int:
         html = page.read_text(encoding="utf-8")
         if 'dir="rtl"' not in html or "ترجمهٔ فارسی" not in html:
             fail(f"{page.name}: missing RTL translation column")
-        translated.append(n)
+        if tr.get("translation") == "machine":
+            if "ترجمهٔ ماشینی" not in html:
+                fail(f"{page.name}: machine translation is not labelled")
+            machine.append(n)
+        else:
+            translated.append(n)
         total_sections += len(sections)
 
     # Index sanity checks.
@@ -110,9 +116,12 @@ def main() -> int:
         fail("missing .nojekyll")
 
     print(f"OK: {TOTAL} source chapters, {total_paragraphs:,} English paragraphs")
-    print(f"OK: {len(translated)}/{TOTAL} translated chapters, {total_sections} sections")
-    if translated:
-        print(f"Translated: {', '.join(map(str, translated))}")
+    print(
+        f"OK: {len(translated) + len(machine)}/{TOTAL} translated chapters, "
+        f"{total_sections} sections"
+    )
+    print(f"Hand-translated: {', '.join(map(str, translated)) or 'none'}")
+    print(f"Machine-translated: {len(machine)} chapters")
     print(f"OK: index.html lists {TOTAL} chapters; about.html and .nojekyll present")
     return 0
 

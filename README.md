@@ -4,8 +4,8 @@ A static, four-column reading site for *Harry Potter and the Methods of
 Rationality* by Eliezer Yudkowsky:
 
 1. **Verbatim English** — the original paragraph, unchanged
-2. **English summary** — one or two sentences per section
-3. **Persian translation** — faithful, close to the original
+2. **Persian translation** — faithful, close to the original
+3. **English summary** — one or two sentences per section
 4. **Persian summary** — the same section, condensed in Persian
 
 The layout is inspired by
@@ -17,9 +17,13 @@ Live site: **https://hamidmdh.github.io/hpmor/**
 ## Status
 
 - English source: **all 122 chapters** saved in `data/chNNN_source.json`
-- Persian translation: **chapters 1–2** complete; chapters 3–122 pending
-- The index lists every chapter; untranslated chapters show the English text
-  and a notice until their translation is added
+- Persian translation: **all 122 chapters readable**
+  - chapters **1–2**: hand-translated, edited
+  - chapters **3–122**: machine-translated with Google Translate, clearly
+    labelled `"translation": "machine"` and marked in the index and on every
+    page as *needing editing*
+- The index can filter by hand-translated, machine-translated, and English-only
+  chapters
 
 Progress is shown automatically on the home page.
 
@@ -36,6 +40,7 @@ data/chNNN.json            Persian translation for one chapter (optional)
 data/titles_fa.json        Persian titles for all 122 chapters
 scripts/fetch_chapters.py  download English source
 scripts/scaffold_chapter.py create an empty translation skeleton
+scripts/machine_translate.py machine-translate chapters (resumable)
 scripts/build.py           build all HTML pages
 scripts/verify.py          validate data and translation coverage
 scripts/package.py         copy publishable files to _site/
@@ -60,6 +65,11 @@ python3 scripts/fetch_chapters.py 1 2 3    # selected chapters
 # Start a new chapter translation
 python3 scripts/scaffold_chapter.py 2
 # then edit data/ch002.json, run build + verify
+
+# Machine-translate the remaining chapters (resumable, cached)
+python3 scripts/machine_translate.py --all
+python3 scripts/machine_translate.py 3        # one chapter
+python3 scripts/machine_translate.py 3-20     # a range
 ```
 
 No third-party Python packages are required (standard library only).
@@ -86,6 +96,11 @@ summaries, and one Persian translation per paragraph:
   ]
 }
 ```
+
+Machine-generated files also carry `"translation": "machine"`. The site uses
+that field to show a warning banner and a distinct badge. To promote a chapter
+to a hand translation, edit the text and remove the field (or set it to
+`"hand"`).
 
 Rules enforced by `scripts/verify.py`:
 
