@@ -12,17 +12,12 @@ The layout is inspired by
 [hkalbasi/reading-helper](https://github.com/hkalbasi/reading-helper), but the
 Persian translation and summaries here are produced for this project.
 
-Live site (after Pages is enabled): `https://hamidmdh.github.io/hpmor/`
-
-> GitHub Pages on a **private** repository requires a paid GitHub plan. On the
-> free plan, make the repository public or deploy `_site/` to another static
-> host (Cloudflare Pages, Netlify, etc.). The included workflow skips itself on
-> private repos unless the repository variable `ENABLE_PAGES` is set to `true`.
+Live site: **https://hamidmdh.github.io/hpmor/**
 
 ## Status
 
 - English source: **all 122 chapters** saved in `data/chNNN_source.json`
-- Persian translation: **chapter 1** complete; chapters 2–122 pending
+- Persian translation: **chapters 1–2** complete; chapters 3–122 pending
 - The index lists every chapter; untranslated chapters show the English text
   and a notice until their translation is added
 
