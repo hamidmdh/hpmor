@@ -8,9 +8,6 @@ Rationality* by Eliezer Yudkowsky:
 3. **English summary** — one or two sentences per section
 4. **Persian summary** — the same section, condensed in Persian
 
-The layout is inspired by
-[hkalbasi/reading-helper](https://github.com/hkalbasi/reading-helper), but the
-Persian translation and summaries here are produced for this project.
 
 Live site: **https://hamidmdh.github.io/hpmor/**
 
