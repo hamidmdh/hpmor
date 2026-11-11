@@ -24,21 +24,41 @@
 </header>
 <main class="wrap">
   <div class="chapter-head">
-    <p class="kicker">فصل ۹۹ از ۱۲۲ · در انتظار ترجمه</p>
+    <p class="kicker">فصل ۹۹ از ۱۲۲ · ترجمهٔ ماشینی — نیازمند ویرایش</p>
     <h1>نقش‌ها، پیامد</h1>
     <p class="latin">Chapter 99: Roles, Aftermath</p>
     <div class="chapter-meta">
       <span>۱ پاراگراف</span>
+      <span>۱ بخش</span>
       <a href="https://hpmor.info/chapter/99/" rel="noopener">متن اصلی در hpmor.info ↗</a>
       <a href="index.html">همهٔ فصل‌ها</a>
     </div>
   </div>
-  <div class="source-note">
-    <p><strong>ترجمهٔ فارسی این فصل هنوز آماده نشده است.</strong> برای اینکه سایت از همان ابتدا کامل باشد، متن اصلی انگلیسی در ادامه آمده است. ترجمه‌ها به‌ترتیب فصل اضافه می‌شوند.</p>
-    <p>اگر می‌خواهید در ترجمه کمک کنید، به <a href="https://github.com/hamidmdh/hpmor" rel="noopener">مخزن GitHub</a> سر بزنید.</p>
-  </div>
-  <div class="table-wrap" style="padding:.4rem 1rem">
-    <table class="source"><tr id="p16931"><td class="n">۱۶۹۳۱</td><td class="en" dir="ltr" lang="en"><p>Ten days later, the first dead unicorn was found in the Forbidden Forest.</p></td></tr></table>
+  <div class="notice machine-note">
+      <p><strong>این فصل با ترجمهٔ ماشینی آماده شده و هنوز ویرایش انسانی نشده است.</strong> متن برای خواندن و مقایسه در دسترس است، اما ممکن است برخی جمله‌ها ناهموار یا نادرست باشند. فصل‌های ۱ و ۲ ترجمهٔ دستی هستند.</p>
+      <p>برای اصلاح، فایل <code>data/ch099.json</code> را در <a href="https://github.com/hamidmdh/hpmor" rel="noopener">مخزن GitHub</a> ویرایش کنید و عبارت <code>"translation": "machine"</code> را بردارید.</p>
+    </div>
+  <div class="toolbar" role="group" aria-label="انتخاب ستون‌ها">
+  <span class="toolbar-label">نمایش:</span>
+  <button class="mode-btn" type="button" data-mode="all" aria-pressed="true">همهٔ ستون‌ها</button>
+  <button class="mode-btn" type="button" data-mode="fa" aria-pressed="false">فقط فارسی</button>
+  <button class="mode-btn" type="button" data-mode="en" aria-pressed="false">فقط انگلیسی</button>
+  <span class="toolbar-label" style="margin-inline-start:auto">کلیک روی شمارهٔ بخش برای پیوند مستقیم</span>
+</div>
+  <div class="table-wrap">
+    <table class="parallel">
+      <colgroup><col class="c-sec"><col class="c-en"><col class="c-fa"><col class="c-sum"><col class="c-fasum"></colgroup>
+      <thead><tr>
+        <th scope="col">§</th>
+        <th scope="col">۱. متن اصلی انگلیسی</th>
+        <th scope="col" dir="rtl" lang="fa">۲. ترجمهٔ فارسی</th>
+        <th scope="col">۳. خلاصهٔ انگلیسی</th>
+        <th scope="col" dir="rtl" lang="fa">۴. خلاصهٔ فارسی</th>
+      </tr></thead>
+      <tbody>
+        <tr id="sec-1"><td class="sec" data-label="بخش"><a class="sec-id" href="#sec-1">§۱</a></td><td class="en verbatim col-en" dir="ltr" lang="en" data-label="۱. متن اصلی انگلیسی"><p>Ten days later, the first dead unicorn was found in the Forbidden Forest.</p></td><td class="fa trans col-fa" dir="rtl" lang="fa" data-label="۲. ترجمهٔ فارسی"><p>ده روز بعد، اولین تک شاخ مرده در جنگل ممنوعه پیدا شد.</p></td><td class="en summary col-en" dir="ltr" lang="en" data-label="۳. خلاصهٔ انگلیسی"><p>Ten days later, the first dead unicorn was found in the Forbidden Forest.</p></td><td class="fa summary col-fa" dir="rtl" lang="fa" data-label="۴. خلاصهٔ فارسی"><p>ده روز بعد، اولین تک شاخ مرده در جنگل ممنوعه پیدا شد.</p></td></tr>
+      </tbody>
+    </table>
   </div>
   <nav class="chapter-nav" aria-label="فصل‌های مجاور"><a class="prev" href="chapter98.html"><span class="dir">فصل قبل · فصل ۹۸</span><span class="t">نقش‌ها، پایانی</span></a><a class="next" href="chapter100.html"><span class="dir">فصل بعد · فصل ۱۰۰</span><span class="t">اقدامات احتیاطی، بخش ۱</span></a></nav>
 </main>
@@ -49,6 +69,24 @@
     <p class="en">English source mirror: <a href="https://hpmor.info/" rel="noopener">hpmor.info</a> · Code and translations: <a href="https://github.com/hamidmdh/hpmor" rel="noopener">github.com/hamidmdh/hpmor</a></p>
   </div>
 </footer>
-
+<script>
+(function () {
+  var body = document.body;
+  var buttons = document.querySelectorAll('.mode-btn');
+  var saved = null;
+  try { saved = localStorage.getItem('hpmor-column-mode'); } catch (e) {}
+  function apply(mode) {
+    body.dataset.mode = mode;
+    buttons.forEach(function (b) {
+      b.setAttribute('aria-pressed', String(b.dataset.mode === mode));
+    });
+    try { localStorage.setItem('hpmor-column-mode', mode); } catch (e) {}
+  }
+  if (saved) apply(saved);
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () { apply(b.dataset.mode); });
+  });
+})();
+</script>
 </body>
 </html>
