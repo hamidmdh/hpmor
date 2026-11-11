@@ -1,0 +1,1540 @@
+{
+ "chapter": 25,
+ "title": "Hold Off on Proposing Solutions",
+ "source": "https://hpmor.info/chapter/25/",
+ "paragraphs": [
+  {
+   "n": 4671,
+   "local": 1,
+   "html": "To seek out new life, and J. K. Rowling!",
+   "text": "To seek out new life, and J. K. Rowling!",
+   "break_before": false
+  },
+  {
+   "n": 4672,
+   "local": 2,
+   "html": "Note: Since the science in this story is usually all correct, I include a warning that in Ch. 22-25 Harry overlooks many possibilities, the most important of which is that there are lots of magical genes but they're all on one chromosome (which wouldn't happen naturally, but the chromosome might have been engineered). In this case, the inheritance pattern would be Mendelian, but the magical chromosome could still be degraded by chromosomal crossover with its nonmagical homologue. (Harry has read about Mendel and chromosomes in science history books, but he hasn't studied enough actual genetics to know about chromosomal crossover. Hey, he's only eleven.) However, although a modern science journal would find a <em>lot</em> more nits to pick, everything Harry presents as strong evidence is in fact strong evidence - the other possibilities are <em>improbable</em>.",
+   "text": "Note: Since the science in this story is usually all correct, I include a warning that in Ch. 22-25 Harry overlooks many possibilities, the most important of which is that there are lots of magical genes but they're all on one chromosome (which wouldn't happen naturally, but the chromosome might have been engineered). In this case, the inheritance pattern would be Mendelian, but the magical chromosome could still be degraded by chromosomal crossover with its nonmagical homologue. (Harry has read about Mendel and chromosomes in science history books, but he hasn't studied enough actual genetics to know about chromosomal crossover. Hey, he's only eleven.) However, although a modern science journal would find a lot more nits to pick, everything Harry presents as strong evidence is in fact strong evidence - the other possibilities are improbable.",
+   "break_before": false
+  },
+  {
+   "n": 4673,
+   "local": 3,
+   "html": "<em>Act 2:</em>",
+   "text": "Act 2:",
+   "break_before": true
+  },
+  {
+   "n": 4674,
+   "local": 4,
+   "html": "(The sun shone brilliantly into the Great Hall from the enchanted sky-ceiling above, illuminating the students as though they sat beneath the naked sky, gleaming from their plates and bowls, as, refreshed by a night's sleep, they inhaled breakfast in preparation for whatever plans they'd made for their Sunday.)",
+   "text": "(The sun shone brilliantly into the Great Hall from the enchanted sky-ceiling above, illuminating the students as though they sat beneath the naked sky, gleaming from their plates and bowls, as, refreshed by a night's sleep, they inhaled breakfast in preparation for whatever plans they'd made for their Sunday.)",
+   "break_before": false
+  },
+  {
+   "n": 4675,
+   "local": 5,
+   "html": "So. There was only one thing that made you a wizard.",
+   "text": "So. There was only one thing that made you a wizard.",
+   "break_before": false
+  },
+  {
+   "n": 4676,
+   "local": 6,
+   "html": "That wasn't surprising, when you thought about it. What DNA mostly did was tell ribosomes how to chain amino acids together into proteins. Conventional physics seemed quite capable of describing amino acids, and no matter how many amino acids you chained together, conventional physics said you would never, ever get magic out of it.",
+   "text": "That wasn't surprising, when you thought about it. What DNA mostly did was tell ribosomes how to chain amino acids together into proteins. Conventional physics seemed quite capable of describing amino acids, and no matter how many amino acids you chained together, conventional physics said you would never, ever get magic out of it.",
+   "break_before": false
+  },
+  {
+   "n": 4677,
+   "local": 7,
+   "html": "And yet magic seemed to be hereditary, following DNA.",
+   "text": "And yet magic seemed to be hereditary, following DNA.",
+   "break_before": false
+  },
+  {
+   "n": 4678,
+   "local": 8,
+   "html": "Then that probably <em>wasn't</em> because the DNA was chaining together nonmagical amino acids into magical proteins.",
+   "text": "Then that probably wasn't because the DNA was chaining together nonmagical amino acids into magical proteins.",
+   "break_before": false
+  },
+  {
+   "n": 4679,
+   "local": 9,
+   "html": "Rather the key DNA sequence did not, of itself, give you your magic at all.",
+   "text": "Rather the key DNA sequence did not, of itself, give you your magic at all.",
+   "break_before": false
+  },
+  {
+   "n": 4680,
+   "local": 10,
+   "html": "Magic came from somewhere else.",
+   "text": "Magic came from somewhere else.",
+   "break_before": false
+  },
+  {
+   "n": 4681,
+   "local": 11,
+   "html": "(At the Ravenclaw table there was one boy who was staring off into space, as his right hand automatically spooned some unimportant food into his mouth from whatever was in front of him. You probably could have substituted a pile of dirt and he wouldn't have noticed.)",
+   "text": "(At the Ravenclaw table there was one boy who was staring off into space, as his right hand automatically spooned some unimportant food into his mouth from whatever was in front of him. You probably could have substituted a pile of dirt and he wouldn't have noticed.)",
+   "break_before": false
+  },
+  {
+   "n": 4682,
+   "local": 12,
+   "html": "And for some reason the Source of Magic was paying attention to a particular DNA marker among individuals who were ordinary ape-descended humans in every other way.",
+   "text": "And for some reason the Source of Magic was paying attention to a particular DNA marker among individuals who were ordinary ape-descended humans in every other way.",
+   "break_before": false
+  },
+  {
+   "n": 4683,
+   "local": 13,
+   "html": "(Actually there were quite a lot of boys and girls staring off into space. It was the <em>Ravenclaw</em> table, after all.)",
+   "text": "(Actually there were quite a lot of boys and girls staring off into space. It was the Ravenclaw table, after all.)",
+   "break_before": false
+  },
+  {
+   "n": 4684,
+   "local": 14,
+   "html": "There were other lines of logic leading to the same conclusion. <em>Complex</em> machinery was always universal within a sexually reproducing species. If gene B relied on gene A, then A had to be useful on its own, and rise to near- universality in the gene pool on its own, before B would be useful often enough to confer a fitness advantage. Then once B was universal you would get a variant A* that relied on B, and then C that relied on A* and B, then B* that relied on C, until the whole machine would fall apart if you removed a single piece. But it all had to happen <em>incrementally</em> - evolution never looked ahead, evolution would never start promoting B in <em>preparation</em> for A becoming universal later. Evolution was the simple historical fact that, whichever organisms did in fact have the most children, their genes would in fact be more frequent in the next generation. So each piece of a complex machine had to become nearly universal before other pieces in the machine would evolve to depend on its presence.",
+   "text": "There were other lines of logic leading to the same conclusion. Complex machinery was always universal within a sexually reproducing species. If gene B relied on gene A, then A had to be useful on its own, and rise to near- universality in the gene pool on its own, before B would be useful often enough to confer a fitness advantage. Then once B was universal you would get a variant A* that relied on B, and then C that relied on A* and B, then B* that relied on C, until the whole machine would fall apart if you removed a single piece. But it all had to happen incrementally - evolution never looked ahead, evolution would never start promoting B in preparation for A becoming universal later. Evolution was the simple historical fact that, whichever organisms did in fact have the most children, their genes would in fact be more frequent in the next generation. So each piece of a complex machine had to become nearly universal before other pieces in the machine would evolve to depend on its presence.",
+   "break_before": false
+  },
+  {
+   "n": 4685,
+   "local": 15,
+   "html": "So <em>complex, interdependent</em> machinery, the powerful sophisticated protein machines that drove life, was always <em>universal</em> within a sexually reproducing species - except for a small handful of <em>non</em>-interdependent <em>variants</em> that were being selected on at any given time, as further complexity was slowly laid down. It was why all human beings had the same underlying brain design, the same emotions, the same facial expressions wired up to those emotions; those adaptations were complex, so they <em>had</em> to be universal.",
+   "text": "So complex, interdependent machinery, the powerful sophisticated protein machines that drove life, was always universal within a sexually reproducing species - except for a small handful of non-interdependent variants that were being selected on at any given time, as further complexity was slowly laid down. It was why all human beings had the same underlying brain design, the same emotions, the same facial expressions wired up to those emotions; those adaptations were complex, so they had to be universal.",
+   "break_before": false
+  },
+  {
+   "n": 4686,
+   "local": 16,
+   "html": "If magic had been like that, a big complex adaptation with lots of necessary genes, then a wizard mating with a Muggle would have resulted in a child with only half those parts and half the machine wouldn't do much. And so there would have been no Muggleborns, ever. Even if all the pieces had individually gotten into the Muggle gene pool, they'd never reassemble all in one place to form a wizard.",
+   "text": "If magic had been like that, a big complex adaptation with lots of necessary genes, then a wizard mating with a Muggle would have resulted in a child with only half those parts and half the machine wouldn't do much. And so there would have been no Muggleborns, ever. Even if all the pieces had individually gotten into the Muggle gene pool, they'd never reassemble all in one place to form a wizard.",
+   "break_before": false
+  },
+  {
+   "n": 4687,
+   "local": 17,
+   "html": "There hadn't been some genetically isolated valley of humans that had stumbled onto an evolutionary pathway leading to sophisticated magical sections of the brain. That complex genetic machinery, if wizards interbred with Muggles, would never have reassembled into Muggleborns.",
+   "text": "There hadn't been some genetically isolated valley of humans that had stumbled onto an evolutionary pathway leading to sophisticated magical sections of the brain. That complex genetic machinery, if wizards interbred with Muggles, would never have reassembled into Muggleborns.",
+   "break_before": false
+  },
+  {
+   "n": 4688,
+   "local": 18,
+   "html": "So however your genes made you a wizard, it <em>wasn't</em> by containing the blueprints for complicated machinery.",
+   "text": "So however your genes made you a wizard, it wasn't by containing the blueprints for complicated machinery.",
+   "break_before": false
+  },
+  {
+   "n": 4689,
+   "local": 19,
+   "html": "That was the other reason Harry had guessed the Mendelian pattern would be there. If magical genes weren't complicated, why would there be more than one?",
+   "text": "That was the other reason Harry had guessed the Mendelian pattern would be there. If magical genes weren't complicated, why would there be more than one?",
+   "break_before": false
+  },
+  {
+   "n": 4690,
+   "local": 20,
+   "html": "And yet magic itself seemed pretty complicated. A door-locking spell would prevent the door from opening <em>and</em> prevent you from Transfiguring the hinges <em>and</em> resist <em>Finite Incantatem</em> and <em>Alohomora</em>. Many elements all pointing in the same direction: you could call that goal- orientation, or in simpler language, purposefulness.",
+   "text": "And yet magic itself seemed pretty complicated. A door-locking spell would prevent the door from opening and prevent you from Transfiguring the hinges and resist Finite Incantatem and Alohomora. Many elements all pointing in the same direction: you could call that goal- orientation, or in simpler language, purposefulness.",
+   "break_before": false
+  },
+  {
+   "n": 4691,
+   "local": 21,
+   "html": "There were only two known causes of purposeful complexity. Natural selection, which produced things like butterflies. And intelligent engineering, which produced things like cars.",
+   "text": "There were only two known causes of purposeful complexity. Natural selection, which produced things like butterflies. And intelligent engineering, which produced things like cars.",
+   "break_before": false
+  },
+  {
+   "n": 4692,
+   "local": 22,
+   "html": "Magic didn't seem like something that had self-replicated into existence. Spells were purposefully complicated, but not, like a butterfly, complicated for the purpose of making copies of themselves. Spells were complicated for the purpose of serving their user, like a car.",
+   "text": "Magic didn't seem like something that had self-replicated into existence. Spells were purposefully complicated, but not, like a butterfly, complicated for the purpose of making copies of themselves. Spells were complicated for the purpose of serving their user, like a car.",
+   "break_before": false
+  },
+  {
+   "n": 4693,
+   "local": 23,
+   "html": "Some intelligent engineer, then, had created the Source of Magic, and told it to pay attention to a particular DNA marker.",
+   "text": "Some intelligent engineer, then, had created the Source of Magic, and told it to pay attention to a particular DNA marker.",
+   "break_before": false
+  },
+  {
+   "n": 4694,
+   "local": 24,
+   "html": "The obvious next thought was that this had something to do with \"Atlantis\".",
+   "text": "The obvious next thought was that this had something to do with \"Atlantis\".",
+   "break_before": false
+  },
+  {
+   "n": 4695,
+   "local": 25,
+   "html": "Harry had asked Hermione about that earlier - on the train to Hogwarts, after hearing Draco say it - and so far as she knew, nothing more was known than the word itself.",
+   "text": "Harry had asked Hermione about that earlier - on the train to Hogwarts, after hearing Draco say it - and so far as she knew, nothing more was known than the word itself.",
+   "break_before": false
+  },
+  {
+   "n": 4696,
+   "local": 26,
+   "html": "It might have been pure legend. But it was also plausible enough that a civilization of magic-users, especially one from <em>before</em> the Interdict of Merlin, would have managed to blow itself up.",
+   "text": "It might have been pure legend. But it was also plausible enough that a civilization of magic-users, especially one from before the Interdict of Merlin, would have managed to blow itself up.",
+   "break_before": false
+  },
+  {
+   "n": 4697,
+   "local": 27,
+   "html": "The line of reasoning continued: Atlantis had been an isolated civilization that had somehow brought into being the Source of Magic, and told it to serve only people with the Atlantean genetic marker, the blood of Atlantis.",
+   "text": "The line of reasoning continued: Atlantis had been an isolated civilization that had somehow brought into being the Source of Magic, and told it to serve only people with the Atlantean genetic marker, the blood of Atlantis.",
+   "break_before": false
+  },
+  {
+   "n": 4698,
+   "local": 28,
+   "html": "And by similar logic: The words a wizard spoke, the wand movements, those weren't complicated enough of themselves to build up the spell effects from scratch - not the way that the three billion base pairs of human DNA actually <em>were</em> complicated enough to build a human body from scratch, not the way that computer programs took up thousands of bytes of data.",
+   "text": "And by similar logic: The words a wizard spoke, the wand movements, those weren't complicated enough of themselves to build up the spell effects from scratch - not the way that the three billion base pairs of human DNA actually were complicated enough to build a human body from scratch, not the way that computer programs took up thousands of bytes of data.",
+   "break_before": false
+  },
+  {
+   "n": 4699,
+   "local": 29,
+   "html": "So the words and wand movements were just triggers, levers pulled on some hidden and more complex machine. Buttons, not blueprints.",
+   "text": "So the words and wand movements were just triggers, levers pulled on some hidden and more complex machine. Buttons, not blueprints.",
+   "break_before": false
+  },
+  {
+   "n": 4700,
+   "local": 30,
+   "html": "And just like a computer program wouldn't compile if you made a single spelling error, the Source of Magic wouldn't respond to you unless you cast your spells in exactly the right way.",
+   "text": "And just like a computer program wouldn't compile if you made a single spelling error, the Source of Magic wouldn't respond to you unless you cast your spells in exactly the right way.",
+   "break_before": false
+  },
+  {
+   "n": 4701,
+   "local": 31,
+   "html": "The chain of logic was inexorable.",
+   "text": "The chain of logic was inexorable.",
+   "break_before": false
+  },
+  {
+   "n": 4702,
+   "local": 32,
+   "html": "And it led inevitably toward a single final conclusion.",
+   "text": "And it led inevitably toward a single final conclusion.",
+   "break_before": false
+  },
+  {
+   "n": 4703,
+   "local": 33,
+   "html": "The ancient forebears of the wizards, thousands of years earlier, had told the Source of Magic to only levitate things if you said...",
+   "text": "The ancient forebears of the wizards, thousands of years earlier, had told the Source of Magic to only levitate things if you said...",
+   "break_before": false
+  },
+  {
+   "n": 4704,
+   "local": 34,
+   "html": "'Wingardium Leviosa.'",
+   "text": "'Wingardium Leviosa.'",
+   "break_before": false
+  },
+  {
+   "n": 4705,
+   "local": 35,
+   "html": "Harry slumped over at the breakfast table, resting his forehead wearily on his right hand.",
+   "text": "Harry slumped over at the breakfast table, resting his forehead wearily on his right hand.",
+   "break_before": false
+  },
+  {
+   "n": 4706,
+   "local": 36,
+   "html": "There was a story from the dawn days of Artificial Intelligence - back when they were just starting out and no one had yet realized the problem would be difficult - about a professor who had delegated one of his grad students to solve the problem of computer vision.",
+   "text": "There was a story from the dawn days of Artificial Intelligence - back when they were just starting out and no one had yet realized the problem would be difficult - about a professor who had delegated one of his grad students to solve the problem of computer vision.",
+   "break_before": false
+  },
+  {
+   "n": 4707,
+   "local": 37,
+   "html": "Harry was beginning to understand how that grad student must have felt.",
+   "text": "Harry was beginning to understand how that grad student must have felt.",
+   "break_before": false
+  },
+  {
+   "n": 4708,
+   "local": 38,
+   "html": "This could take a while.",
+   "text": "This could take a while.",
+   "break_before": false
+  },
+  {
+   "n": 4709,
+   "local": 39,
+   "html": "Why did it take more effort to cast the Alohomora spell, if it was just like pressing a button?",
+   "text": "Why did it take more effort to cast the Alohomora spell, if it was just like pressing a button?",
+   "break_before": false
+  },
+  {
+   "n": 4710,
+   "local": 40,
+   "html": "Who'd been silly enough to build in a spell for <em>Avada Kedavra</em> that could only be cast using hatred?",
+   "text": "Who'd been silly enough to build in a spell for Avada Kedavra that could only be cast using hatred?",
+   "break_before": false
+  },
+  {
+   "n": 4711,
+   "local": 41,
+   "html": "Why did wordless Transfiguration require you to make a complete mental separation between the concept of form and concept of material?",
+   "text": "Why did wordless Transfiguration require you to make a complete mental separation between the concept of form and concept of material?",
+   "break_before": false
+  },
+  {
+   "n": 4712,
+   "local": 42,
+   "html": "Harry might not be done with this problem by the time he graduated Hogwarts. He could still be working on this problem when he was <em>thirty years old.</em> Hermione had been right, Harry <em>hadn't</em> realized that on a gut level before. He'd just given an inspiring speech about determination.",
+   "text": "Harry might not be done with this problem by the time he graduated Hogwarts. He could still be working on this problem when he was thirty years old. Hermione had been right, Harry hadn't realized that on a gut level before. He'd just given an inspiring speech about determination.",
+   "break_before": false
+  },
+  {
+   "n": 4713,
+   "local": 43,
+   "html": "Harry's mind briefly considered whether to get on a gut level that he might never solve the problem at all, then decided that would be taking things much too far.",
+   "text": "Harry's mind briefly considered whether to get on a gut level that he might never solve the problem at all, then decided that would be taking things much too far.",
+   "break_before": false
+  },
+  {
+   "n": 4714,
+   "local": 44,
+   "html": "Besides, so long as he could get as far as immortality in the first few decades, he'd be fine.",
+   "text": "Besides, so long as he could get as far as immortality in the first few decades, he'd be fine.",
+   "break_before": false
+  },
+  {
+   "n": 4715,
+   "local": 45,
+   "html": "What method had the Dark Lord used? Come to think, the fact that the Dark Lord had somehow managed to survive the death of his first body was almost <em>infinitely</em> more important than the fact that he'd tried to take over magical Britain -",
+   "text": "What method had the Dark Lord used? Come to think, the fact that the Dark Lord had somehow managed to survive the death of his first body was almost infinitely more important than the fact that he'd tried to take over magical Britain -",
+   "break_before": false
+  },
+  {
+   "n": 4716,
+   "local": 46,
+   "html": "\"Excuse me,\" said an expected voice from behind him in very unexpected tones. \"At your convenience, Mr. Malfoy requests the favor of a conversation.\"",
+   "text": "\"Excuse me,\" said an expected voice from behind him in very unexpected tones. \"At your convenience, Mr. Malfoy requests the favor of a conversation.\"",
+   "break_before": false
+  },
+  {
+   "n": 4717,
+   "local": 47,
+   "html": "Harry did not choke on his breakfast cereal. Instead he turned around and beheld Mr. Crabbe.",
+   "text": "Harry did not choke on his breakfast cereal. Instead he turned around and beheld Mr. Crabbe.",
+   "break_before": false
+  },
+  {
+   "n": 4718,
+   "local": 48,
+   "html": "\"Excuse <em>me,</em>\" said Harry. \"Don't you mean 'Da boss wants ta talk wid youse?'\"",
+   "text": "\"Excuse me,\" said Harry. \"Don't you mean 'Da boss wants ta talk wid youse?'\"",
+   "break_before": false
+  },
+  {
+   "n": 4719,
+   "local": 49,
+   "html": "Mr. Crabbe didn't look happy. \"Mr. Malfoy instructed me to speak properly.\"",
+   "text": "Mr. Crabbe didn't look happy. \"Mr. Malfoy instructed me to speak properly.\"",
+   "break_before": false
+  },
+  {
+   "n": 4720,
+   "local": 50,
+   "html": "\"I can't hear you,\" Harry said. \"You're not speaking properly.\" He turned back to his bowl of tiny blue crystal snowflakes and deliberately ate another spoonful.",
+   "text": "\"I can't hear you,\" Harry said. \"You're not speaking properly.\" He turned back to his bowl of tiny blue crystal snowflakes and deliberately ate another spoonful.",
+   "break_before": false
+  },
+  {
+   "n": 4721,
+   "local": 51,
+   "html": "\"Da boss wants to talk with youse,\" came a threatening voice from behind him. \"Ya'd better come see him if ya know what's good for ya.\"",
+   "text": "\"Da boss wants to talk with youse,\" came a threatening voice from behind him. \"Ya'd better come see him if ya know what's good for ya.\"",
+   "break_before": false
+  },
+  {
+   "n": 4722,
+   "local": 52,
+   "html": "There. <em>Now</em> everything was going according to plan.",
+   "text": "There. Now everything was going according to plan.",
+   "break_before": false
+  },
+  {
+   "n": 4723,
+   "local": 53,
+   "html": "<em>Act 1:</em>",
+   "text": "Act 1:",
+   "break_before": true
+  },
+  {
+   "n": 4724,
+   "local": 54,
+   "html": "\"A <em>reason?</em> \" said the old wizard. He restrained the fury from his face. The boy before him had been the victim, and certainly did not need to be frightened any further. \"There is <em>nothing</em> that can excuse -\"",
+   "text": "\"A reason? \" said the old wizard. He restrained the fury from his face. The boy before him had been the victim, and certainly did not need to be frightened any further. \"There is nothing that can excuse -\"",
+   "break_before": false
+  },
+  {
+   "n": 4725,
+   "local": 55,
+   "html": "\"What I did to him was worse.\"",
+   "text": "\"What I did to him was worse.\"",
+   "break_before": false
+  },
+  {
+   "n": 4726,
+   "local": 56,
+   "html": "The old wizard stiffened in sudden horror. \"Harry, <em>what have you done?</em> \"",
+   "text": "The old wizard stiffened in sudden horror. \"Harry, what have you done? \"",
+   "break_before": false
+  },
+  {
+   "n": 4727,
+   "local": 57,
+   "html": "\"I tricked Draco into believing that I'd tricked him into participating in a ritual that sacrificed his belief in blood purism. And that meant he couldn't be a Death Eater when he grew up. He'd lost everything, Headmaster.\"",
+   "text": "\"I tricked Draco into believing that I'd tricked him into participating in a ritual that sacrificed his belief in blood purism. And that meant he couldn't be a Death Eater when he grew up. He'd lost everything, Headmaster.\"",
+   "break_before": false
+  },
+  {
+   "n": 4728,
+   "local": 58,
+   "html": "There was a long quiet in the office, broken only by the tiny puffs and whistles of the fiddly things, which after enough time had come to seem like silence.",
+   "text": "There was a long quiet in the office, broken only by the tiny puffs and whistles of the fiddly things, which after enough time had come to seem like silence.",
+   "break_before": false
+  },
+  {
+   "n": 4729,
+   "local": 59,
+   "html": "\"Dear me,\" said the old wizard, \"I <em>do</em> feel silly. And <em>here</em> I was expecting you might try to redeem the heir of Malfoy by, say, <em>showing him true friendship and kindness</em>.\"",
+   "text": "\"Dear me,\" said the old wizard, \"I do feel silly. And here I was expecting you might try to redeem the heir of Malfoy by, say, showing him true friendship and kindness.\"",
+   "break_before": false
+  },
+  {
+   "n": 4730,
+   "local": 60,
+   "html": "\"<em>Ha!</em> Yeah, like <em>that</em> would have worked.\"",
+   "text": "\"Ha! Yeah, like that would have worked.\"",
+   "break_before": false
+  },
+  {
+   "n": 4731,
+   "local": 61,
+   "html": "The old wizard sighed. This was taking it too far. \"Tell me, Harry. Did it even <em>occur</em> to you that there was something <em>incongruous</em> about setting out to redeem someone through lies and trickery?\"",
+   "text": "The old wizard sighed. This was taking it too far. \"Tell me, Harry. Did it even occur to you that there was something incongruous about setting out to redeem someone through lies and trickery?\"",
+   "break_before": false
+  },
+  {
+   "n": 4732,
+   "local": 62,
+   "html": "\"I did it without telling any direct lies, and since we're talking about Draco Malfoy here, I think the word you're looking for is <em>congruous</em>.\" The boy looked rather smug.",
+   "text": "\"I did it without telling any direct lies, and since we're talking about Draco Malfoy here, I think the word you're looking for is congruous.\" The boy looked rather smug.",
+   "break_before": false
+  },
+  {
+   "n": 4733,
+   "local": 63,
+   "html": "The old wizard shook his head in despair. \"And <em>this</em> is the hero. We're all doomed.\"",
+   "text": "The old wizard shook his head in despair. \"And this is the hero. We're all doomed.\"",
+   "break_before": false
+  },
+  {
+   "n": 4734,
+   "local": 64,
+   "html": "<em>Act 5:</em>",
+   "text": "Act 5:",
+   "break_before": true
+  },
+  {
+   "n": 4735,
+   "local": 65,
+   "html": "The long, narrow tunnel of rough stone, unlit except by a child's wand, seemed to stretch on for miles.",
+   "text": "The long, narrow tunnel of rough stone, unlit except by a child's wand, seemed to stretch on for miles.",
+   "break_before": false
+  },
+  {
+   "n": 4736,
+   "local": 66,
+   "html": "The reason for this was simple: It <em>did</em> stretch on for miles.",
+   "text": "The reason for this was simple: It did stretch on for miles.",
+   "break_before": false
+  },
+  {
+   "n": 4737,
+   "local": 67,
+   "html": "The time was three in the morning, and Fred and George were starting the long way down the secret passage that led from a statue of a one-eyed witch in Hogwarts, to the cellar of the Honeydukes candyshop in Hogsmeade.",
+   "text": "The time was three in the morning, and Fred and George were starting the long way down the secret passage that led from a statue of a one-eyed witch in Hogwarts, to the cellar of the Honeydukes candyshop in Hogsmeade.",
+   "break_before": false
+  },
+  {
+   "n": 4738,
+   "local": 68,
+   "html": "\"How's it doing?\" said Fred in a low voice.",
+   "text": "\"How's it doing?\" said Fred in a low voice.",
+   "break_before": false
+  },
+  {
+   "n": 4739,
+   "local": 69,
+   "html": "(Not that there'd be anyone listening, but there was something odd about talking in a normal voice when you were going through a secret passage.)",
+   "text": "(Not that there'd be anyone listening, but there was something odd about talking in a normal voice when you were going through a secret passage.)",
+   "break_before": false
+  },
+  {
+   "n": 4740,
+   "local": 70,
+   "html": "\"Still on the fritz,\" said George.",
+   "text": "\"Still on the fritz,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 4741,
+   "local": 71,
+   "html": "\"Both, or -\"",
+   "text": "\"Both, or -\"",
+   "break_before": false
+  },
+  {
+   "n": 4742,
+   "local": 72,
+   "html": "\"Intermittent one fixed itself again. Other one's same as ever.\"",
+   "text": "\"Intermittent one fixed itself again. Other one's same as ever.\"",
+   "break_before": false
+  },
+  {
+   "n": 4743,
+   "local": 73,
+   "html": "The Map was an extraordinarily powerful artifact, capable of tracking every sentient being on the school grounds, in real time, by name. Almost certainly, it had been created during the original raising of Hogwarts. It was <em>not good</em> that errors were starting to pop up. Chances were that no one except Dumbledore could fix it if it was broken.",
+   "text": "The Map was an extraordinarily powerful artifact, capable of tracking every sentient being on the school grounds, in real time, by name. Almost certainly, it had been created during the original raising of Hogwarts. It was not good that errors were starting to pop up. Chances were that no one except Dumbledore could fix it if it was broken.",
+   "break_before": false
+  },
+  {
+   "n": 4744,
+   "local": 74,
+   "html": "And the Weasley twins weren't about to turn the Map over to Dumbledore. It would have been an unforgivable insult to the Marauders - the four unknowns who'd managed to steal part of the <em>Hogwarts security system</em>, something probably forged by Salazar Slytherin himself, and twist it into <em>a tool for student pranking</em>.",
+   "text": "And the Weasley twins weren't about to turn the Map over to Dumbledore. It would have been an unforgivable insult to the Marauders - the four unknowns who'd managed to steal part of the Hogwarts security system, something probably forged by Salazar Slytherin himself, and twist it into a tool for student pranking.",
+   "break_before": false
+  },
+  {
+   "n": 4745,
+   "local": 75,
+   "html": "Some might have considered it disrespectful.",
+   "text": "Some might have considered it disrespectful.",
+   "break_before": false
+  },
+  {
+   "n": 4746,
+   "local": 76,
+   "html": "Some might have considered it criminal.",
+   "text": "Some might have considered it criminal.",
+   "break_before": false
+  },
+  {
+   "n": 4747,
+   "local": 77,
+   "html": "The Weasley twins firmly believed that if Godric Gryffindor had been around to see it, he would have approved.",
+   "text": "The Weasley twins firmly believed that if Godric Gryffindor had been around to see it, he would have approved.",
+   "break_before": false
+  },
+  {
+   "n": 4748,
+   "local": 78,
+   "html": "The brothers walked on and on and on, mostly in silence. The Weasley twins talked to each other when they were thinking through new pranks, or when one of them knew something the other didn't. Otherwise there wasn't much point. If they already knew the same information, they tended to think the same thoughts and make the same decisions.",
+   "text": "The brothers walked on and on and on, mostly in silence. The Weasley twins talked to each other when they were thinking through new pranks, or when one of them knew something the other didn't. Otherwise there wasn't much point. If they already knew the same information, they tended to think the same thoughts and make the same decisions.",
+   "break_before": false
+  },
+  {
+   "n": 4749,
+   "local": 79,
+   "html": "(Back in the old days, whenever magical identical twins were born, it had been the custom to kill one of them after birth.)",
+   "text": "(Back in the old days, whenever magical identical twins were born, it had been the custom to kill one of them after birth.)",
+   "break_before": false
+  },
+  {
+   "n": 4750,
+   "local": 80,
+   "html": "In time, Fred and George clambered out into a dusty cellar, strewn with barrels and racks of strange ingredients.",
+   "text": "In time, Fred and George clambered out into a dusty cellar, strewn with barrels and racks of strange ingredients.",
+   "break_before": false
+  },
+  {
+   "n": 4751,
+   "local": 81,
+   "html": "Fred and George waited. It wouldn't have been polite to do anything else.",
+   "text": "Fred and George waited. It wouldn't have been polite to do anything else.",
+   "break_before": false
+  },
+  {
+   "n": 4752,
+   "local": 82,
+   "html": "Before too long a thin old man in black pajamas clambered down the steps that led into the cellar, yawning. \"Hello, boys,\" said Ambrosius Flume. \"I wasn't expecting you tonight. Out of stock already?\"",
+   "text": "Before too long a thin old man in black pajamas clambered down the steps that led into the cellar, yawning. \"Hello, boys,\" said Ambrosius Flume. \"I wasn't expecting you tonight. Out of stock already?\"",
+   "break_before": false
+  },
+  {
+   "n": 4753,
+   "local": 83,
+   "html": "Fred and George decided that Fred would speak.",
+   "text": "Fred and George decided that Fred would speak.",
+   "break_before": false
+  },
+  {
+   "n": 4754,
+   "local": 84,
+   "html": "\"Not exactly, Mr. Flume,\" said Fred. \"We were hoping you could help us with something considerably more... interesting.\"",
+   "text": "\"Not exactly, Mr. Flume,\" said Fred. \"We were hoping you could help us with something considerably more... interesting.\"",
+   "break_before": false
+  },
+  {
+   "n": 4755,
+   "local": 85,
+   "html": "\"Now, boys,\" said Flume, sounding severe, \"I hope you didn't wake me up just so I could tell you again that I'm not selling you any merchandise that could get you into real trouble. Not until you're sixteen, anyways -\"",
+   "text": "\"Now, boys,\" said Flume, sounding severe, \"I hope you didn't wake me up just so I could tell you again that I'm not selling you any merchandise that could get you into real trouble. Not until you're sixteen, anyways -\"",
+   "break_before": false
+  },
+  {
+   "n": 4756,
+   "local": 86,
+   "html": "George drew forth an item from his robes, and wordlessly passed it to Flume. \"Have you seen this?\" said Fred.",
+   "text": "George drew forth an item from his robes, and wordlessly passed it to Flume. \"Have you seen this?\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 4757,
+   "local": 87,
+   "html": "Flume looked at yesterday's edition of the <em>Daily Prophet</em> and nodded, scowling. The headline on the paper read THE NEXT DARK LORD? and showed a young boy which some student's camera had managed to catch in an uncharacteristically cold and grim expression.",
+   "text": "Flume looked at yesterday's edition of the Daily Prophet and nodded, scowling. The headline on the paper read THE NEXT DARK LORD? and showed a young boy which some student's camera had managed to catch in an uncharacteristically cold and grim expression.",
+   "break_before": false
+  },
+  {
+   "n": 4758,
+   "local": 88,
+   "html": "\"I can't believe that Malfoy,\" Flume snapped. \"Going after the boy when he's only eleven! The man ought to be ground up and used to make chocolates!\"",
+   "text": "\"I can't believe that Malfoy,\" Flume snapped. \"Going after the boy when he's only eleven! The man ought to be ground up and used to make chocolates!\"",
+   "break_before": false
+  },
+  {
+   "n": 4759,
+   "local": 89,
+   "html": "Fred and George blinked in unison. <em>Malfoy</em> was behind Rita Skeeter? Harry Potter hadn't warned them about that... which surely meant that Harry didn't know. He never would have brought them in if he did...",
+   "text": "Fred and George blinked in unison. Malfoy was behind Rita Skeeter? Harry Potter hadn't warned them about that... which surely meant that Harry didn't know. He never would have brought them in if he did...",
+   "break_before": false
+  },
+  {
+   "n": 4760,
+   "local": 90,
+   "html": "Fred and George exchanged glances. Well, Harry didn't <em>need</em> to know until after the job was done.",
+   "text": "Fred and George exchanged glances. Well, Harry didn't need to know until after the job was done.",
+   "break_before": false
+  },
+  {
+   "n": 4761,
+   "local": 91,
+   "html": "\"Mr. Flume,\" Fred said quietly, \"the Boy-Who-Lived needs your help.\"",
+   "text": "\"Mr. Flume,\" Fred said quietly, \"the Boy-Who-Lived needs your help.\"",
+   "break_before": false
+  },
+  {
+   "n": 4762,
+   "local": 92,
+   "html": "Flume looked at them both.",
+   "text": "Flume looked at them both.",
+   "break_before": false
+  },
+  {
+   "n": 4763,
+   "local": 93,
+   "html": "Then he let out his breath with a sigh.",
+   "text": "Then he let out his breath with a sigh.",
+   "break_before": false
+  },
+  {
+   "n": 4764,
+   "local": 94,
+   "html": "\"All right,\" said Flume, \"what do you want?\"",
+   "text": "\"All right,\" said Flume, \"what do you want?\"",
+   "break_before": false
+  },
+  {
+   "n": 4765,
+   "local": 95,
+   "html": "<em>Act 6:</em>",
+   "text": "Act 6:",
+   "break_before": true
+  },
+  {
+   "n": 4766,
+   "local": 96,
+   "html": "When Rita Skeeter was intent on a tasty prey, she didn't tend to notice the scurrying ants who constituted the rest of the universe, which was how she almost bumped into the balding young man who'd stepped into her pathway.",
+   "text": "When Rita Skeeter was intent on a tasty prey, she didn't tend to notice the scurrying ants who constituted the rest of the universe, which was how she almost bumped into the balding young man who'd stepped into her pathway.",
+   "break_before": false
+  },
+  {
+   "n": 4767,
+   "local": 97,
+   "html": "\"Miss Skeeter,\" said the man, sounding rather severe and cold for someone whose face looked that young. \"Fancy running into you here.\"",
+   "text": "\"Miss Skeeter,\" said the man, sounding rather severe and cold for someone whose face looked that young. \"Fancy running into you here.\"",
+   "break_before": false
+  },
+  {
+   "n": 4768,
+   "local": 98,
+   "html": "\"Out of my way, buster!\" snapped Rita, and tried to step around him.",
+   "text": "\"Out of my way, buster!\" snapped Rita, and tried to step around him.",
+   "break_before": false
+  },
+  {
+   "n": 4769,
+   "local": 99,
+   "html": "The man in her pathway matched the movement so perfectly that it was like neither of them had moved at all, just stood still while the street shifted around them.",
+   "text": "The man in her pathway matched the movement so perfectly that it was like neither of them had moved at all, just stood still while the street shifted around them.",
+   "break_before": false
+  },
+  {
+   "n": 4770,
+   "local": 100,
+   "html": "Rita's eyes narrowed. \"Who do you think you are?\"",
+   "text": "Rita's eyes narrowed. \"Who do you think you are?\"",
+   "break_before": false
+  },
+  {
+   "n": 4771,
+   "local": 101,
+   "html": "\"How very foolish,\" the man said dryly. \"It would have been wise to memorize the face of the disguised Death Eater training Harry Potter to be the next Dark Lord. After all,\" a thin smile, \"<em>that</em> certainly sounds like someone you wouldn't want to run into on the street, especially after doing a hatchet job on him in the newspaper.\"",
+   "text": "\"How very foolish,\" the man said dryly. \"It would have been wise to memorize the face of the disguised Death Eater training Harry Potter to be the next Dark Lord. After all,\" a thin smile, \"that certainly sounds like someone you wouldn't want to run into on the street, especially after doing a hatchet job on him in the newspaper.\"",
+   "break_before": false
+  },
+  {
+   "n": 4772,
+   "local": 102,
+   "html": "Rita took a moment to place the reference. <em>This</em> was Quirinus Quirrell? He looked too young and too old at the same time; his face, if it relaxed from its severe and condescending pose, would belong to someone in his late thirties. And his hair was already falling out? Couldn't he afford a healer?",
+   "text": "Rita took a moment to place the reference. This was Quirinus Quirrell? He looked too young and too old at the same time; his face, if it relaxed from its severe and condescending pose, would belong to someone in his late thirties. And his hair was already falling out? Couldn't he afford a healer?",
+   "break_before": false
+  },
+  {
+   "n": 4773,
+   "local": 103,
+   "html": "No, that wasn't important, she had a time and a place and a beetle to be. She'd just received an anonymous tip about Madam Bones making time with one of her younger assistants. That would be worth quite a bonus if she could manage to verify it, Bones was high on the hit list. The tipster had said that Bones and her young assistant were due to eat lunch in a special room at Mary's Place, a very popular room for certain purposes; a room which, she'd found, was secure against all listening devices, but not proof against a beautiful blue beetle nestled up against one wall...",
+   "text": "No, that wasn't important, she had a time and a place and a beetle to be. She'd just received an anonymous tip about Madam Bones making time with one of her younger assistants. That would be worth quite a bonus if she could manage to verify it, Bones was high on the hit list. The tipster had said that Bones and her young assistant were due to eat lunch in a special room at Mary's Place, a very popular room for certain purposes; a room which, she'd found, was secure against all listening devices, but not proof against a beautiful blue beetle nestled up against one wall...",
+   "break_before": false
+  },
+  {
+   "n": 4774,
+   "local": 104,
+   "html": "\"Out of my <em>way!</em> \" Rita said, and tried to push Quirrell from her path. Quirrell's arm brushed her own, deflecting, and Rita staggered as the thrust went into the thin air.",
+   "text": "\"Out of my way! \" Rita said, and tried to push Quirrell from her path. Quirrell's arm brushed her own, deflecting, and Rita staggered as the thrust went into the thin air.",
+   "break_before": false
+  },
+  {
+   "n": 4775,
+   "local": 105,
+   "html": "Quirrell pulled up the sleeve of his left robe, showing his left arm. \"Observe,\" said Quirrell, \"no Dark Mark. I would like your paper to publish a retraction.\"",
+   "text": "Quirrell pulled up the sleeve of his left robe, showing his left arm. \"Observe,\" said Quirrell, \"no Dark Mark. I would like your paper to publish a retraction.\"",
+   "break_before": false
+  },
+  {
+   "n": 4776,
+   "local": 106,
+   "html": "Rita let out an incredulous laugh. Of course the man wasn't a real Death Eater. The paper wouldn't have published it if he was. \"Forget it, buster. Now take a hike.\"",
+   "text": "Rita let out an incredulous laugh. Of course the man wasn't a real Death Eater. The paper wouldn't have published it if he was. \"Forget it, buster. Now take a hike.\"",
+   "break_before": false
+  },
+  {
+   "n": 4777,
+   "local": 107,
+   "html": "Quirrell stared at her for a moment.",
+   "text": "Quirrell stared at her for a moment.",
+   "break_before": false
+  },
+  {
+   "n": 4778,
+   "local": 108,
+   "html": "Then he smiled.",
+   "text": "Then he smiled.",
+   "break_before": false
+  },
+  {
+   "n": 4779,
+   "local": 109,
+   "html": "\"Miss Skeeter,\" said Quirrell, \"I had hoped to find some lever that would prove persuasive. Yet I find that I cannot deny myself the pleasure of simply crushing you.\"",
+   "text": "\"Miss Skeeter,\" said Quirrell, \"I had hoped to find some lever that would prove persuasive. Yet I find that I cannot deny myself the pleasure of simply crushing you.\"",
+   "break_before": false
+  },
+  {
+   "n": 4780,
+   "local": 110,
+   "html": "\"It's been tried. Now get out of my way, buster, or I'll find some Aurors and have you arrested for obstruction of journalism.\"",
+   "text": "\"It's been tried. Now get out of my way, buster, or I'll find some Aurors and have you arrested for obstruction of journalism.\"",
+   "break_before": false
+  },
+  {
+   "n": 4781,
+   "local": 111,
+   "html": "Quirrell swept her a small bow, and then walked past. \"Goodbye, Rita Skeeter,\" said his voice from behind her.",
+   "text": "Quirrell swept her a small bow, and then walked past. \"Goodbye, Rita Skeeter,\" said his voice from behind her.",
+   "break_before": false
+  },
+  {
+   "n": 4782,
+   "local": 112,
+   "html": "As Rita bulled on ahead, she noted in the back of her mind that the man was whistling a tune as he walked away.",
+   "text": "As Rita bulled on ahead, she noted in the back of her mind that the man was whistling a tune as he walked away.",
+   "break_before": false
+  },
+  {
+   "n": 4783,
+   "local": 113,
+   "html": "Like <em>that</em> would scare her.",
+   "text": "Like that would scare her.",
+   "break_before": false
+  },
+  {
+   "n": 4784,
+   "local": 114,
+   "html": "<em>Act 4:</em>",
+   "text": "Act 4:",
+   "break_before": true
+  },
+  {
+   "n": 4785,
+   "local": 115,
+   "html": "\"Sorry, count me out,\" said Lee Jordan. \"I'm more the giant spider type.\"",
+   "text": "\"Sorry, count me out,\" said Lee Jordan. \"I'm more the giant spider type.\"",
+   "break_before": false
+  },
+  {
+   "n": 4786,
+   "local": 116,
+   "html": "The Boy-Who-Lived had said that he had <em>important</em> work for the Order of Chaos, something serious and secret, more significant and difficult than their usual run of pranks.",
+   "text": "The Boy-Who-Lived had said that he had important work for the Order of Chaos, something serious and secret, more significant and difficult than their usual run of pranks.",
+   "break_before": false
+  },
+  {
+   "n": 4787,
+   "local": 117,
+   "html": "And then Harry Potter had launched into a speech that was inspiring, yet vague. A speech to the effect that Fred and George and Lee had tremendous potential if they could just learn to be <em>weirder.</em> To make people's lives <em>surreal,</em> instead of just surprising them with the equivalents of buckets of water propped above doors. (Fred and George had exchanged interested looks, they'd never thought of that one.) Harry Potter had invoked a picture of the prank they'd pulled on Neville - which, Harry had mentioned with some remorse, the Sorting Hat had chewed him out on - but which must have made Neville <em>doubt his own sanity.</em> For Neville it would have felt like being suddenly transported into an alternate universe. The same way everyone else had felt when they'd seen Snape apologize. That was the <em>true power of pranking.</em>",
+   "text": "And then Harry Potter had launched into a speech that was inspiring, yet vague. A speech to the effect that Fred and George and Lee had tremendous potential if they could just learn to be weirder. To make people's lives surreal, instead of just surprising them with the equivalents of buckets of water propped above doors. (Fred and George had exchanged interested looks, they'd never thought of that one.) Harry Potter had invoked a picture of the prank they'd pulled on Neville - which, Harry had mentioned with some remorse, the Sorting Hat had chewed him out on - but which must have made Neville doubt his own sanity. For Neville it would have felt like being suddenly transported into an alternate universe. The same way everyone else had felt when they'd seen Snape apologize. That was the true power of pranking.",
+   "break_before": false
+  },
+  {
+   "n": 4788,
+   "local": 118,
+   "html": "<em>Are you with me?</em> Harry Potter had cried, and Lee Jordan had answered no.",
+   "text": "Are you with me? Harry Potter had cried, and Lee Jordan had answered no.",
+   "break_before": false
+  },
+  {
+   "n": 4789,
+   "local": 119,
+   "html": "\"Count us <em>in</em>,\" said Fred, or possibly George, for there was no doubt that Godric Gryffindor would have said yes.",
+   "text": "\"Count us in,\" said Fred, or possibly George, for there was no doubt that Godric Gryffindor would have said yes.",
+   "break_before": false
+  },
+  {
+   "n": 4790,
+   "local": 120,
+   "html": "Lee Jordan gave a regretful grin, and stood up, and left the deserted and Quieted corridor where the four members of the Order of Chaos had met and sat down in a conspiratorial circle.",
+   "text": "Lee Jordan gave a regretful grin, and stood up, and left the deserted and Quieted corridor where the four members of the Order of Chaos had met and sat down in a conspiratorial circle.",
+   "break_before": false
+  },
+  {
+   "n": 4791,
+   "local": 121,
+   "html": "The three members of the Order of Chaos got down to business.",
+   "text": "The three members of the Order of Chaos got down to business.",
+   "break_before": false
+  },
+  {
+   "n": 4792,
+   "local": 122,
+   "html": "(It wasn't <em>that</em> sad. Fred and George would still work with Lee on giant spider pranks, same as ever. They'd only started calling it the Order of Chaos in order to recruit Harry Potter, after Ron had told them about Harry being weird and evil, and Fred and George had decided to save Harry by showing him true friendship and kindness. Thankfully this no longer seemed necessary - although they weren't <em>quite</em> sure about that...)",
+   "text": "(It wasn't that sad. Fred and George would still work with Lee on giant spider pranks, same as ever. They'd only started calling it the Order of Chaos in order to recruit Harry Potter, after Ron had told them about Harry being weird and evil, and Fred and George had decided to save Harry by showing him true friendship and kindness. Thankfully this no longer seemed necessary - although they weren't quite sure about that...)",
+   "break_before": false
+  },
+  {
+   "n": 4793,
+   "local": 123,
+   "html": "\"So,\" said one of the twins, \"what's this about?\"",
+   "text": "\"So,\" said one of the twins, \"what's this about?\"",
+   "break_before": false
+  },
+  {
+   "n": 4794,
+   "local": 124,
+   "html": "\"Rita Skeeter,\" said Harry. \"Do you know who she is?\"",
+   "text": "\"Rita Skeeter,\" said Harry. \"Do you know who she is?\"",
+   "break_before": false
+  },
+  {
+   "n": 4795,
+   "local": 125,
+   "html": "Fred and George nodded, frowning.",
+   "text": "Fred and George nodded, frowning.",
+   "break_before": false
+  },
+  {
+   "n": 4796,
+   "local": 126,
+   "html": "\"She's been asking questions about me.\"",
+   "text": "\"She's been asking questions about me.\"",
+   "break_before": false
+  },
+  {
+   "n": 4797,
+   "local": 127,
+   "html": "That wasn't good news.",
+   "text": "That wasn't good news.",
+   "break_before": false
+  },
+  {
+   "n": 4798,
+   "local": 128,
+   "html": "\"Can you guess what I want you to do?\"",
+   "text": "\"Can you guess what I want you to do?\"",
+   "break_before": false
+  },
+  {
+   "n": 4799,
+   "local": 129,
+   "html": "Fred and George looked at each other, a bit puzzled. \"You want us to slip her some of our more interesting candies?\"",
+   "text": "Fred and George looked at each other, a bit puzzled. \"You want us to slip her some of our more interesting candies?\"",
+   "break_before": false
+  },
+  {
+   "n": 4800,
+   "local": 130,
+   "html": "\"No,\" said Harry. \"No, no, <em>no!</em> That's giant-spider thinking! Come on, what would <em>you</em> do if you heard that Rita Skeeter was looking for rumors about <em>you?</em> \"",
+   "text": "\"No,\" said Harry. \"No, no, no! That's giant-spider thinking! Come on, what would you do if you heard that Rita Skeeter was looking for rumors about you? \"",
+   "break_before": false
+  },
+  {
+   "n": 4801,
+   "local": 131,
+   "html": "That made it obvious.",
+   "text": "That made it obvious.",
+   "break_before": false
+  },
+  {
+   "n": 4802,
+   "local": 132,
+   "html": "Grins slowly started on the faces of Fred and George.",
+   "text": "Grins slowly started on the faces of Fred and George.",
+   "break_before": false
+  },
+  {
+   "n": 4803,
+   "local": 133,
+   "html": "\"Start rumors about ourselves,\" they replied.",
+   "text": "\"Start rumors about ourselves,\" they replied.",
+   "break_before": false
+  },
+  {
+   "n": 4804,
+   "local": 134,
+   "html": "\"<em>Exactly,</em>\" said Harry, grinning widely. \"But these can't be just <em>any</em> rumors. I want to teach people never to believe what the newspaper says about Harry Potter, any more than Muggles believe what the newspaper says about Elvis. At first I just thought about flooding Rita Skeeter with so many rumors that she wouldn't know what to believe, but then she'll just cherry-pick the ones that sound plausible and bad. So what I want you to do is create a fake story about me, and get Rita Skeeter to believe it somehow. But it has to be something that, afterward, everyone will <em>know</em> was fake. We want to fool Rita Skeeter and her editors, and <em>afterward</em> have the proof come out that it was false. And of course - given that those are the requirements - the story has to be as <em>ridiculous</em> as it can possibly be, and still get printed. Do you understand what I want you to do?\"",
+   "text": "\"Exactly,\" said Harry, grinning widely. \"But these can't be just any rumors. I want to teach people never to believe what the newspaper says about Harry Potter, any more than Muggles believe what the newspaper says about Elvis. At first I just thought about flooding Rita Skeeter with so many rumors that she wouldn't know what to believe, but then she'll just cherry-pick the ones that sound plausible and bad. So what I want you to do is create a fake story about me, and get Rita Skeeter to believe it somehow. But it has to be something that, afterward, everyone will know was fake. We want to fool Rita Skeeter and her editors, and afterward have the proof come out that it was false. And of course - given that those are the requirements - the story has to be as ridiculous as it can possibly be, and still get printed. Do you understand what I want you to do?\"",
+   "break_before": false
+  },
+  {
+   "n": 4805,
+   "local": 135,
+   "html": "\"Not exactly...\" Fred or George said slowly. \"You want us to <em>invent</em> the story?\"",
+   "text": "\"Not exactly...\" Fred or George said slowly. \"You want us to invent the story?\"",
+   "break_before": false
+  },
+  {
+   "n": 4806,
+   "local": 136,
+   "html": "\"I want you to do <em>all</em> of it,\" Harry Potter said. \"I'm sort of busy right now, plus I want to be able to say truthfully that I had no idea what was coming. Surprise me.\"",
+   "text": "\"I want you to do all of it,\" Harry Potter said. \"I'm sort of busy right now, plus I want to be able to say truthfully that I had no idea what was coming. Surprise me.\"",
+   "break_before": false
+  },
+  {
+   "n": 4807,
+   "local": 137,
+   "html": "For a moment there was a very evil grin on the faces of Fred and George.",
+   "text": "For a moment there was a very evil grin on the faces of Fred and George.",
+   "break_before": false
+  },
+  {
+   "n": 4808,
+   "local": 138,
+   "html": "Then they turned serious. \"But Harry, we don't really know how to do anything like that -\"",
+   "text": "Then they turned serious. \"But Harry, we don't really know how to do anything like that -\"",
+   "break_before": false
+  },
+  {
+   "n": 4809,
+   "local": 139,
+   "html": "\"So figure it out,\" Harry said. \"I have confidence in you. Not <em>total</em> confidence, but if you <em>can't</em> do it, <em>tell</em> me that, and I'll try someone else, or do it myself. If you have a really good idea - for both the ridiculous story, and how to convince Rita Skeeter and her editors to print it - then you can go ahead and do it. But don't go with something mediocre. If you can't come up with something <em>awesome</em>, just say so.\"",
+   "text": "\"So figure it out,\" Harry said. \"I have confidence in you. Not total confidence, but if you can't do it, tell me that, and I'll try someone else, or do it myself. If you have a really good idea - for both the ridiculous story, and how to convince Rita Skeeter and her editors to print it - then you can go ahead and do it. But don't go with something mediocre. If you can't come up with something awesome, just say so.\"",
+   "break_before": false
+  },
+  {
+   "n": 4810,
+   "local": 140,
+   "html": "Fred and George exchanged worried glances.",
+   "text": "Fred and George exchanged worried glances.",
+   "break_before": false
+  },
+  {
+   "n": 4811,
+   "local": 141,
+   "html": "\"I can't think of anything,\" said George.",
+   "text": "\"I can't think of anything,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 4812,
+   "local": 142,
+   "html": "\"Neither can I,\" said Fred. \"Sorry.\"",
+   "text": "\"Neither can I,\" said Fred. \"Sorry.\"",
+   "break_before": false
+  },
+  {
+   "n": 4813,
+   "local": 143,
+   "html": "Harry stared at them.",
+   "text": "Harry stared at them.",
+   "break_before": false
+  },
+  {
+   "n": 4814,
+   "local": 144,
+   "html": "And then Harry began to explain how you went about thinking of things.",
+   "text": "And then Harry began to explain how you went about thinking of things.",
+   "break_before": false
+  },
+  {
+   "n": 4815,
+   "local": 145,
+   "html": "It had been known to take longer than two seconds, said Harry.",
+   "text": "It had been known to take longer than two seconds, said Harry.",
+   "break_before": false
+  },
+  {
+   "n": 4816,
+   "local": 146,
+   "html": "You <em>never</em> called <em>any</em> question impossible, said Harry, until you had taken an actual clock and thought about it for five minutes, by the motion of the minute hand. Not five minutes metaphorically, five minutes by a physical clock.",
+   "text": "You never called any question impossible, said Harry, until you had taken an actual clock and thought about it for five minutes, by the motion of the minute hand. Not five minutes metaphorically, five minutes by a physical clock.",
+   "break_before": false
+  },
+  {
+   "n": 4817,
+   "local": 147,
+   "html": "And <em>furthermore,</em> Harry said, his voice emphatic and his right hand thumping hard on the floor, you did <em>not</em> start out immediately looking for solutions.",
+   "text": "And furthermore, Harry said, his voice emphatic and his right hand thumping hard on the floor, you did not start out immediately looking for solutions.",
+   "break_before": false
+  },
+  {
+   "n": 4818,
+   "local": 148,
+   "html": "Harry then launched into an explanation of a test done by someone named Norman Maier, who was something called an organizational psychologist, and who'd asked two different sets of problem-solving groups to tackle a problem.",
+   "text": "Harry then launched into an explanation of a test done by someone named Norman Maier, who was something called an organizational psychologist, and who'd asked two different sets of problem-solving groups to tackle a problem.",
+   "break_before": false
+  },
+  {
+   "n": 4819,
+   "local": 149,
+   "html": "The problem, Harry said, had involved three employees doing three jobs. The junior employee wanted to just do the easiest job. The senior employee wanted to rotate between jobs, to avoid boredom. An efficiency expert had recommended giving the junior person the easiest job and the senior person the hardest job, which would be 20% more productive.",
+   "text": "The problem, Harry said, had involved three employees doing three jobs. The junior employee wanted to just do the easiest job. The senior employee wanted to rotate between jobs, to avoid boredom. An efficiency expert had recommended giving the junior person the easiest job and the senior person the hardest job, which would be 20% more productive.",
+   "break_before": false
+  },
+  {
+   "n": 4820,
+   "local": 150,
+   "html": "<em>One</em> set of problem-solving groups had been given the instruction \"Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any.\"",
+   "text": "One set of problem-solving groups had been given the instruction \"Do not propose solutions until the problem has been discussed as thoroughly as possible without suggesting any.\"",
+   "break_before": false
+  },
+  {
+   "n": 4821,
+   "local": 151,
+   "html": "The other set of problem-solving groups had been given no instructions. And those people had done the natural thing, and reacted to the presence of a problem by proposing solutions. And people had gotten attached to those solutions, and started fighting about them, and arguing about the relative importance of freedom versus efficiency and so on.",
+   "text": "The other set of problem-solving groups had been given no instructions. And those people had done the natural thing, and reacted to the presence of a problem by proposing solutions. And people had gotten attached to those solutions, and started fighting about them, and arguing about the relative importance of freedom versus efficiency and so on.",
+   "break_before": false
+  },
+  {
+   "n": 4822,
+   "local": 152,
+   "html": "The first set of problem-solving groups, the ones given instructions to <em>discuss</em> the problem first and <em>then</em> solve it, had been far more likely to hit upon the solution of letting the junior employee keep the easiest job and rotating the other two people between the other two jobs, for what the expert's data said would be a 19% improvement.",
+   "text": "The first set of problem-solving groups, the ones given instructions to discuss the problem first and then solve it, had been far more likely to hit upon the solution of letting the junior employee keep the easiest job and rotating the other two people between the other two jobs, for what the expert's data said would be a 19% improvement.",
+   "break_before": false
+  },
+  {
+   "n": 4823,
+   "local": 153,
+   "html": "Starting out by looking for solutions was taking things <em>entirely out of order.</em> Like starting a meal with dessert, only <em>bad.</em>",
+   "text": "Starting out by looking for solutions was taking things entirely out of order. Like starting a meal with dessert, only bad.",
+   "break_before": false
+  },
+  {
+   "n": 4824,
+   "local": 154,
+   "html": "(Harry also quoted someone named Robyn Dawes as saying that the harder a problem was, the more likely people were to try to solve it immediately.)",
+   "text": "(Harry also quoted someone named Robyn Dawes as saying that the harder a problem was, the more likely people were to try to solve it immediately.)",
+   "break_before": false
+  },
+  {
+   "n": 4825,
+   "local": 155,
+   "html": "So Harry was going to leave this problem to Fred and George, and they would discuss all the aspects of it and brainstorm anything they thought might be remotely relevant. And they shouldn't try to come up with an actual solution until they'd finished doing that, unless of course they <em>did</em> happen to randomly think of something awesome, in which case they could write it down for afterward and then go back to thinking. And he didn't want to hear back from them about any so-called <em>failures to think of anything</em> for at least a week. Some people spent <em>decades</em> trying to think of things.",
+   "text": "So Harry was going to leave this problem to Fred and George, and they would discuss all the aspects of it and brainstorm anything they thought might be remotely relevant. And they shouldn't try to come up with an actual solution until they'd finished doing that, unless of course they did happen to randomly think of something awesome, in which case they could write it down for afterward and then go back to thinking. And he didn't want to hear back from them about any so-called failures to think of anything for at least a week. Some people spent decades trying to think of things.",
+   "break_before": false
+  },
+  {
+   "n": 4826,
+   "local": 156,
+   "html": "\"Any questions?\" said Harry.",
+   "text": "\"Any questions?\" said Harry.",
+   "break_before": false
+  },
+  {
+   "n": 4827,
+   "local": 157,
+   "html": "Fred and George stared at each other.",
+   "text": "Fred and George stared at each other.",
+   "break_before": false
+  },
+  {
+   "n": 4828,
+   "local": 158,
+   "html": "\"I can't think of any.\"",
+   "text": "\"I can't think of any.\"",
+   "break_before": false
+  },
+  {
+   "n": 4829,
+   "local": 159,
+   "html": "\"Neither can I.\"",
+   "text": "\"Neither can I.\"",
+   "break_before": false
+  },
+  {
+   "n": 4830,
+   "local": 160,
+   "html": "Harry coughed gently. \"You didn't ask about your budget.\"",
+   "text": "Harry coughed gently. \"You didn't ask about your budget.\"",
+   "break_before": false
+  },
+  {
+   "n": 4831,
+   "local": 161,
+   "html": "<em>Budget?</em> they thought.",
+   "text": "Budget? they thought.",
+   "break_before": false
+  },
+  {
+   "n": 4832,
+   "local": 162,
+   "html": "\"I could just tell you the amount,\" Harry said. \"But I think <em>this</em> will be more <em>inspiring</em>.\"",
+   "text": "\"I could just tell you the amount,\" Harry said. \"But I think this will be more inspiring.\"",
+   "break_before": false
+  },
+  {
+   "n": 4833,
+   "local": 163,
+   "html": "Harry's hands dipped into his robe, and brought forth -",
+   "text": "Harry's hands dipped into his robe, and brought forth -",
+   "break_before": false
+  },
+  {
+   "n": 4834,
+   "local": 164,
+   "html": "Fred and George almost fell over, even though they were sitting down.",
+   "text": "Fred and George almost fell over, even though they were sitting down.",
+   "break_before": false
+  },
+  {
+   "n": 4835,
+   "local": 165,
+   "html": "\"Don't spend it for the sake of spending it,\" Harry said. On the stone floor in front of them gleamed an absolutely ridiculous amount of money. \"Only spend it if awesomeness requires; and what awesomeness does require, don't hesitate to spend. If there's anything left over, just return it afterward, I trust you. Oh, and you get ten percent of what's there, regardless of how much you end up spending -\"",
+   "text": "\"Don't spend it for the sake of spending it,\" Harry said. On the stone floor in front of them gleamed an absolutely ridiculous amount of money. \"Only spend it if awesomeness requires; and what awesomeness does require, don't hesitate to spend. If there's anything left over, just return it afterward, I trust you. Oh, and you get ten percent of what's there, regardless of how much you end up spending -\"",
+   "break_before": false
+  },
+  {
+   "n": 4836,
+   "local": 166,
+   "html": "\"We <em>can't!</em> \" blurted one of the twins. \"We don't accept money for that sort of thing!\"",
+   "text": "\"We can't! \" blurted one of the twins. \"We don't accept money for that sort of thing!\"",
+   "break_before": false
+  },
+  {
+   "n": 4837,
+   "local": 167,
+   "html": "(The twins never took money for doing anything illegal. Unknown to Ambrosius Flume, they were selling all of his merchandise at zero percent markup. Fred and George wanted to be able to testify - under Veritaserum if necessary - that they had not been profiteering criminals, just providing a public service.)",
+   "text": "(The twins never took money for doing anything illegal. Unknown to Ambrosius Flume, they were selling all of his merchandise at zero percent markup. Fred and George wanted to be able to testify - under Veritaserum if necessary - that they had not been profiteering criminals, just providing a public service.)",
+   "break_before": false
+  },
+  {
+   "n": 4838,
+   "local": 168,
+   "html": "Harry frowned at them. \"But I'm asking you to put in some real work here. A grownup would get paid for doing something like this, and it would <em>still</em> count as a favor for a friend. You can't just hire people for this sort of thing.\"",
+   "text": "Harry frowned at them. \"But I'm asking you to put in some real work here. A grownup would get paid for doing something like this, and it would still count as a favor for a friend. You can't just hire people for this sort of thing.\"",
+   "break_before": false
+  },
+  {
+   "n": 4839,
+   "local": 169,
+   "html": "Fred and George shook their heads.",
+   "text": "Fred and George shook their heads.",
+   "break_before": false
+  },
+  {
+   "n": 4840,
+   "local": 170,
+   "html": "\"Fine,\" Harry said. \"I'll just get you expensive Christmas presents, and if you try returning them to me I'll burn them. Now you don't even <em>know</em> how much I'm going to spend on you, except, obviously, that it's going to be more than if you'd just taken the money. And I'm going to buy you those presents <em>anyway,</em> so think about <em>that</em> before you tell me <em>you can't think of anything awesome</em>.\"",
+   "text": "\"Fine,\" Harry said. \"I'll just get you expensive Christmas presents, and if you try returning them to me I'll burn them. Now you don't even know how much I'm going to spend on you, except, obviously, that it's going to be more than if you'd just taken the money. And I'm going to buy you those presents anyway, so think about that before you tell me you can't think of anything awesome.\"",
+   "break_before": false
+  },
+  {
+   "n": 4841,
+   "local": 171,
+   "html": "Harry stood up, smiling, and turned to go while Fred and George were still gaping in shock. He strode a few steps away, and then turned back.",
+   "text": "Harry stood up, smiling, and turned to go while Fred and George were still gaping in shock. He strode a few steps away, and then turned back.",
+   "break_before": false
+  },
+  {
+   "n": 4842,
+   "local": 172,
+   "html": "\"Oh, one last thing,\" Harry said. \"Leave Professor Quirrell out of whatever you do. He doesn't like publicity. I know it'd be easier to get people to believe weird things about the Defense Professor than anyone else, and I'm sorry to have to get in your way like that, but please, leave Professor Quirrell out of it.\"",
+   "text": "\"Oh, one last thing,\" Harry said. \"Leave Professor Quirrell out of whatever you do. He doesn't like publicity. I know it'd be easier to get people to believe weird things about the Defense Professor than anyone else, and I'm sorry to have to get in your way like that, but please, leave Professor Quirrell out of it.\"",
+   "break_before": false
+  },
+  {
+   "n": 4843,
+   "local": 173,
+   "html": "And Harry turned again and took a few more steps -",
+   "text": "And Harry turned again and took a few more steps -",
+   "break_before": false
+  },
+  {
+   "n": 4844,
+   "local": 174,
+   "html": "Looked back one last time, and said, softly, \"Thank you.\"",
+   "text": "Looked back one last time, and said, softly, \"Thank you.\"",
+   "break_before": false
+  },
+  {
+   "n": 4845,
+   "local": 175,
+   "html": "And left.",
+   "text": "And left.",
+   "break_before": false
+  },
+  {
+   "n": 4846,
+   "local": 176,
+   "html": "There was a long pause after he'd departed.",
+   "text": "There was a long pause after he'd departed.",
+   "break_before": false
+  },
+  {
+   "n": 4847,
+   "local": 177,
+   "html": "\"So,\" said one.",
+   "text": "\"So,\" said one.",
+   "break_before": false
+  },
+  {
+   "n": 4848,
+   "local": 178,
+   "html": "\"So,\" said the other.",
+   "text": "\"So,\" said the other.",
+   "break_before": false
+  },
+  {
+   "n": 4849,
+   "local": 179,
+   "html": "\"The Defense Professor doesn't like publicity, does he.\"",
+   "text": "\"The Defense Professor doesn't like publicity, does he.\"",
+   "break_before": false
+  },
+  {
+   "n": 4850,
+   "local": 180,
+   "html": "\"Harry doesn't know us very well, does he.\"",
+   "text": "\"Harry doesn't know us very well, does he.\"",
+   "break_before": false
+  },
+  {
+   "n": 4851,
+   "local": 181,
+   "html": "\"No, he doesn't.\"",
+   "text": "\"No, he doesn't.\"",
+   "break_before": false
+  },
+  {
+   "n": 4852,
+   "local": 182,
+   "html": "\"But we won't use his money for that, of course.\"",
+   "text": "\"But we won't use his money for that, of course.\"",
+   "break_before": false
+  },
+  {
+   "n": 4853,
+   "local": 183,
+   "html": "\"Of course not, that wouldn't be right. We'll do the Defense Professor separately.\"",
+   "text": "\"Of course not, that wouldn't be right. We'll do the Defense Professor separately.\"",
+   "break_before": false
+  },
+  {
+   "n": 4854,
+   "local": 184,
+   "html": "\"We'll get some Gryffindors to write Skeeter, and say...\"",
+   "text": "\"We'll get some Gryffindors to write Skeeter, and say...\"",
+   "break_before": false
+  },
+  {
+   "n": 4855,
+   "local": 185,
+   "html": "\"...his sleeve lifted up one time in Defense class, and they saw the Dark Mark...\"",
+   "text": "\"...his sleeve lifted up one time in Defense class, and they saw the Dark Mark...\"",
+   "break_before": false
+  },
+  {
+   "n": 4856,
+   "local": 186,
+   "html": "\"...and he's probably teaching Harry Potter all sorts of dreadful things...\"",
+   "text": "\"...and he's probably teaching Harry Potter all sorts of dreadful things...\"",
+   "break_before": false
+  },
+  {
+   "n": 4857,
+   "local": 187,
+   "html": "\"...and he's the worst Defense Professor anyone remembers even in Hogwarts, he's not just <em>failing</em> to teach us, he's getting everything wrong, the complete opposite of what it should be...\"",
+   "text": "\"...and he's the worst Defense Professor anyone remembers even in Hogwarts, he's not just failing to teach us, he's getting everything wrong, the complete opposite of what it should be...\"",
+   "break_before": false
+  },
+  {
+   "n": 4858,
+   "local": 188,
+   "html": "\"...like when he claimed that you could only cast the Killing Curse using love, which made it pretty much useless.\"",
+   "text": "\"...like when he claimed that you could only cast the Killing Curse using love, which made it pretty much useless.\"",
+   "break_before": false
+  },
+  {
+   "n": 4859,
+   "local": 189,
+   "html": "\"I like that one.\"",
+   "text": "\"I like that one.\"",
+   "break_before": false
+  },
+  {
+   "n": 4860,
+   "local": 190,
+   "html": "\"Thanks.\"",
+   "text": "\"Thanks.\"",
+   "break_before": false
+  },
+  {
+   "n": 4861,
+   "local": 191,
+   "html": "\"I bet the Defense Professor likes it too.\"",
+   "text": "\"I bet the Defense Professor likes it too.\"",
+   "break_before": false
+  },
+  {
+   "n": 4862,
+   "local": 192,
+   "html": "\"He does have a sense of humor. He wouldn't have called us what he did if he didn't have a sense of humor.\"",
+   "text": "\"He does have a sense of humor. He wouldn't have called us what he did if he didn't have a sense of humor.\"",
+   "break_before": false
+  },
+  {
+   "n": 4863,
+   "local": 193,
+   "html": "\"But are we really going to be able to do Harry's job?\"",
+   "text": "\"But are we really going to be able to do Harry's job?\"",
+   "break_before": false
+  },
+  {
+   "n": 4864,
+   "local": 194,
+   "html": "\"Harry said to discuss the problem before trying to solve it, so let's do that.\"",
+   "text": "\"Harry said to discuss the problem before trying to solve it, so let's do that.\"",
+   "break_before": false
+  },
+  {
+   "n": 4865,
+   "local": 195,
+   "html": "The Weasley twins decided that George would be the enthusiastic one while Fred doubted.",
+   "text": "The Weasley twins decided that George would be the enthusiastic one while Fred doubted.",
+   "break_before": false
+  },
+  {
+   "n": 4866,
+   "local": 196,
+   "html": "\"It all seems sort of contradictory,\" said Fred. \"He wants it to be ridiculous enough that everyone laughs at Skeeter and knows it's wrong, and he wants Skeeter to believe it. We can't do both things at the same time.\"",
+   "text": "\"It all seems sort of contradictory,\" said Fred. \"He wants it to be ridiculous enough that everyone laughs at Skeeter and knows it's wrong, and he wants Skeeter to believe it. We can't do both things at the same time.\"",
+   "break_before": false
+  },
+  {
+   "n": 4867,
+   "local": 197,
+   "html": "\"We'll have to fake up some evidence to convince Skeeter,\" said George.",
+   "text": "\"We'll have to fake up some evidence to convince Skeeter,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 4868,
+   "local": 198,
+   "html": "\"Was that a solution?\" said Fred.",
+   "text": "\"Was that a solution?\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 4869,
+   "local": 199,
+   "html": "They considered this.",
+   "text": "They considered this.",
+   "break_before": false
+  },
+  {
+   "n": 4870,
+   "local": 200,
+   "html": "\"Maybe,\" said George, \"but I don't think we should be all <em>that</em> strict about it, do you?\"",
+   "text": "\"Maybe,\" said George, \"but I don't think we should be all that strict about it, do you?\"",
+   "break_before": false
+  },
+  {
+   "n": 4871,
+   "local": 201,
+   "html": "The twins shrugged helplessly.",
+   "text": "The twins shrugged helplessly.",
+   "break_before": false
+  },
+  {
+   "n": 4872,
+   "local": 202,
+   "html": "\"So then the fake evidence has to be good enough to convince Skeeter,\" said Fred. \"Can we really do that on our own?\"",
+   "text": "\"So then the fake evidence has to be good enough to convince Skeeter,\" said Fred. \"Can we really do that on our own?\"",
+   "break_before": false
+  },
+  {
+   "n": 4873,
+   "local": 203,
+   "html": "\"We don't have to do it on our own,\" said George, and pointed to the pile of money. \"We can hire other people to help us.\"",
+   "text": "\"We don't have to do it on our own,\" said George, and pointed to the pile of money. \"We can hire other people to help us.\"",
+   "break_before": false
+  },
+  {
+   "n": 4874,
+   "local": 204,
+   "html": "The twins got a thoughtful look on their face.",
+   "text": "The twins got a thoughtful look on their face.",
+   "break_before": false
+  },
+  {
+   "n": 4875,
+   "local": 205,
+   "html": "\"That could use up Harry's budget pretty fast,\" said Fred. \"This is a lot of money for us, but it's not a lot of money for someone like Flume.\"",
+   "text": "\"That could use up Harry's budget pretty fast,\" said Fred. \"This is a lot of money for us, but it's not a lot of money for someone like Flume.\"",
+   "break_before": false
+  },
+  {
+   "n": 4876,
+   "local": 206,
+   "html": "\"Maybe people will give discounts if they know it's for Harry,\" said George. \"But most importantly of all, whatever we do, it has to be <em>impossible</em>.\"",
+   "text": "\"Maybe people will give discounts if they know it's for Harry,\" said George. \"But most importantly of all, whatever we do, it has to be impossible.\"",
+   "break_before": false
+  },
+  {
+   "n": 4877,
+   "local": 207,
+   "html": "Fred blinked. \"What do you mean, <em>impossible?</em> \"",
+   "text": "Fred blinked. \"What do you mean, impossible? \"",
+   "break_before": false
+  },
+  {
+   "n": 4878,
+   "local": 208,
+   "html": "\"So impossible that we don't get in trouble, because no one believes we could have done it. So impossible that even Harry starts wondering. It has to be surreal, it has to make people doubt their own sanity, it has to be... <em>better than Harry.</em>\"",
+   "text": "\"So impossible that we don't get in trouble, because no one believes we could have done it. So impossible that even Harry starts wondering. It has to be surreal, it has to make people doubt their own sanity, it has to be... better than Harry.\"",
+   "break_before": false
+  },
+  {
+   "n": 4879,
+   "local": 209,
+   "html": "Fred's eyes were wide in astonishment. This happened sometimes, between them, but not often. \"But why?\"",
+   "text": "Fred's eyes were wide in astonishment. This happened sometimes, between them, but not often. \"But why?\"",
+   "break_before": false
+  },
+  {
+   "n": 4880,
+   "local": 210,
+   "html": "\"They were pranks. They were <em>all</em> pranks. The pie was a prank. The Remembrall was a prank. Kevin Entwhistle's cat was a prank. <em>Snape</em> was a prank. <em>We're</em> the best pranksters in Hogwarts, are we going to roll over and give up without a fight?\"",
+   "text": "\"They were pranks. They were all pranks. The pie was a prank. The Remembrall was a prank. Kevin Entwhistle's cat was a prank. Snape was a prank. We're the best pranksters in Hogwarts, are we going to roll over and give up without a fight?\"",
+   "break_before": false
+  },
+  {
+   "n": 4881,
+   "local": 211,
+   "html": "\"He's the Boy-Who-Lived,\" said Fred.",
+   "text": "\"He's the Boy-Who-Lived,\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 4882,
+   "local": 212,
+   "html": "\"And <em>we're</em> the Weasley twins! He's <em>challenging</em> us. He said we could do what he does. But I bet he doesn't think we'll ever be as good as <em>him.</em>\"",
+   "text": "\"And we're the Weasley twins! He's challenging us. He said we could do what he does. But I bet he doesn't think we'll ever be as good as him.\"",
+   "break_before": false
+  },
+  {
+   "n": 4883,
+   "local": 213,
+   "html": "\"He's right,\" said Fred, feeling rather nervous. The Weasley twins did <em>sometimes</em> disagree even when they had all the same information, but every time they did it seemed unnatural, like at least one of them must be doing something wrong. \"This is <em>Harry Potter</em> we're talking about. He can do the impossible. We can't.\"",
+   "text": "\"He's right,\" said Fred, feeling rather nervous. The Weasley twins did sometimes disagree even when they had all the same information, but every time they did it seemed unnatural, like at least one of them must be doing something wrong. \"This is Harry Potter we're talking about. He can do the impossible. We can't.\"",
+   "break_before": false
+  },
+  {
+   "n": 4884,
+   "local": 214,
+   "html": "\"Yes we can,\" said George. \"And we have to be <em>more</em> impossible than him.\"",
+   "text": "\"Yes we can,\" said George. \"And we have to be more impossible than him.\"",
+   "break_before": false
+  },
+  {
+   "n": 4885,
+   "local": 215,
+   "html": "\"But -\" said Fred.",
+   "text": "\"But -\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 4886,
+   "local": 216,
+   "html": "\"It's what Godric Gryffindor would do,\" said George.",
+   "text": "\"It's what Godric Gryffindor would do,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 4887,
+   "local": 217,
+   "html": "That settled it, and the twins snapped back into... whatever it was that was normal for them.",
+   "text": "That settled it, and the twins snapped back into... whatever it was that was normal for them.",
+   "break_before": false
+  },
+  {
+   "n": 4888,
+   "local": 218,
+   "html": "\"All right, then -\"",
+   "text": "\"All right, then -\"",
+   "break_before": false
+  },
+  {
+   "n": 4889,
+   "local": 219,
+   "html": "\"- let's think about it.\"",
+   "text": "\"- let's think about it.\"",
+   "break_before": false
+  }
+ ]
+}

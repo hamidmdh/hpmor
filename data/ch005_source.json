@@ -1,0 +1,770 @@
+{
+ "chapter": 5,
+ "title": "The Fundamental Attribution Error",
+ "source": "https://hpmor.info/chapter/5/",
+ "paragraphs": [
+  {
+   "n": 275,
+   "local": 1,
+   "html": "J. K. Rowling is staring at you. Can you feel her eyes on you? She's reading your mind using her Rowling Rays.",
+   "text": "J. K. Rowling is staring at you. Can you feel her eyes on you? She's reading your mind using her Rowling Rays.",
+   "break_before": false
+  },
+  {
+   "n": 276,
+   "local": 2,
+   "html": "<em>\"It would've required a <em>supernatural intervention</em> for him to have <em>your</em> morality given <em>his</em> environment.\"</em>",
+   "text": "\"It would've required a supernatural intervention for him to have your morality given his environment.\"",
+   "break_before": true
+  },
+  {
+   "n": 277,
+   "local": 3,
+   "html": "The Moke Shop was a quaint little shop (some might even say cute) ensconced behind a vegetable stall that was behind a magical glove shop that was on an alleyway off a side street of Diagon Alley. Disappointingly, the shopkeeper was not a wizened ancient crone; just a nervous-looking young woman wearing faded yellow robes. Right now she was holding out a Moke Super Pouch QX31, whose selling point was that it had a Widening Lip as well as an Undetectable Extension Charm: you could actually fit big things in it, though the total volume was still limited.",
+   "text": "The Moke Shop was a quaint little shop (some might even say cute) ensconced behind a vegetable stall that was behind a magical glove shop that was on an alleyway off a side street of Diagon Alley. Disappointingly, the shopkeeper was not a wizened ancient crone; just a nervous-looking young woman wearing faded yellow robes. Right now she was holding out a Moke Super Pouch QX31, whose selling point was that it had a Widening Lip as well as an Undetectable Extension Charm: you could actually fit big things in it, though the total volume was still limited.",
+   "break_before": true
+  },
+  {
+   "n": 278,
+   "local": 4,
+   "html": "Harry had <em>insisted</em> on coming here straight away, first thing - insisted as hard as he thought he could without making Professor McGonagall suspicious. Harry had something he needed to put into the pouch as soon as possible. It wasn't the bag of Galleons that Professor McGonagall had allowed him to withdraw from Gringotts. It was all the other Galleons that Harry had surreptitiously shoved into his pocket after falling into a heap of gold coins. That <em>had</em> been a real accident, but Harry was never one to discard an opportunity... though it'd really been more of a spur-of-the-moment thing. Ever since Harry had been awkwardly carrying the allowed bag of Galleons next to his trouser pocket, so that any jingling would seem to come from the right place.",
+   "text": "Harry had insisted on coming here straight away, first thing - insisted as hard as he thought he could without making Professor McGonagall suspicious. Harry had something he needed to put into the pouch as soon as possible. It wasn't the bag of Galleons that Professor McGonagall had allowed him to withdraw from Gringotts. It was all the other Galleons that Harry had surreptitiously shoved into his pocket after falling into a heap of gold coins. That had been a real accident, but Harry was never one to discard an opportunity... though it'd really been more of a spur-of-the-moment thing. Ever since Harry had been awkwardly carrying the allowed bag of Galleons next to his trouser pocket, so that any jingling would seem to come from the right place.",
+   "break_before": false
+  },
+  {
+   "n": 279,
+   "local": 5,
+   "html": "This still left the question of how he was actually going to get the <em>other</em> coins into the pouch without getting caught. The golden coins might have been his, but they were still stolen - self-stolen? Auto-thieved?",
+   "text": "This still left the question of how he was actually going to get the other coins into the pouch without getting caught. The golden coins might have been his, but they were still stolen - self-stolen? Auto-thieved?",
+   "break_before": false
+  },
+  {
+   "n": 280,
+   "local": 6,
+   "html": "Harry looked up from the Moke Super Pouch QX31 on the counter in front of him. \"Can I try this for a bit? To make sure it works, um, reliably?\" He widened his eyes in an expression of boyish, playful innocence.",
+   "text": "Harry looked up from the Moke Super Pouch QX31 on the counter in front of him. \"Can I try this for a bit? To make sure it works, um, reliably?\" He widened his eyes in an expression of boyish, playful innocence.",
+   "break_before": false
+  },
+  {
+   "n": 281,
+   "local": 7,
+   "html": "Sure enough, after ten repetitions of putting the coin-bag into the pouch, reaching in, whispering \"bag of gold\", and taking it out, Professor McGonagall took a step away and began examining some of the other items in the shop, and the shopkeeper turned her head to watch.",
+   "text": "Sure enough, after ten repetitions of putting the coin-bag into the pouch, reaching in, whispering \"bag of gold\", and taking it out, Professor McGonagall took a step away and began examining some of the other items in the shop, and the shopkeeper turned her head to watch.",
+   "break_before": false
+  },
+  {
+   "n": 282,
+   "local": 8,
+   "html": "Harry dropped the bag of gold into the mokeskin pouch with his <em>left</em> hand; his <em>right</em> hand came out of his pocket tightly holding some of the gold coins, reached into the mokeskin pouch, dropped the loose Galleons, and (with a whisper of \"bag of gold\") retrieved the original bag. Then the bag went back into his <em>left</em> hand, to be dropped in again, and Harry's <em>right</em> hand went back into his pocket...",
+   "text": "Harry dropped the bag of gold into the mokeskin pouch with his left hand; his right hand came out of his pocket tightly holding some of the gold coins, reached into the mokeskin pouch, dropped the loose Galleons, and (with a whisper of \"bag of gold\") retrieved the original bag. Then the bag went back into his left hand, to be dropped in again, and Harry's right hand went back into his pocket...",
+   "break_before": false
+  },
+  {
+   "n": 283,
+   "local": 9,
+   "html": "Professor McGonagall looked back at him once, but Harry managed to avoid freezing or flinching, and she didn't seem to notice anything. Though you never <em>did</em> quite know, with the adults that had a sense of humour. It took three iterations to get the job done, and Harry guessed he'd managed to steal maybe thirty Galleons from himself.",
+   "text": "Professor McGonagall looked back at him once, but Harry managed to avoid freezing or flinching, and she didn't seem to notice anything. Though you never did quite know, with the adults that had a sense of humour. It took three iterations to get the job done, and Harry guessed he'd managed to steal maybe thirty Galleons from himself.",
+   "break_before": false
+  },
+  {
+   "n": 284,
+   "local": 10,
+   "html": "Harry reached up, wiped a bit of sweat from his forehead, and exhaled. \"I'd like this one, please.\"",
+   "text": "Harry reached up, wiped a bit of sweat from his forehead, and exhaled. \"I'd like this one, please.\"",
+   "break_before": false
+  },
+  {
+   "n": 285,
+   "local": 11,
+   "html": "Fifteen Galleons lighter (twice the price of a wizard's wand, apparently) and one Moke Super Pouch QX31 heavier, Harry and Professor McGonagall pushed their way out of the door. The door formed a hand and waved goodbye to them as they left, extruding its arm in a way that made Harry feel a bit queasy.",
+   "text": "Fifteen Galleons lighter (twice the price of a wizard's wand, apparently) and one Moke Super Pouch QX31 heavier, Harry and Professor McGonagall pushed their way out of the door. The door formed a hand and waved goodbye to them as they left, extruding its arm in a way that made Harry feel a bit queasy.",
+   "break_before": false
+  },
+  {
+   "n": 286,
+   "local": 12,
+   "html": "And then, unfortunately...",
+   "text": "And then, unfortunately...",
+   "break_before": false
+  },
+  {
+   "n": 287,
+   "local": 13,
+   "html": "\"Are you <em>really</em> Harry Potter?\" whispered the old man, one huge tear sliding down his cheek. \"You wouldn't lie about that, would you? Only I'd heard rumours that you didn't <em>really</em> survive the Killing Curse and that's why no one ever heard from you again.\"",
+   "text": "\"Are you really Harry Potter?\" whispered the old man, one huge tear sliding down his cheek. \"You wouldn't lie about that, would you? Only I'd heard rumours that you didn't really survive the Killing Curse and that's why no one ever heard from you again.\"",
+   "break_before": false
+  },
+  {
+   "n": 288,
+   "local": 14,
+   "html": "...it seemed that Professor McGonagall's disguise spell was less than perfectly effective against more experienced magical practitioners.",
+   "text": "...it seemed that Professor McGonagall's disguise spell was less than perfectly effective against more experienced magical practitioners.",
+   "break_before": false
+  },
+  {
+   "n": 289,
+   "local": 15,
+   "html": "Professor McGonagall had laid a hand on Harry's shoulder and yanked him into the nearest alleyway the moment she'd heard \"Harry Potter?\" The old man had followed, but at least it looked like no one else had heard.",
+   "text": "Professor McGonagall had laid a hand on Harry's shoulder and yanked him into the nearest alleyway the moment she'd heard \"Harry Potter?\" The old man had followed, but at least it looked like no one else had heard.",
+   "break_before": false
+  },
+  {
+   "n": 290,
+   "local": 16,
+   "html": "Harry considered the question. <em>Was</em> he really Harry Potter? \"I only know what other people have told me,\" Harry said. \"It's not like I remember being born.\" His hand brushed his forehead. \"I've had this scar as long as I remember, and I've been told my name was Harry Potter as long as I remember. But,\" Harry said thoughtfully, \"if there's already sufficient cause to postulate a conspiracy, there's no reason why they wouldn't just find another orphan and raise him to believe that <em>he</em> was Harry Potter -\"",
+   "text": "Harry considered the question. Was he really Harry Potter? \"I only know what other people have told me,\" Harry said. \"It's not like I remember being born.\" His hand brushed his forehead. \"I've had this scar as long as I remember, and I've been told my name was Harry Potter as long as I remember. But,\" Harry said thoughtfully, \"if there's already sufficient cause to postulate a conspiracy, there's no reason why they wouldn't just find another orphan and raise him to believe that he was Harry Potter -\"",
+   "break_before": false
+  },
+  {
+   "n": 291,
+   "local": 17,
+   "html": "Professor McGonagall drew her hand over her face in exasperation. \"You look just about exactly like your father, James, the year he first attended Hogwarts. And I can attest on the basis of <em>personality alone</em> that you are related to the Scourge of Gryffindor.\"",
+   "text": "Professor McGonagall drew her hand over her face in exasperation. \"You look just about exactly like your father, James, the year he first attended Hogwarts. And I can attest on the basis of personality alone that you are related to the Scourge of Gryffindor.\"",
+   "break_before": false
+  },
+  {
+   "n": 292,
+   "local": 18,
+   "html": "\"<em>She</em> could be in on it too,\" Harry observed.",
+   "text": "\"She could be in on it too,\" Harry observed.",
+   "break_before": false
+  },
+  {
+   "n": 293,
+   "local": 19,
+   "html": "\"No,\" quavered the old man. \"She's right. You have your mother's eyes.\"",
+   "text": "\"No,\" quavered the old man. \"She's right. You have your mother's eyes.\"",
+   "break_before": false
+  },
+  {
+   "n": 294,
+   "local": 20,
+   "html": "\"Hmm,\" Harry frowned. \"I suppose <em>you</em> could be in on it too -\"",
+   "text": "\"Hmm,\" Harry frowned. \"I suppose you could be in on it too -\"",
+   "break_before": false
+  },
+  {
+   "n": 295,
+   "local": 21,
+   "html": "\"Enough, Mr. Potter.\"",
+   "text": "\"Enough, Mr. Potter.\"",
+   "break_before": false
+  },
+  {
+   "n": 296,
+   "local": 22,
+   "html": "The old man raised up a hand as if to touch Harry, but then let it fall. \"I'm just glad that you're alive,\" he murmured. \"Thank you, Harry Potter. Thank you for what you did... I'll leave you alone now.\"",
+   "text": "The old man raised up a hand as if to touch Harry, but then let it fall. \"I'm just glad that you're alive,\" he murmured. \"Thank you, Harry Potter. Thank you for what you did... I'll leave you alone now.\"",
+   "break_before": false
+  },
+  {
+   "n": 297,
+   "local": 23,
+   "html": "And his cane slowly tapped away, out the alley and down the main street of Diagon Alley.",
+   "text": "And his cane slowly tapped away, out the alley and down the main street of Diagon Alley.",
+   "break_before": false
+  },
+  {
+   "n": 298,
+   "local": 24,
+   "html": "The Professor looked around, her expression tense and grim. Harry automatically looked around himself. But the alley seemed empty of all but old leaves, and from the mouth leading out into Diagon Alley, only swiftly striding passersby could be seen.",
+   "text": "The Professor looked around, her expression tense and grim. Harry automatically looked around himself. But the alley seemed empty of all but old leaves, and from the mouth leading out into Diagon Alley, only swiftly striding passersby could be seen.",
+   "break_before": false
+  },
+  {
+   "n": 299,
+   "local": 25,
+   "html": "Finally Professor McGonagall seemed to relax. \"That was not well done,\" she said in a low voice. \"I know you're not used to this, Mr. Potter, but people do care about you. Please be kind to them.\"",
+   "text": "Finally Professor McGonagall seemed to relax. \"That was not well done,\" she said in a low voice. \"I know you're not used to this, Mr. Potter, but people do care about you. Please be kind to them.\"",
+   "break_before": false
+  },
+  {
+   "n": 300,
+   "local": 26,
+   "html": "Harry looked down at his shoes. \"They shouldn't,\" he said with a tinge of bitterness. \"Care about me, I mean.\"",
+   "text": "Harry looked down at his shoes. \"They shouldn't,\" he said with a tinge of bitterness. \"Care about me, I mean.\"",
+   "break_before": false
+  },
+  {
+   "n": 301,
+   "local": 27,
+   "html": "\"You saved them from You-Know-Who,\" said Professor McGonagall. \"How should they not care?\"",
+   "text": "\"You saved them from You-Know-Who,\" said Professor McGonagall. \"How should they not care?\"",
+   "break_before": false
+  },
+  {
+   "n": 302,
+   "local": 28,
+   "html": "Harry looked up at the witch-lady's strict expression beneath her pointed hat, and sighed. \"I suppose there's no chance that if I said <em>fundamental attribution error</em> you'd have any idea what that meant.\"",
+   "text": "Harry looked up at the witch-lady's strict expression beneath her pointed hat, and sighed. \"I suppose there's no chance that if I said fundamental attribution error you'd have any idea what that meant.\"",
+   "break_before": false
+  },
+  {
+   "n": 303,
+   "local": 29,
+   "html": "\"No,\" said the Professor in her precise Scottish accent, \"but please explain, Mr. Potter, if you would be so kind.\"",
+   "text": "\"No,\" said the Professor in her precise Scottish accent, \"but please explain, Mr. Potter, if you would be so kind.\"",
+   "break_before": false
+  },
+  {
+   "n": 304,
+   "local": 30,
+   "html": "\"Well...\" Harry said, trying to figure out how to describe that particular bit of Muggle science. \"Suppose you come into work and see your colleague kicking his desk. You think, 'what an angry person he must be'. Your colleague is thinking about how someone bumped him into a wall on the way to work and then shouted at him. <em>Anyone</em> would be angry at that, he thinks. When we look at others we see personality traits that explain their behaviour, but when we look at ourselves we see circumstances that explain our behaviour. People's stories make internal sense to them, from the inside, but we don't see people's histories trailing behind them in the air. We only see them in one situation, and we don't see what they would be like in a different situation. So the fundamental attribution error is that we explain by permanent, enduring traits what would be better explained by circumstance and context.\" There were some elegant experiments which confirmed this, but Harry wasn't about to go into them.",
+   "text": "\"Well...\" Harry said, trying to figure out how to describe that particular bit of Muggle science. \"Suppose you come into work and see your colleague kicking his desk. You think, 'what an angry person he must be'. Your colleague is thinking about how someone bumped him into a wall on the way to work and then shouted at him. Anyone would be angry at that, he thinks. When we look at others we see personality traits that explain their behaviour, but when we look at ourselves we see circumstances that explain our behaviour. People's stories make internal sense to them, from the inside, but we don't see people's histories trailing behind them in the air. We only see them in one situation, and we don't see what they would be like in a different situation. So the fundamental attribution error is that we explain by permanent, enduring traits what would be better explained by circumstance and context.\" There were some elegant experiments which confirmed this, but Harry wasn't about to go into them.",
+   "break_before": false
+  },
+  {
+   "n": 305,
+   "local": 31,
+   "html": "The witch's eyebrows drew up beneath her hat's brim. \"I think I understand...\" Professor McGonagall said slowly. \"But what does that have to do with you?\"",
+   "text": "The witch's eyebrows drew up beneath her hat's brim. \"I think I understand...\" Professor McGonagall said slowly. \"But what does that have to do with you?\"",
+   "break_before": false
+  },
+  {
+   "n": 306,
+   "local": 32,
+   "html": "Harry kicked the brick wall of the alley hard enough to make his foot hurt. \"People think that I saved them from You-Know-Who because I'm some kind of great warrior of the Light.\"",
+   "text": "Harry kicked the brick wall of the alley hard enough to make his foot hurt. \"People think that I saved them from You-Know-Who because I'm some kind of great warrior of the Light.\"",
+   "break_before": false
+  },
+  {
+   "n": 307,
+   "local": 33,
+   "html": "\"The one with the power to vanquish the Dark Lord...\" murmured the witch, a strange irony leavening her voice.",
+   "text": "\"The one with the power to vanquish the Dark Lord...\" murmured the witch, a strange irony leavening her voice.",
+   "break_before": false
+  },
+  {
+   "n": 308,
+   "local": 34,
+   "html": "\"Yes,\" Harry said, annoyance and frustration warring in him, \"like I destroyed the Dark Lord because I have some kind of permanent, enduring destroy-the-Dark- Lord trait. I was fifteen months old at the time! I don't <em>know</em> what happened, but I would <em>suppose</em> it had something to do with, as the saying goes, contingent environmental circumstances. And certainly nothing to do with my personality. People don't care about <em>me,</em> they aren't even paying attention to <em>me,</em> they want to shake hands with a <em>bad explanation</em>.\" Harry paused, and looked at McGonagall. \"Do <em>you</em> know what really happened?\"",
+   "text": "\"Yes,\" Harry said, annoyance and frustration warring in him, \"like I destroyed the Dark Lord because I have some kind of permanent, enduring destroy-the-Dark- Lord trait. I was fifteen months old at the time! I don't know what happened, but I would suppose it had something to do with, as the saying goes, contingent environmental circumstances. And certainly nothing to do with my personality. People don't care about me, they aren't even paying attention to me, they want to shake hands with a bad explanation.\" Harry paused, and looked at McGonagall. \"Do you know what really happened?\"",
+   "break_before": false
+  },
+  {
+   "n": 309,
+   "local": 35,
+   "html": "\"I <em>have</em> formed an idea...\" said Professor McGonagall. \"After meeting you, that is.\"",
+   "text": "\"I have formed an idea...\" said Professor McGonagall. \"After meeting you, that is.\"",
+   "break_before": false
+  },
+  {
+   "n": 310,
+   "local": 36,
+   "html": "\"Yes?\"",
+   "text": "\"Yes?\"",
+   "break_before": false
+  },
+  {
+   "n": 311,
+   "local": 37,
+   "html": "\"You triumphed over the Dark Lord by being more awful than <em>he</em> was, and survived the Killing Curse by being more terrible than Death.\"",
+   "text": "\"You triumphed over the Dark Lord by being more awful than he was, and survived the Killing Curse by being more terrible than Death.\"",
+   "break_before": false
+  },
+  {
+   "n": 312,
+   "local": 38,
+   "html": "\"Ha. Ha. Ha.\" Harry kicked the wall again.",
+   "text": "\"Ha. Ha. Ha.\" Harry kicked the wall again.",
+   "break_before": false
+  },
+  {
+   "n": 313,
+   "local": 39,
+   "html": "Professor McGonagall chuckled. \"Let's get you to Madam Malkin's next. I fear your Muggle clothing may be attracting attention.\"",
+   "text": "Professor McGonagall chuckled. \"Let's get you to Madam Malkin's next. I fear your Muggle clothing may be attracting attention.\"",
+   "break_before": false
+  },
+  {
+   "n": 314,
+   "local": 40,
+   "html": "They ran into two more well-wishers along the way.",
+   "text": "They ran into two more well-wishers along the way.",
+   "break_before": false
+  },
+  {
+   "n": 315,
+   "local": 41,
+   "html": "Madam Malkin's Robes had a genuinely boring shopfront, red ordinary brick, and glass windows showing plain black robes within. Not robes that shone or changed or spun, or radiated strange rays that seemed to go right through your shirt and tickle you. Just plain black robes, that was all you could see through the window. The door was propped wide open, as if to advertise that there were no secrets here and nothing to hide.",
+   "text": "Madam Malkin's Robes had a genuinely boring shopfront, red ordinary brick, and glass windows showing plain black robes within. Not robes that shone or changed or spun, or radiated strange rays that seemed to go right through your shirt and tickle you. Just plain black robes, that was all you could see through the window. The door was propped wide open, as if to advertise that there were no secrets here and nothing to hide.",
+   "break_before": false
+  },
+  {
+   "n": 316,
+   "local": 42,
+   "html": "\"I'm going to go off for a few minutes while you get fitted for your robes,\" said Professor McGonagall. \"Will you be all right with that, Mr. Potter?\"",
+   "text": "\"I'm going to go off for a few minutes while you get fitted for your robes,\" said Professor McGonagall. \"Will you be all right with that, Mr. Potter?\"",
+   "break_before": false
+  },
+  {
+   "n": 317,
+   "local": 43,
+   "html": "Harry nodded. He hated clothes shopping with a fiery passion and couldn't blame the older witch for feeling the same way.",
+   "text": "Harry nodded. He hated clothes shopping with a fiery passion and couldn't blame the older witch for feeling the same way.",
+   "break_before": false
+  },
+  {
+   "n": 318,
+   "local": 44,
+   "html": "Professor McGonagall's wand came out of her sleeve, tapped Harry's head lightly. \"And as you'll need to be clear to Madam Malkin's senses, I am removing the Obfuscation.\"",
+   "text": "Professor McGonagall's wand came out of her sleeve, tapped Harry's head lightly. \"And as you'll need to be clear to Madam Malkin's senses, I am removing the Obfuscation.\"",
+   "break_before": false
+  },
+  {
+   "n": 319,
+   "local": 45,
+   "html": "\"Uh...\" Harry said. That did worry him a little; he still wasn't used to the 'Harry Potter' thing.",
+   "text": "\"Uh...\" Harry said. That did worry him a little; he still wasn't used to the 'Harry Potter' thing.",
+   "break_before": false
+  },
+  {
+   "n": 320,
+   "local": 46,
+   "html": "\"I went to Hogwarts with Madam Malkin,\" McGonagall said. \"Even then, she was one of the most <em>composed</em> people I knew. She wouldn't turn a hair if You- Know-Who himself walked into her shop.\" McGonagall's voice was reminiscent, and very approving. \"Madam Malkin won't bother you, and she won't let anyone else bother you.\"",
+   "text": "\"I went to Hogwarts with Madam Malkin,\" McGonagall said. \"Even then, she was one of the most composed people I knew. She wouldn't turn a hair if You- Know-Who himself walked into her shop.\" McGonagall's voice was reminiscent, and very approving. \"Madam Malkin won't bother you, and she won't let anyone else bother you.\"",
+   "break_before": false
+  },
+  {
+   "n": 321,
+   "local": 47,
+   "html": "\"Where <em>are</em> you going?\" Harry inquired. \"Just in case, you know, something <em>does</em> happen.\"",
+   "text": "\"Where are you going?\" Harry inquired. \"Just in case, you know, something does happen.\"",
+   "break_before": false
+  },
+  {
+   "n": 322,
+   "local": 48,
+   "html": "McGonagall gave Harry a hard look. \"I am going <em>there,</em>\" she said, pointing at a building across the street which showed the sign of a wooden keg, \"and buying a drink, which I desperately need. <em>You</em> are to get fitted for your robes, <em>nothing else</em>. I will come back to check up on you <em>shortly</em>, and I <em>expect</em> to find Madam Malkin's shop still standing and not in any way on fire.\"",
+   "text": "McGonagall gave Harry a hard look. \"I am going there,\" she said, pointing at a building across the street which showed the sign of a wooden keg, \"and buying a drink, which I desperately need. You are to get fitted for your robes, nothing else. I will come back to check up on you shortly, and I expect to find Madam Malkin's shop still standing and not in any way on fire.\"",
+   "break_before": false
+  },
+  {
+   "n": 323,
+   "local": 49,
+   "html": "Madam Malkin was a bustling old woman who didn't say a word about Harry when she saw the scar on his forehead, and she shot a sharp look at an assistant when that girl seemed about to say something. Madam Malkin got out a set of animated, writhing bits of cloth that seemed to serve as tape measures and set to work examining the medium of her art.",
+   "text": "Madam Malkin was a bustling old woman who didn't say a word about Harry when she saw the scar on his forehead, and she shot a sharp look at an assistant when that girl seemed about to say something. Madam Malkin got out a set of animated, writhing bits of cloth that seemed to serve as tape measures and set to work examining the medium of her art.",
+   "break_before": false
+  },
+  {
+   "n": 324,
+   "local": 50,
+   "html": "Next to Harry, a pale young boy with a pointed face and <em>awesomecool</em> blonde-white hair seemed to be going through the final stages of a similar process. One of Malkin's two assistants was examining the white-haired boy and the chequerboard-gridded robe he was wearing; occasionally she would tap a corner of the robe with her wand, and the robe would loosen or tighten.",
+   "text": "Next to Harry, a pale young boy with a pointed face and awesomecool blonde-white hair seemed to be going through the final stages of a similar process. One of Malkin's two assistants was examining the white-haired boy and the chequerboard-gridded robe he was wearing; occasionally she would tap a corner of the robe with her wand, and the robe would loosen or tighten.",
+   "break_before": false
+  },
+  {
+   "n": 325,
+   "local": 51,
+   "html": "\"Hello,\" said the boy. \"Hogwarts, too?\"",
+   "text": "\"Hello,\" said the boy. \"Hogwarts, too?\"",
+   "break_before": false
+  },
+  {
+   "n": 326,
+   "local": 52,
+   "html": "Harry could predict where this conversation was about to go, and he decided in a split second of frustration that enough was enough.",
+   "text": "Harry could predict where this conversation was about to go, and he decided in a split second of frustration that enough was enough.",
+   "break_before": false
+  },
+  {
+   "n": 327,
+   "local": 53,
+   "html": "\"Good heavens,\" whispered Harry, \"it couldn't be.\" He let his eyes widen. \"Your... name, sir?\"",
+   "text": "\"Good heavens,\" whispered Harry, \"it couldn't be.\" He let his eyes widen. \"Your... name, sir?\"",
+   "break_before": false
+  },
+  {
+   "n": 328,
+   "local": 54,
+   "html": "\"Draco Malfoy,\" said Draco Malfoy, looking slightly puzzled.",
+   "text": "\"Draco Malfoy,\" said Draco Malfoy, looking slightly puzzled.",
+   "break_before": false
+  },
+  {
+   "n": 329,
+   "local": 55,
+   "html": "\"It <em>is</em> you! Draco Malfoy. I - I never thought I'd be so honoured, sir.\" Harry wished he could make tears come out of his eyes. The others usually started crying at around this point.",
+   "text": "\"It is you! Draco Malfoy. I - I never thought I'd be so honoured, sir.\" Harry wished he could make tears come out of his eyes. The others usually started crying at around this point.",
+   "break_before": false
+  },
+  {
+   "n": 330,
+   "local": 56,
+   "html": "\"Oh,\" said Draco, sounding a little confused. Then his lips stretched in a smug smile. \"It's good to meet someone who knows his place.\"",
+   "text": "\"Oh,\" said Draco, sounding a little confused. Then his lips stretched in a smug smile. \"It's good to meet someone who knows his place.\"",
+   "break_before": false
+  },
+  {
+   "n": 331,
+   "local": 57,
+   "html": "One of the assistants, the one who'd seemed to recognise Harry, made a muffled choking sound.",
+   "text": "One of the assistants, the one who'd seemed to recognise Harry, made a muffled choking sound.",
+   "break_before": false
+  },
+  {
+   "n": 332,
+   "local": 58,
+   "html": "Harry burbled on. \"I'm delighted to meet you, Mr. Malfoy. Just unutterably delighted. And to be attending Hogwarts in your very year! It makes my heart swoon.\"",
+   "text": "Harry burbled on. \"I'm delighted to meet you, Mr. Malfoy. Just unutterably delighted. And to be attending Hogwarts in your very year! It makes my heart swoon.\"",
+   "break_before": false
+  },
+  {
+   "n": 333,
+   "local": 59,
+   "html": "Oops. That last part might have sounded a little odd, like he was flirting with Draco or something.",
+   "text": "Oops. That last part might have sounded a little odd, like he was flirting with Draco or something.",
+   "break_before": false
+  },
+  {
+   "n": 334,
+   "local": 60,
+   "html": "\"And <em>I</em> am pleased to learn that I shall be treated with the respect due to the family of Malfoy,\" the other boy lobbed back, accompanied by a smile such as the highest of kings might bestow upon the least of his subjects, if that subject were honest, though poor.",
+   "text": "\"And I am pleased to learn that I shall be treated with the respect due to the family of Malfoy,\" the other boy lobbed back, accompanied by a smile such as the highest of kings might bestow upon the least of his subjects, if that subject were honest, though poor.",
+   "break_before": false
+  },
+  {
+   "n": 335,
+   "local": 61,
+   "html": "Eh... Damn, Harry was having trouble thinking up his next line. Well, everyone <em>did</em> want to shake the hand of Harry Potter, so - \"When my clothes are fitted, sir, might you deign to shake my hand? I should wish nothing more to put the capper upon this day, nay, this month, indeed, my whole lifetime.\"",
+   "text": "Eh... Damn, Harry was having trouble thinking up his next line. Well, everyone did want to shake the hand of Harry Potter, so - \"When my clothes are fitted, sir, might you deign to shake my hand? I should wish nothing more to put the capper upon this day, nay, this month, indeed, my whole lifetime.\"",
+   "break_before": false
+  },
+  {
+   "n": 336,
+   "local": 62,
+   "html": "The white-blonde-haired boy glared in return. \"And what have <em>you</em> done for the Malfoys that entitles you to such a favour?\"",
+   "text": "The white-blonde-haired boy glared in return. \"And what have you done for the Malfoys that entitles you to such a favour?\"",
+   "break_before": false
+  },
+  {
+   "n": 337,
+   "local": 63,
+   "html": "<em>Oh, I am so totally trying this routine on the next person who wants to shake my hand.</em> Harry bowed his head. \"No, no, sir, I understand. I'm sorry for asking. I should be honoured to clean your boots, rather.\"",
+   "text": "Oh, I am so totally trying this routine on the next person who wants to shake my hand. Harry bowed his head. \"No, no, sir, I understand. I'm sorry for asking. I should be honoured to clean your boots, rather.\"",
+   "break_before": false
+  },
+  {
+   "n": 338,
+   "local": 64,
+   "html": "\"Indeed,\" snapped the other boy. His stern face lightened somewhat. \"Tell me, what House do you think you might be sorted into? I'm bound for Slytherin House, of course, like my father Lucius before me. And for you, I'd guess House Hufflepuff, or possibly House Elf.\"",
+   "text": "\"Indeed,\" snapped the other boy. His stern face lightened somewhat. \"Tell me, what House do you think you might be sorted into? I'm bound for Slytherin House, of course, like my father Lucius before me. And for you, I'd guess House Hufflepuff, or possibly House Elf.\"",
+   "break_before": false
+  },
+  {
+   "n": 339,
+   "local": 65,
+   "html": "Harry grinned sheepishly. \"Professor McGonagall says that I'm the most Ravenclaw person she's ever seen or heard tell of in legend, so much so that Rowena herself would tell me to get out more, whatever <em>that</em> means, and that I'll undoubtedly end up in Ravenclaw House if the hat isn't screaming too loudly for the rest of us to make out any words, end quote.\"",
+   "text": "Harry grinned sheepishly. \"Professor McGonagall says that I'm the most Ravenclaw person she's ever seen or heard tell of in legend, so much so that Rowena herself would tell me to get out more, whatever that means, and that I'll undoubtedly end up in Ravenclaw House if the hat isn't screaming too loudly for the rest of us to make out any words, end quote.\"",
+   "break_before": false
+  },
+  {
+   "n": 340,
+   "local": 66,
+   "html": "\"Wow,\" said Draco Malfoy, sounding slightly impressed. The boy gave a sort of wistful sigh. \"Your flattery was great, or I thought so, anyway - you'd do well in Slytherin House, too. Usually it's only my father who gets that sort of grovelling. I'm <em>hoping</em> the other Slytherins will suck up to me now I'm at Hogwarts... I guess this is a good sign, then.\"",
+   "text": "\"Wow,\" said Draco Malfoy, sounding slightly impressed. The boy gave a sort of wistful sigh. \"Your flattery was great, or I thought so, anyway - you'd do well in Slytherin House, too. Usually it's only my father who gets that sort of grovelling. I'm hoping the other Slytherins will suck up to me now I'm at Hogwarts... I guess this is a good sign, then.\"",
+   "break_before": false
+  },
+  {
+   "n": 341,
+   "local": 67,
+   "html": "Harry coughed. \"Actually, sorry, I've got no idea who you are really.\"",
+   "text": "Harry coughed. \"Actually, sorry, I've got no idea who you are really.\"",
+   "break_before": false
+  },
+  {
+   "n": 342,
+   "local": 68,
+   "html": "\"<em>Oh come on!</em> \" the boy said with fierce disappointment. \"Why'd you go and do that, then?\" Draco's eyes widened with sudden suspicion. \"And how do you <em>not</em> know about the Malfoys? And what are those <em>clothes</em> you're wearing? Are your parents <em>Muggles?</em> \"",
+   "text": "\"Oh come on! \" the boy said with fierce disappointment. \"Why'd you go and do that, then?\" Draco's eyes widened with sudden suspicion. \"And how do you not know about the Malfoys? And what are those clothes you're wearing? Are your parents Muggles? \"",
+   "break_before": false
+  },
+  {
+   "n": 343,
+   "local": 69,
+   "html": "\"Two of my parents are dead,\" Harry said. His heart twinged. When he put it that way - \"My other two parents are Muggles, and they're the ones that raised me.\"",
+   "text": "\"Two of my parents are dead,\" Harry said. His heart twinged. When he put it that way - \"My other two parents are Muggles, and they're the ones that raised me.\"",
+   "break_before": false
+  },
+  {
+   "n": 344,
+   "local": 70,
+   "html": "\"<em>What?</em> \" said Draco. \"Who <em>are</em> you?\"",
+   "text": "\"What? \" said Draco. \"Who are you?\"",
+   "break_before": false
+  },
+  {
+   "n": 345,
+   "local": 71,
+   "html": "\"Harry Potter, pleased to meet you.\"",
+   "text": "\"Harry Potter, pleased to meet you.\"",
+   "break_before": false
+  },
+  {
+   "n": 346,
+   "local": 72,
+   "html": "\"<em>Harry Potter?</em> \" gasped Draco. \"<em>The</em> Harry -\" and the boy cut off abruptly.",
+   "text": "\"Harry Potter? \" gasped Draco. \"The Harry -\" and the boy cut off abruptly.",
+   "break_before": false
+  },
+  {
+   "n": 347,
+   "local": 73,
+   "html": "There was a brief silence.",
+   "text": "There was a brief silence.",
+   "break_before": false
+  },
+  {
+   "n": 348,
+   "local": 74,
+   "html": "Then, with bright enthusiasm, \"Harry Potter? <em>The</em> Harry Potter? Gosh, I've always wanted to meet you!\"",
+   "text": "Then, with bright enthusiasm, \"Harry Potter? The Harry Potter? Gosh, I've always wanted to meet you!\"",
+   "break_before": false
+  },
+  {
+   "n": 349,
+   "local": 75,
+   "html": "Draco's attendant emitted a sound like she was strangling but kept on with her work, lifting Draco's arms to carefully remove the chequered robe.",
+   "text": "Draco's attendant emitted a sound like she was strangling but kept on with her work, lifting Draco's arms to carefully remove the chequered robe.",
+   "break_before": false
+  },
+  {
+   "n": 350,
+   "local": 76,
+   "html": "\"Shut up,\" Harry suggested.",
+   "text": "\"Shut up,\" Harry suggested.",
+   "break_before": false
+  },
+  {
+   "n": 351,
+   "local": 77,
+   "html": "\"Can I have your autograph? No, wait, I want a picture with you first!\"",
+   "text": "\"Can I have your autograph? No, wait, I want a picture with you first!\"",
+   "break_before": false
+  },
+  {
+   "n": 352,
+   "local": 78,
+   "html": "\"Shut<em>up</em>shut<em>up</em>shut<em>up.</em>\"",
+   "text": "\"Shutupshutupshutup.\"",
+   "break_before": false
+  },
+  {
+   "n": 353,
+   "local": 79,
+   "html": "\"I'm just so <em>delighted</em> to meet you!\"",
+   "text": "\"I'm just so delighted to meet you!\"",
+   "break_before": false
+  },
+  {
+   "n": 354,
+   "local": 80,
+   "html": "\"Burst into flames and die.\"",
+   "text": "\"Burst into flames and die.\"",
+   "break_before": false
+  },
+  {
+   "n": 355,
+   "local": 81,
+   "html": "\"But you're Harry Potter, the glorious saviour of the wizarding world! Everyone's hero, Harry Potter! I've always wanted to be just like you when I grow up so I can -\"",
+   "text": "\"But you're Harry Potter, the glorious saviour of the wizarding world! Everyone's hero, Harry Potter! I've always wanted to be just like you when I grow up so I can -\"",
+   "break_before": false
+  },
+  {
+   "n": 356,
+   "local": 82,
+   "html": "Draco cut off the words in mid-sentence, his face freezing in absolute horror.",
+   "text": "Draco cut off the words in mid-sentence, his face freezing in absolute horror.",
+   "break_before": false
+  },
+  {
+   "n": 357,
+   "local": 83,
+   "html": "Tall, white-haired, coldly elegant in black robes of the finest quality. One hand gripping a silver-handled cane which took on the character of a deadly weapon just by being in that hand. His eyes regarded the room with the dispassionate quality of an executioner, a man to whom killing was not painful, or even deliciously forbidden, but just a routine activity like breathing.",
+   "text": "Tall, white-haired, coldly elegant in black robes of the finest quality. One hand gripping a silver-handled cane which took on the character of a deadly weapon just by being in that hand. His eyes regarded the room with the dispassionate quality of an executioner, a man to whom killing was not painful, or even deliciously forbidden, but just a routine activity like breathing.",
+   "break_before": false
+  },
+  {
+   "n": 358,
+   "local": 84,
+   "html": "That was the man who had, just that moment, strolled in through the open door.",
+   "text": "That was the man who had, just that moment, strolled in through the open door.",
+   "break_before": false
+  },
+  {
+   "n": 359,
+   "local": 85,
+   "html": "\"Draco,\" said the man, low and very angry, \"<em>what</em> are you <em>saying?</em> \"",
+   "text": "\"Draco,\" said the man, low and very angry, \"what are you saying? \"",
+   "break_before": false
+  },
+  {
+   "n": 360,
+   "local": 86,
+   "html": "In one split second of sympathetic panic, Harry formulated a rescue plan.",
+   "text": "In one split second of sympathetic panic, Harry formulated a rescue plan.",
+   "break_before": false
+  },
+  {
+   "n": 361,
+   "local": 87,
+   "html": "\"Lucius Malfoy!\" gasped Harry Potter. \"<em>The</em> Lucius Malfoy?\"",
+   "text": "\"Lucius Malfoy!\" gasped Harry Potter. \"The Lucius Malfoy?\"",
+   "break_before": false
+  },
+  {
+   "n": 362,
+   "local": 88,
+   "html": "One of Malkin's assistants had to turn away and face the wall.",
+   "text": "One of Malkin's assistants had to turn away and face the wall.",
+   "break_before": false
+  },
+  {
+   "n": 363,
+   "local": 89,
+   "html": "Coolly murderous eyes regarded him. \"Harry Potter.\"",
+   "text": "Coolly murderous eyes regarded him. \"Harry Potter.\"",
+   "break_before": false
+  },
+  {
+   "n": 364,
+   "local": 90,
+   "html": "\"I am so, so honoured to meet you!\"",
+   "text": "\"I am so, so honoured to meet you!\"",
+   "break_before": false
+  },
+  {
+   "n": 365,
+   "local": 91,
+   "html": "The dark eyes widened, shocked surprise replacing deadly threat.",
+   "text": "The dark eyes widened, shocked surprise replacing deadly threat.",
+   "break_before": false
+  },
+  {
+   "n": 366,
+   "local": 92,
+   "html": "\"Your son has been telling me <em>all</em> about you,\" Harry gushed on, hardly even knowing what was coming out of his mouth but just talking as fast as possible. \"But of course I knew about you all before then, everyone knows about you, the great Lucius Malfoy! The most honoured laureate of all the House of Slytherin, I've been thinking about trying to get into Slytherin House myself just because I heard you were in it as a child -\"",
+   "text": "\"Your son has been telling me all about you,\" Harry gushed on, hardly even knowing what was coming out of his mouth but just talking as fast as possible. \"But of course I knew about you all before then, everyone knows about you, the great Lucius Malfoy! The most honoured laureate of all the House of Slytherin, I've been thinking about trying to get into Slytherin House myself just because I heard you were in it as a child -\"",
+   "break_before": false
+  },
+  {
+   "n": 367,
+   "local": 93,
+   "html": "\"<em>What are you saying, Mr. Potter?</em> \" came a near-scream from outside the shop, and Professor McGonagall burst in a second later.",
+   "text": "\"What are you saying, Mr. Potter? \" came a near-scream from outside the shop, and Professor McGonagall burst in a second later.",
+   "break_before": false
+  },
+  {
+   "n": 368,
+   "local": 94,
+   "html": "There was such pure horror on her face that Harry's mouth opened automatically, and then blocked on nothing-to-say.",
+   "text": "There was such pure horror on her face that Harry's mouth opened automatically, and then blocked on nothing-to-say.",
+   "break_before": false
+  },
+  {
+   "n": 369,
+   "local": 95,
+   "html": "\"Professor McGonagall!\" cried Draco. \"Is it really you? I've heard so much about you from my father, I've been thinking of trying to get Sorted into Gryffindor so I can -\"",
+   "text": "\"Professor McGonagall!\" cried Draco. \"Is it really you? I've heard so much about you from my father, I've been thinking of trying to get Sorted into Gryffindor so I can -\"",
+   "break_before": false
+  },
+  {
+   "n": 370,
+   "local": 96,
+   "html": "\"<em>What?</em> \" bellowed Lucius Malfoy and Professor McGonagall in perfect unison, standing side-by-side. Their heads swivelled to look at each other in duplicate motions, and then the two recoiled from one another as though performing a synchronised dance.",
+   "text": "\"What? \" bellowed Lucius Malfoy and Professor McGonagall in perfect unison, standing side-by-side. Their heads swivelled to look at each other in duplicate motions, and then the two recoiled from one another as though performing a synchronised dance.",
+   "break_before": false
+  },
+  {
+   "n": 371,
+   "local": 97,
+   "html": "There was a sudden flurry of action as Lucius seized Draco and dragged him out of the shop.",
+   "text": "There was a sudden flurry of action as Lucius seized Draco and dragged him out of the shop.",
+   "break_before": false
+  },
+  {
+   "n": 372,
+   "local": 98,
+   "html": "And then there was silence.",
+   "text": "And then there was silence.",
+   "break_before": false
+  },
+  {
+   "n": 373,
+   "local": 99,
+   "html": "In Professor McGonagall's left hand lay a small drinking-glass, tilted over to one side in the forgotten rush, now slowly dripping drops of alcohol into the tiny puddle of red wine that had appeared on the floor.",
+   "text": "In Professor McGonagall's left hand lay a small drinking-glass, tilted over to one side in the forgotten rush, now slowly dripping drops of alcohol into the tiny puddle of red wine that had appeared on the floor.",
+   "break_before": false
+  },
+  {
+   "n": 374,
+   "local": 100,
+   "html": "Professor McGonagall strode forward into the shop until she was opposite Madam Malkin.",
+   "text": "Professor McGonagall strode forward into the shop until she was opposite Madam Malkin.",
+   "break_before": false
+  },
+  {
+   "n": 375,
+   "local": 101,
+   "html": "\"Madam Malkin,\" said Professor McGonagall, her voice calm. \"What has been happening here?\"",
+   "text": "\"Madam Malkin,\" said Professor McGonagall, her voice calm. \"What has been happening here?\"",
+   "break_before": false
+  },
+  {
+   "n": 376,
+   "local": 102,
+   "html": "Madam Malkin looked back silently for four seconds, and then cracked up. She fell against the wall, wheezing out laughter, and that set off both of her assistants, one of whom fell to her hands and knees on the floor, giggling hysterically.",
+   "text": "Madam Malkin looked back silently for four seconds, and then cracked up. She fell against the wall, wheezing out laughter, and that set off both of her assistants, one of whom fell to her hands and knees on the floor, giggling hysterically.",
+   "break_before": false
+  },
+  {
+   "n": 377,
+   "local": 103,
+   "html": "Professor McGonagall slowly turned to look at Harry, her expression chilly. \"I leave you alone for six minutes. Six minutes, Mr. Potter, by the very clock.\"",
+   "text": "Professor McGonagall slowly turned to look at Harry, her expression chilly. \"I leave you alone for six minutes. Six minutes, Mr. Potter, by the very clock.\"",
+   "break_before": false
+  },
+  {
+   "n": 378,
+   "local": 104,
+   "html": "\"I was only joking around,\" Harry protested, as the sounds of hysterical laughter went on nearby.",
+   "text": "\"I was only joking around,\" Harry protested, as the sounds of hysterical laughter went on nearby.",
+   "break_before": false
+  },
+  {
+   "n": 379,
+   "local": 105,
+   "html": "\"<em>Draco Malfoy said in front of his father that he wanted to be sorted into Gryffindor!</em> Joking around <em>isn't enough</em> to <em>do</em> that!\" Professor McGonagall paused, visibly taking breaths. \"What part of 'get fitted for robes' sounded to you like <em>please cast a Confundus Charm on the entire universe!</em> \"",
+   "text": "\"Draco Malfoy said in front of his father that he wanted to be sorted into Gryffindor! Joking around isn't enough to do that!\" Professor McGonagall paused, visibly taking breaths. \"What part of 'get fitted for robes' sounded to you like please cast a Confundus Charm on the entire universe! \"",
+   "break_before": false
+  },
+  {
+   "n": 380,
+   "local": 106,
+   "html": "\"He was in a situational context where those actions made internal sense -\"",
+   "text": "\"He was in a situational context where those actions made internal sense -\"",
+   "break_before": false
+  },
+  {
+   "n": 381,
+   "local": 107,
+   "html": "\"No. Don't explain. I don't want to know what happened in here, ever. Whatever dark power inhabits you, it is <em>contagious,</em> and I don't want to end up like poor Draco Malfoy, poor Madam Malkin and her two poor assistants.\"",
+   "text": "\"No. Don't explain. I don't want to know what happened in here, ever. Whatever dark power inhabits you, it is contagious, and I don't want to end up like poor Draco Malfoy, poor Madam Malkin and her two poor assistants.\"",
+   "break_before": false
+  },
+  {
+   "n": 382,
+   "local": 108,
+   "html": "Harry sighed. It was clear that Professor McGonagall wasn't in a mood to listen to reasonable explanations. He looked at Madam Malkin, who was still wheezing against the wall, and Malkin's two assistants, who had now <em>both</em> fallen to their knees, and finally down at his own tape-measure-draped body.",
+   "text": "Harry sighed. It was clear that Professor McGonagall wasn't in a mood to listen to reasonable explanations. He looked at Madam Malkin, who was still wheezing against the wall, and Malkin's two assistants, who had now both fallen to their knees, and finally down at his own tape-measure-draped body.",
+   "break_before": false
+  },
+  {
+   "n": 383,
+   "local": 109,
+   "html": "\"I'm not quite done being fitted for clothes,\" Harry said kindly. \"Why don't you go back and have another drink?\"",
+   "text": "\"I'm not quite done being fitted for clothes,\" Harry said kindly. \"Why don't you go back and have another drink?\"",
+   "break_before": false
+  }
+ ]
+}

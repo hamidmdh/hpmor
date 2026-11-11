@@ -1,0 +1,2086 @@
+{
+ "chapter": 22,
+ "title": "The Scientific Method",
+ "source": "https://hpmor.info/chapter/22/",
+ "paragraphs": [
+  {
+   "n": 3984,
+   "local": 1,
+   "html": "<em>Something, somewhere, somewhen, must have happened differently...</em>",
+   "text": "Something, somewhere, somewhen, must have happened differently...",
+   "break_before": false
+  },
+  {
+   "n": 3985,
+   "local": 2,
+   "html": "PETUNIA EVANS married Michael Verres, a Professor of Biochemistry at Oxford.",
+   "text": "PETUNIA EVANS married Michael Verres, a Professor of Biochemistry at Oxford.",
+   "break_before": false
+  },
+  {
+   "n": 3986,
+   "local": 3,
+   "html": "HARRY JAMES POTTER-EVANS-VERRES grew up in a house filled to the brim with books. He once bit a math teacher who didn't know what a logarithm was. He's read <em>Godel, Escher, Bach</em> and <em>Judgment Under Uncertainty: Heuristics and Biases</em> and volume one of <em>The Feynman Lectures on Physics.</em> And despite what everyone who's met him seems to fear, he doesn't want to become the next Dark Lord. He was raised better than that. He wants to discover the laws of magic and become a god.",
+   "text": "HARRY JAMES POTTER-EVANS-VERRES grew up in a house filled to the brim with books. He once bit a math teacher who didn't know what a logarithm was. He's read Godel, Escher, Bach and Judgment Under Uncertainty: Heuristics and Biases and volume one of The Feynman Lectures on Physics. And despite what everyone who's met him seems to fear, he doesn't want to become the next Dark Lord. He was raised better than that. He wants to discover the laws of magic and become a god.",
+   "break_before": false
+  },
+  {
+   "n": 3987,
+   "local": 4,
+   "html": "HERMIONE GRANGER is doing better than him in every class except broomstick riding.",
+   "text": "HERMIONE GRANGER is doing better than him in every class except broomstick riding.",
+   "break_before": false
+  },
+  {
+   "n": 3988,
+   "local": 5,
+   "html": "DRACO MALFOY is exactly what you would expect an eleven-year-old boy to be like if Darth Vader were his doting father.",
+   "text": "DRACO MALFOY is exactly what you would expect an eleven-year-old boy to be like if Darth Vader were his doting father.",
+   "break_before": false
+  },
+  {
+   "n": 3989,
+   "local": 6,
+   "html": "PROFESSOR QUIRRELL is living his lifelong dream of teaching Defense Against the Dark Arts, or as he prefers to call his class, Battle Magic. His students are all wondering what's going to go wrong with the Defense Professor this time.",
+   "text": "PROFESSOR QUIRRELL is living his lifelong dream of teaching Defense Against the Dark Arts, or as he prefers to call his class, Battle Magic. His students are all wondering what's going to go wrong with the Defense Professor this time.",
+   "break_before": false
+  },
+  {
+   "n": 3990,
+   "local": 7,
+   "html": "DUMBLEDORE is either insane, or playing some vastly deeper game which involved setting fire to a chicken.",
+   "text": "DUMBLEDORE is either insane, or playing some vastly deeper game which involved setting fire to a chicken.",
+   "break_before": false
+  },
+  {
+   "n": 3991,
+   "local": 8,
+   "html": "DEPUTY HEADMISTRESS MINERVA MCGONAGALL needs to go off somewhere private and scream for a while.",
+   "text": "DEPUTY HEADMISTRESS MINERVA MCGONAGALL needs to go off somewhere private and scream for a while.",
+   "break_before": false
+  },
+  {
+   "n": 3992,
+   "local": 9,
+   "html": "Presenting:",
+   "text": "Presenting:",
+   "break_before": false
+  },
+  {
+   "n": 3993,
+   "local": 10,
+   "html": "HARRY POTTER AND THE METHODS OF RATIONALITY",
+   "text": "HARRY POTTER AND THE METHODS OF RATIONALITY",
+   "break_before": false
+  },
+  {
+   "n": 3994,
+   "local": 11,
+   "html": "You ain't guessin' where this one's going.",
+   "text": "You ain't guessin' where this one's going.",
+   "break_before": false
+  },
+  {
+   "n": 3995,
+   "local": 12,
+   "html": "<em>Some notes:</em>",
+   "text": "Some notes:",
+   "break_before": true
+  },
+  {
+   "n": 3996,
+   "local": 13,
+   "html": "The opinions of characters in this story are not necessarily those of the author. What warm!Harry thinks is <em>often</em> meant as a good pattern to follow, especially if Harry thinks about how he can cite scientific studies to back up a particular principle. But not everything Harry does or thinks is a good idea. That wouldn't work as a story. And the less warm characters may sometimes have valuable lessons to offer, but those lessons may also be dangerously double-edged.",
+   "text": "The opinions of characters in this story are not necessarily those of the author. What warm!Harry thinks is often meant as a good pattern to follow, especially if Harry thinks about how he can cite scientific studies to back up a particular principle. But not everything Harry does or thinks is a good idea. That wouldn't work as a story. And the less warm characters may sometimes have valuable lessons to offer, but those lessons may also be dangerously double-edged.",
+   "break_before": false
+  },
+  {
+   "n": 3997,
+   "local": 14,
+   "html": "If you haven't visited <strong>HPMOR DOT COM</strong>, don't forget to do that at some point; otherwise you'll miss out on the fan art, how to learn everything Harry knows, and more.",
+   "text": "If you haven't visited HPMOR DOT COM, don't forget to do that at some point; otherwise you'll miss out on the fan art, how to learn everything Harry knows, and more.",
+   "break_before": false
+  },
+  {
+   "n": 3998,
+   "local": 15,
+   "html": "If you haven't just enjoyed this fic, but learned something from it, then please consider blogging it or tweeting it. A work like this only does as much good as there are people who read it.",
+   "text": "If you haven't just enjoyed this fic, but learned something from it, then please consider blogging it or tweeting it. A work like this only does as much good as there are people who read it.",
+   "break_before": false
+  },
+  {
+   "n": 3999,
+   "local": 16,
+   "html": "<em>And now, back to your regularly scheduled fic...</em>",
+   "text": "And now, back to your regularly scheduled fic...",
+   "break_before": false
+  },
+  {
+   "n": 4000,
+   "local": 17,
+   "html": "The key to strategy is not to choose <em>a</em> path to J. K. Rowling, but to choose so that <em>all</em> paths lead to a J. K. Rowling.",
+   "text": "The key to strategy is not to choose a path to J. K. Rowling, but to choose so that all paths lead to a J. K. Rowling.",
+   "break_before": true
+  },
+  {
+   "n": 4001,
+   "local": 18,
+   "html": "A small study room, near but not in the Ravenclaw dorm, one of the many many unused rooms of Hogwarts. Gray stone the floors, red brick the walls, dark stained wood the ceiling, four glowing glass globes set into the four walls of the room. A circular table that looked like a wide slab of black marble set on thick black marble legs for columns, but which had proved to be very light (weight and mass both) and wasn't difficult to pick up and move around if necessary. Two comfortably cushioned chairs which had seemed at first to be locked to the floor in inconvenient places, but which would, the two of them had finally discovered, scoot around to where you stood as soon as you leaned over in a posture that looked like you were about to sit down.",
+   "text": "A small study room, near but not in the Ravenclaw dorm, one of the many many unused rooms of Hogwarts. Gray stone the floors, red brick the walls, dark stained wood the ceiling, four glowing glass globes set into the four walls of the room. A circular table that looked like a wide slab of black marble set on thick black marble legs for columns, but which had proved to be very light (weight and mass both) and wasn't difficult to pick up and move around if necessary. Two comfortably cushioned chairs which had seemed at first to be locked to the floor in inconvenient places, but which would, the two of them had finally discovered, scoot around to where you stood as soon as you leaned over in a posture that looked like you were about to sit down.",
+   "break_before": true
+  },
+  {
+   "n": 4002,
+   "local": 19,
+   "html": "There also seemed to be a number of bats flying around the room.",
+   "text": "There also seemed to be a number of bats flying around the room.",
+   "break_before": false
+  },
+  {
+   "n": 4003,
+   "local": 20,
+   "html": "That was where, future historians would one day record - <em>if</em> the whole project ever actually amounted to anything - the scientific study of magic had begun, with two young first-year Hogwarts students.",
+   "text": "That was where, future historians would one day record - if the whole project ever actually amounted to anything - the scientific study of magic had begun, with two young first-year Hogwarts students.",
+   "break_before": false
+  },
+  {
+   "n": 4004,
+   "local": 21,
+   "html": "Harry James Potter-Evans-Verres, theorist.",
+   "text": "Harry James Potter-Evans-Verres, theorist.",
+   "break_before": false
+  },
+  {
+   "n": 4005,
+   "local": 22,
+   "html": "And Hermione Jean Granger, experimenter and test subject.",
+   "text": "And Hermione Jean Granger, experimenter and test subject.",
+   "break_before": false
+  },
+  {
+   "n": 4006,
+   "local": 23,
+   "html": "Harry was doing better in classes now, at least the classes he considered interesting. He'd read more books, and not books for eleven-year-olds either. He'd practiced Transfiguration over and over during one of his extra hours every day, taking the other hour for beginning Occlumency. He was taking the worthwhile classes <em>seriously,</em> not just turning in his homework every day, but using his free time to learn more than was required, to read other books beyond the given textbooks, looking to master the subject and not just memorize a few test answers, to excel. You didn't see that much outside Ravenclaw. And now even <em>within</em> Ravenclaw, his only remaining competitors were Padma Patil (whose parents came from a non-English-speaking culture and thus had raised her with an actual work ethic), Anthony Goldstein (out of a certain tiny ethnic group that won 25% of the Nobel Prizes), and of course, striding far above everyone like a Titan strolling through a pack of puppies, Hermione Granger.",
+   "text": "Harry was doing better in classes now, at least the classes he considered interesting. He'd read more books, and not books for eleven-year-olds either. He'd practiced Transfiguration over and over during one of his extra hours every day, taking the other hour for beginning Occlumency. He was taking the worthwhile classes seriously, not just turning in his homework every day, but using his free time to learn more than was required, to read other books beyond the given textbooks, looking to master the subject and not just memorize a few test answers, to excel. You didn't see that much outside Ravenclaw. And now even within Ravenclaw, his only remaining competitors were Padma Patil (whose parents came from a non-English-speaking culture and thus had raised her with an actual work ethic), Anthony Goldstein (out of a certain tiny ethnic group that won 25% of the Nobel Prizes), and of course, striding far above everyone like a Titan strolling through a pack of puppies, Hermione Granger.",
+   "break_before": false
+  },
+  {
+   "n": 4007,
+   "local": 24,
+   "html": "To run this particular experiment you needed the test subject to learn sixteen new spells, on their own, without help or correction. That meant the test subject was Hermione. Period.",
+   "text": "To run this particular experiment you needed the test subject to learn sixteen new spells, on their own, without help or correction. That meant the test subject was Hermione. Period.",
+   "break_before": false
+  },
+  {
+   "n": 4008,
+   "local": 25,
+   "html": "It should be mentioned at this point that the bats flying around the room were <em>not</em> glowing.",
+   "text": "It should be mentioned at this point that the bats flying around the room were not glowing.",
+   "break_before": false
+  },
+  {
+   "n": 4009,
+   "local": 26,
+   "html": "Harry was having trouble accepting the implications of this.",
+   "text": "Harry was having trouble accepting the implications of this.",
+   "break_before": false
+  },
+  {
+   "n": 4010,
+   "local": 27,
+   "html": "\"<em>Oogely boogely!</em> \" Hermione said again.",
+   "text": "\"Oogely boogely! \" Hermione said again.",
+   "break_before": false
+  },
+  {
+   "n": 4011,
+   "local": 28,
+   "html": "Again, at the tip of Hermione's wand, there was the abrupt, transitionless appearance of a bat. One moment, empty air. The next moment, bat. Its wings seemed to be already moving in the instant when it appeared.",
+   "text": "Again, at the tip of Hermione's wand, there was the abrupt, transitionless appearance of a bat. One moment, empty air. The next moment, bat. Its wings seemed to be already moving in the instant when it appeared.",
+   "break_before": false
+  },
+  {
+   "n": 4012,
+   "local": 29,
+   "html": "And it <em>still wasn't glowing.</em>",
+   "text": "And it still wasn't glowing.",
+   "break_before": false
+  },
+  {
+   "n": 4013,
+   "local": 30,
+   "html": "\"Can I stop now?\" said Hermione.",
+   "text": "\"Can I stop now?\" said Hermione.",
+   "break_before": false
+  },
+  {
+   "n": 4014,
+   "local": 31,
+   "html": "\"Are you sure,\" Harry said through what seemed to be a block in his throat, \"that maybe with a bit more practice you couldn't get it to glow?\" He was violating the experimental procedure he'd written down beforehand, which was a sin, and he was violating it because he didn't like the results he was getting, which was a <em>mortal</em> sin, you could go to Science Hell for that, but it didn't seem to be mattering anyway.",
+   "text": "\"Are you sure,\" Harry said through what seemed to be a block in his throat, \"that maybe with a bit more practice you couldn't get it to glow?\" He was violating the experimental procedure he'd written down beforehand, which was a sin, and he was violating it because he didn't like the results he was getting, which was a mortal sin, you could go to Science Hell for that, but it didn't seem to be mattering anyway.",
+   "break_before": false
+  },
+  {
+   "n": 4015,
+   "local": 32,
+   "html": "\"What did you change this time?\" Hermione said, sounding a little weary.",
+   "text": "\"What did you change this time?\" Hermione said, sounding a little weary.",
+   "break_before": false
+  },
+  {
+   "n": 4016,
+   "local": 33,
+   "html": "\"The durations of the <em>oo,</em> <em>eh,</em> and <em>ee</em> sounds. It's supposed to be 3 to 2 to 2, not 3 to 1 to 1.\"",
+   "text": "\"The durations of the oo, eh, and ee sounds. It's supposed to be 3 to 2 to 2, not 3 to 1 to 1.\"",
+   "break_before": false
+  },
+  {
+   "n": 4017,
+   "local": 34,
+   "html": "\"<em>Oogely boogely!</em> \" said Hermione.",
+   "text": "\"Oogely boogely! \" said Hermione.",
+   "break_before": false
+  },
+  {
+   "n": 4018,
+   "local": 35,
+   "html": "The bat materialized with only one wing and spun pathetically to the floor, flopping around in a circle on the gray stone.",
+   "text": "The bat materialized with only one wing and spun pathetically to the floor, flopping around in a circle on the gray stone.",
+   "break_before": false
+  },
+  {
+   "n": 4019,
+   "local": 36,
+   "html": "\"Now what is it really?\" said Hermione.",
+   "text": "\"Now what is it really?\" said Hermione.",
+   "break_before": false
+  },
+  {
+   "n": 4020,
+   "local": 37,
+   "html": "\"3 to 2 to 1.\"",
+   "text": "\"3 to 2 to 1.\"",
+   "break_before": false
+  },
+  {
+   "n": 4021,
+   "local": 38,
+   "html": "\"<em>Oogely boogely!</em> \"",
+   "text": "\"Oogely boogely! \"",
+   "break_before": false
+  },
+  {
+   "n": 4022,
+   "local": 39,
+   "html": "This time the bat didn't have any wings at all and fell with a plop like a dead mouse.",
+   "text": "This time the bat didn't have any wings at all and fell with a plop like a dead mouse.",
+   "break_before": false
+  },
+  {
+   "n": 4023,
+   "local": 40,
+   "html": "\"3 to 1 to 2.\"",
+   "text": "\"3 to 1 to 2.\"",
+   "break_before": false
+  },
+  {
+   "n": 4024,
+   "local": 41,
+   "html": "And lo the bat did materialize and it did fly up at once toward the ceiling, healthy and glowing a bright green.",
+   "text": "And lo the bat did materialize and it did fly up at once toward the ceiling, healthy and glowing a bright green.",
+   "break_before": false
+  },
+  {
+   "n": 4025,
+   "local": 42,
+   "html": "Hermione nodded in satisfaction. \"Okay, what next?\"",
+   "text": "Hermione nodded in satisfaction. \"Okay, what next?\"",
+   "break_before": false
+  },
+  {
+   "n": 4026,
+   "local": 43,
+   "html": "There was a long pause.",
+   "text": "There was a long pause.",
+   "break_before": false
+  },
+  {
+   "n": 4027,
+   "local": 44,
+   "html": "\"<em>Seriously?</em> You <em>seriously</em> have to say <em>Oogely boogely</em> with the duration of the <em>oo,</em> <em>eh,</em> and <em>ee</em> sounds having a ratio of 3 to 1 to 2, or the bat won't glow? <em>Why? Why? For the love of all that is sacred, why?</em> \"",
+   "text": "\"Seriously? You seriously have to say Oogely boogely with the duration of the oo, eh, and ee sounds having a ratio of 3 to 1 to 2, or the bat won't glow? Why? Why? For the love of all that is sacred, why? \"",
+   "break_before": false
+  },
+  {
+   "n": 4028,
+   "local": 45,
+   "html": "\"Why not?\"",
+   "text": "\"Why not?\"",
+   "break_before": false
+  },
+  {
+   "n": 4029,
+   "local": 46,
+   "html": "\"<em>AAAAAAAAARRRRRRGHHHH!</em> \"",
+   "text": "\"AAAAAAAAARRRRRRGHHHH! \"",
+   "break_before": false
+  },
+  {
+   "n": 4030,
+   "local": 47,
+   "html": "<em>Thud. Thud. Thud.</em>",
+   "text": "Thud. Thud. Thud.",
+   "break_before": false
+  },
+  {
+   "n": 4031,
+   "local": 48,
+   "html": "Harry had thought about the nature of magic for a while, and then designed a series of experiments based on the premise that virtually everything wizards believed about magic was wrong.",
+   "text": "Harry had thought about the nature of magic for a while, and then designed a series of experiments based on the premise that virtually everything wizards believed about magic was wrong.",
+   "break_before": false
+  },
+  {
+   "n": 4032,
+   "local": 49,
+   "html": "You couldn't <em>really</em> need to say 'Wingardium Leviosa' in exactly the right way in order to levitate something, because, come on, 'Wingardium Leviosa'? The universe was going to check that you said 'Wingardium Leviosa' in exactly the right way and otherwise it wouldn't make the quill float?",
+   "text": "You couldn't really need to say 'Wingardium Leviosa' in exactly the right way in order to levitate something, because, come on, 'Wingardium Leviosa'? The universe was going to check that you said 'Wingardium Leviosa' in exactly the right way and otherwise it wouldn't make the quill float?",
+   "break_before": false
+  },
+  {
+   "n": 4033,
+   "local": 50,
+   "html": "No. Obviously no, once you thought about it seriously. Someone, quite possibly an actual preschool child, but at any rate some English-speaking magic user, who thought that 'Wingardium Leviosa' sounded all flyish and floaty, had originally spoken those words while casting the spell for the first time. And then told everyone else it was necessary.",
+   "text": "No. Obviously no, once you thought about it seriously. Someone, quite possibly an actual preschool child, but at any rate some English-speaking magic user, who thought that 'Wingardium Leviosa' sounded all flyish and floaty, had originally spoken those words while casting the spell for the first time. And then told everyone else it was necessary.",
+   "break_before": false
+  },
+  {
+   "n": 4034,
+   "local": 51,
+   "html": "But (Harry had reasoned) it didn't <em>have</em> to be that way, it wasn't built into the universe, it was built into <em>you</em>.",
+   "text": "But (Harry had reasoned) it didn't have to be that way, it wasn't built into the universe, it was built into you.",
+   "break_before": false
+  },
+  {
+   "n": 4035,
+   "local": 52,
+   "html": "There was an old story passed down among scientists, a cautionary tale, the story of Blondlot and the N-Rays.",
+   "text": "There was an old story passed down among scientists, a cautionary tale, the story of Blondlot and the N-Rays.",
+   "break_before": false
+  },
+  {
+   "n": 4036,
+   "local": 53,
+   "html": "Shortly after the discovery of X-Rays, an eminent French physicist named Prosper-Rene Blondlot - who had been first to measure the speed of radio waves and show that they propagated at the speed of light - had announced the discovery of an amazing new phenomenon, N-Rays, which would induce a faint brightening of a screen. You had to look hard to see it, but it was there. N-Rays had all sorts of interesting properties. They were bent by aluminium and could be focused by an aluminium prism into striking a treated thread of cadmium sulfide, which would then glow faintly in the dark...",
+   "text": "Shortly after the discovery of X-Rays, an eminent French physicist named Prosper-Rene Blondlot - who had been first to measure the speed of radio waves and show that they propagated at the speed of light - had announced the discovery of an amazing new phenomenon, N-Rays, which would induce a faint brightening of a screen. You had to look hard to see it, but it was there. N-Rays had all sorts of interesting properties. They were bent by aluminium and could be focused by an aluminium prism into striking a treated thread of cadmium sulfide, which would then glow faintly in the dark...",
+   "break_before": false
+  },
+  {
+   "n": 4037,
+   "local": 54,
+   "html": "Soon dozens of other scientists had confirmed Blondlot's results, especially in France.",
+   "text": "Soon dozens of other scientists had confirmed Blondlot's results, especially in France.",
+   "break_before": false
+  },
+  {
+   "n": 4038,
+   "local": 55,
+   "html": "But there were still other scientists, in England and Germany, who said they weren't quite sure they could see that faint glow.",
+   "text": "But there were still other scientists, in England and Germany, who said they weren't quite sure they could see that faint glow.",
+   "break_before": false
+  },
+  {
+   "n": 4039,
+   "local": 56,
+   "html": "Blondlot had said they were probably setting up the machinery wrong.",
+   "text": "Blondlot had said they were probably setting up the machinery wrong.",
+   "break_before": false
+  },
+  {
+   "n": 4040,
+   "local": 57,
+   "html": "One day Blondlot had given a demonstration of N-Rays. The lights had turned out, and his assistant had called off the brightening and darkening as Blondlot performed his manipulations.",
+   "text": "One day Blondlot had given a demonstration of N-Rays. The lights had turned out, and his assistant had called off the brightening and darkening as Blondlot performed his manipulations.",
+   "break_before": false
+  },
+  {
+   "n": 4041,
+   "local": 58,
+   "html": "It had been a normal demonstration, all the results going as expected.",
+   "text": "It had been a normal demonstration, all the results going as expected.",
+   "break_before": false
+  },
+  {
+   "n": 4042,
+   "local": 59,
+   "html": "Even though an American scientist named Robert Wood had quietly stolen the aluminium prism from the center of Blondlot's mechanism.",
+   "text": "Even though an American scientist named Robert Wood had quietly stolen the aluminium prism from the center of Blondlot's mechanism.",
+   "break_before": false
+  },
+  {
+   "n": 4043,
+   "local": 60,
+   "html": "And that had been the end of N-Rays.",
+   "text": "And that had been the end of N-Rays.",
+   "break_before": false
+  },
+  {
+   "n": 4044,
+   "local": 61,
+   "html": "<em>Reality,</em> Philip K. Dick had once said, <em>is that which, when you stop believing in it, doesn't go away.</em>",
+   "text": "Reality, Philip K. Dick had once said, is that which, when you stop believing in it, doesn't go away.",
+   "break_before": false
+  },
+  {
+   "n": 4045,
+   "local": 62,
+   "html": "Blondlot's sin had been obvious in retrospect. He shouldn't have told his assistant what he was doing. Blondlot should have made sure the assistant <em>didn't</em> know what was being tried or when it was being tried, before asking him to describe the screen's brightness. It could have been that simple.",
+   "text": "Blondlot's sin had been obvious in retrospect. He shouldn't have told his assistant what he was doing. Blondlot should have made sure the assistant didn't know what was being tried or when it was being tried, before asking him to describe the screen's brightness. It could have been that simple.",
+   "break_before": false
+  },
+  {
+   "n": 4046,
+   "local": 63,
+   "html": "Nowadays it was called \"blinding\" and it was one of the things modern scientists took for granted. If you were doing a psychology experiment to see whether people got angrier when they were hit over the head with red truncheons than with green truncheons, you didn't get to look at the subjects yourself and decide how \"angry\" they were. You would snap photos of them after they'd been hit with the truncheon, and send the photos off to a panel of raters, who would rate on a scale of 1 to 10 how angry each person looked, obviously <em>without</em> knowing what color of truncheon they'd been hit with. Indeed there was no good reason to tell the raters what the experiment was about, at all. You <em>certainly</em> wouldn't tell the experimental subjects that <em>you thought</em> they ought to be angrier when hit by red truncheons. You'd just offer them 20 pounds, lure them into a test room, hit them with a truncheon, color randomly assigned of course, and snap the photo. In fact the truncheon- hitting and photo-snapping would be done by an assistant who hadn't been told about the hypothesis, so he couldn't look expectant, hit harder, or snap the photo at just the right time.",
+   "text": "Nowadays it was called \"blinding\" and it was one of the things modern scientists took for granted. If you were doing a psychology experiment to see whether people got angrier when they were hit over the head with red truncheons than with green truncheons, you didn't get to look at the subjects yourself and decide how \"angry\" they were. You would snap photos of them after they'd been hit with the truncheon, and send the photos off to a panel of raters, who would rate on a scale of 1 to 10 how angry each person looked, obviously without knowing what color of truncheon they'd been hit with. Indeed there was no good reason to tell the raters what the experiment was about, at all. You certainly wouldn't tell the experimental subjects that you thought they ought to be angrier when hit by red truncheons. You'd just offer them 20 pounds, lure them into a test room, hit them with a truncheon, color randomly assigned of course, and snap the photo. In fact the truncheon- hitting and photo-snapping would be done by an assistant who hadn't been told about the hypothesis, so he couldn't look expectant, hit harder, or snap the photo at just the right time.",
+   "break_before": false
+  },
+  {
+   "n": 4047,
+   "local": 64,
+   "html": "Blondlot had destroyed his reputation with the sort of mistake that would get a failing grade and probably derisive laughter from the T.A. in a first-year undergraduate course on experimental design... in 1991.",
+   "text": "Blondlot had destroyed his reputation with the sort of mistake that would get a failing grade and probably derisive laughter from the T.A. in a first-year undergraduate course on experimental design... in 1991.",
+   "break_before": false
+  },
+  {
+   "n": 4048,
+   "local": 65,
+   "html": "But this had been a bit longer ago, in 1904, and so it had taken months before Robert Wood had formulated the obvious alternative hypothesis and figured out how to test it, and dozens of other scientists had been sucked in.",
+   "text": "But this had been a bit longer ago, in 1904, and so it had taken months before Robert Wood had formulated the obvious alternative hypothesis and figured out how to test it, and dozens of other scientists had been sucked in.",
+   "break_before": false
+  },
+  {
+   "n": 4049,
+   "local": 66,
+   "html": "More than two centuries after science had gotten started. That late in scientific history, it still hadn't been obvious.",
+   "text": "More than two centuries after science had gotten started. That late in scientific history, it still hadn't been obvious.",
+   "break_before": false
+  },
+  {
+   "n": 4050,
+   "local": 67,
+   "html": "Which made it <em>entirely</em> plausible that in the tiny wizarding world, where science didn't seem much known at all, no one had ever tried the first, the simplest, the most obvious thing that any modern scientist would think to check.",
+   "text": "Which made it entirely plausible that in the tiny wizarding world, where science didn't seem much known at all, no one had ever tried the first, the simplest, the most obvious thing that any modern scientist would think to check.",
+   "break_before": false
+  },
+  {
+   "n": 4051,
+   "local": 68,
+   "html": "The books were full of complicated instructions for all the things you had to do <em>exactly right</em> in order to cast a spell. And, Harry had hypothesized, the process of obeying those instructions, of checking that you were following them correctly, probably <em>did</em> do something. It <em>forced you to concentrate on the spell</em>. Being told to just wave your wand and wish probably <em>wouldn't</em> work as well. And once you believed the spell was supposed to work a certain way, once you had practiced it that way, you might not be able to convince yourself that it could work any <em>other</em> way...",
+   "text": "The books were full of complicated instructions for all the things you had to do exactly right in order to cast a spell. And, Harry had hypothesized, the process of obeying those instructions, of checking that you were following them correctly, probably did do something. It forced you to concentrate on the spell. Being told to just wave your wand and wish probably wouldn't work as well. And once you believed the spell was supposed to work a certain way, once you had practiced it that way, you might not be able to convince yourself that it could work any other way...",
+   "break_before": false
+  },
+  {
+   "n": 4052,
+   "local": 69,
+   "html": "...if you did the simple but wrong thing, and tried to test alternative forms <em>yourself.</em>",
+   "text": "...if you did the simple but wrong thing, and tried to test alternative forms yourself.",
+   "break_before": false
+  },
+  {
+   "n": 4053,
+   "local": 70,
+   "html": "But what if you <em>didn't know</em> what the original spell had been like?",
+   "text": "But what if you didn't know what the original spell had been like?",
+   "break_before": false
+  },
+  {
+   "n": 4054,
+   "local": 71,
+   "html": "What if you gave Hermione a list of spells she hadn't studied yet, taken from a book of silly prank spells in the Hogwarts library, and some of those spells had the correct and original instructions, while others had one changed gesture, one changed word? What if you kept the instructions constant, but told her that a spell supposed to create a red worm was supposed to create a blue worm instead?",
+   "text": "What if you gave Hermione a list of spells she hadn't studied yet, taken from a book of silly prank spells in the Hogwarts library, and some of those spells had the correct and original instructions, while others had one changed gesture, one changed word? What if you kept the instructions constant, but told her that a spell supposed to create a red worm was supposed to create a blue worm instead?",
+   "break_before": false
+  },
+  {
+   "n": 4055,
+   "local": 72,
+   "html": "Well, in that case, it had turned out...",
+   "text": "Well, in that case, it had turned out...",
+   "break_before": false
+  },
+  {
+   "n": 4056,
+   "local": 73,
+   "html": "...Harry was having trouble believing his results here...",
+   "text": "...Harry was having trouble believing his results here...",
+   "break_before": false
+  },
+  {
+   "n": 4057,
+   "local": 74,
+   "html": "...if you told Hermione to say \"Oogely boogely\" with the vowel durations in the ratio of 3 to 1 to 1, instead of the correct ratio of 3 to 1 to 2, you still got the bat but it wouldn't glow any more.",
+   "text": "...if you told Hermione to say \"Oogely boogely\" with the vowel durations in the ratio of 3 to 1 to 1, instead of the correct ratio of 3 to 1 to 2, you still got the bat but it wouldn't glow any more.",
+   "break_before": false
+  },
+  {
+   "n": 4058,
+   "local": 75,
+   "html": "Not that belief was <em>irrelevant</em> here. Not that <em>only</em> the words and wand movements mattered.",
+   "text": "Not that belief was irrelevant here. Not that only the words and wand movements mattered.",
+   "break_before": false
+  },
+  {
+   "n": 4059,
+   "local": 76,
+   "html": "If you gave Hermione completely incorrect information about what a spell was supposed to do, it would stop working.",
+   "text": "If you gave Hermione completely incorrect information about what a spell was supposed to do, it would stop working.",
+   "break_before": false
+  },
+  {
+   "n": 4060,
+   "local": 77,
+   "html": "If you didn't tell her at all what the spell was supposed to do, it would stop working.",
+   "text": "If you didn't tell her at all what the spell was supposed to do, it would stop working.",
+   "break_before": false
+  },
+  {
+   "n": 4061,
+   "local": 78,
+   "html": "If she knew in very vague terms what the spell was supposed to do, or she was only partially wrong, then the spell would work as originally described in the book, not the way she'd been told it should.",
+   "text": "If she knew in very vague terms what the spell was supposed to do, or she was only partially wrong, then the spell would work as originally described in the book, not the way she'd been told it should.",
+   "break_before": false
+  },
+  {
+   "n": 4062,
+   "local": 79,
+   "html": "Harry was, at this moment, literally banging his head against the brick wall. Not hard. He didn't want to damage his precious brains. But if he didn't have some outlet for his frustration, he would spontaneously catch on fire.",
+   "text": "Harry was, at this moment, literally banging his head against the brick wall. Not hard. He didn't want to damage his precious brains. But if he didn't have some outlet for his frustration, he would spontaneously catch on fire.",
+   "break_before": false
+  },
+  {
+   "n": 4063,
+   "local": 80,
+   "html": "<em>Thud. Thud. Thud.</em>",
+   "text": "Thud. Thud. Thud.",
+   "break_before": false
+  },
+  {
+   "n": 4064,
+   "local": 81,
+   "html": "It seemed the universe actually <em>did</em> want you to say 'Wingardium Leviosa' and it wanted you to say it in a certain exact way and it didn't care what <em>you</em> thought the pronunciation should be any more than it cared how you felt about gravity.",
+   "text": "It seemed the universe actually did want you to say 'Wingardium Leviosa' and it wanted you to say it in a certain exact way and it didn't care what you thought the pronunciation should be any more than it cared how you felt about gravity.",
+   "break_before": false
+  },
+  {
+   "n": 4065,
+   "local": 82,
+   "html": "<em>WHYYYYYYYYYYYYYYYY?</em>",
+   "text": "WHYYYYYYYYYYYYYYYY?",
+   "break_before": false
+  },
+  {
+   "n": 4066,
+   "local": 83,
+   "html": "The worst part of it was the smug, amused look on Hermione's face.",
+   "text": "The worst part of it was the smug, amused look on Hermione's face.",
+   "break_before": false
+  },
+  {
+   "n": 4067,
+   "local": 84,
+   "html": "Hermione had <em>not</em> been okay with sitting around obediently following Harry's instructions without being told why.",
+   "text": "Hermione had not been okay with sitting around obediently following Harry's instructions without being told why.",
+   "break_before": false
+  },
+  {
+   "n": 4068,
+   "local": 85,
+   "html": "So Harry had explained to her what they were testing.",
+   "text": "So Harry had explained to her what they were testing.",
+   "break_before": false
+  },
+  {
+   "n": 4069,
+   "local": 86,
+   "html": "Harry had explained why they were testing it.",
+   "text": "Harry had explained why they were testing it.",
+   "break_before": false
+  },
+  {
+   "n": 4070,
+   "local": 87,
+   "html": "Harry had explained why probably no wizard had tried it before them.",
+   "text": "Harry had explained why probably no wizard had tried it before them.",
+   "break_before": false
+  },
+  {
+   "n": 4071,
+   "local": 88,
+   "html": "Harry had explained that he was actually fairly confident of his prediction.",
+   "text": "Harry had explained that he was actually fairly confident of his prediction.",
+   "break_before": false
+  },
+  {
+   "n": 4072,
+   "local": 89,
+   "html": "Because, Harry had said, there was <em>no way</em> that the universe actually wanted you to say 'Wingardium Leviosa'.",
+   "text": "Because, Harry had said, there was no way that the universe actually wanted you to say 'Wingardium Leviosa'.",
+   "break_before": false
+  },
+  {
+   "n": 4073,
+   "local": 90,
+   "html": "Hermione had pointed out that this was not what her books said. Hermione had asked if Harry really thought he was smarter, at eleven years old and just over a month into his Hogwarts education, than all the other wizards in the world who disagreed with him.",
+   "text": "Hermione had pointed out that this was not what her books said. Hermione had asked if Harry really thought he was smarter, at eleven years old and just over a month into his Hogwarts education, than all the other wizards in the world who disagreed with him.",
+   "break_before": false
+  },
+  {
+   "n": 4074,
+   "local": 91,
+   "html": "Harry had said the following exact words:",
+   "text": "Harry had said the following exact words:",
+   "break_before": false
+  },
+  {
+   "n": 4075,
+   "local": 92,
+   "html": "\"Of course.\"",
+   "text": "\"Of course.\"",
+   "break_before": false
+  },
+  {
+   "n": 4076,
+   "local": 93,
+   "html": "Now Harry was staring at the red brick directly in front of him and contemplating how hard he would have to hit his head in order to give himself a concussion that would interfere with long-term memory formation and prevent him from remembering this later. Hermione wasn't laughing, but he could feel her <em>intent to laugh</em> radiating out from behind him like a dreadful pressure on his skin, sort of like knowing you were being stalked by a serial killer only <em>worse.</em>",
+   "text": "Now Harry was staring at the red brick directly in front of him and contemplating how hard he would have to hit his head in order to give himself a concussion that would interfere with long-term memory formation and prevent him from remembering this later. Hermione wasn't laughing, but he could feel her intent to laugh radiating out from behind him like a dreadful pressure on his skin, sort of like knowing you were being stalked by a serial killer only worse.",
+   "break_before": false
+  },
+  {
+   "n": 4077,
+   "local": 94,
+   "html": "\"Say it,\" Harry said.",
+   "text": "\"Say it,\" Harry said.",
+   "break_before": false
+  },
+  {
+   "n": 4078,
+   "local": 95,
+   "html": "\"I wasn't <em>going</em> to,\" said the kindly voice of Hermione Granger. \"It didn't seem nice.\"",
+   "text": "\"I wasn't going to,\" said the kindly voice of Hermione Granger. \"It didn't seem nice.\"",
+   "break_before": false
+  },
+  {
+   "n": 4079,
+   "local": 96,
+   "html": "\"Just get it over with,\" said Harry.",
+   "text": "\"Just get it over with,\" said Harry.",
+   "break_before": false
+  },
+  {
+   "n": 4080,
+   "local": 97,
+   "html": "\"Okay! So you gave me this <em>whole long lecture</em> about how hard it was to do basic science and how we might need to stay on the problem for <em>thirty- five years</em>, and then you went and expected us to make the greatest discovery in the history of magic in the first hour we were working together. You didn't just hope, you really expected it. You're silly.\"",
+   "text": "\"Okay! So you gave me this whole long lecture about how hard it was to do basic science and how we might need to stay on the problem for thirty- five years, and then you went and expected us to make the greatest discovery in the history of magic in the first hour we were working together. You didn't just hope, you really expected it. You're silly.\"",
+   "break_before": false
+  },
+  {
+   "n": 4081,
+   "local": 98,
+   "html": "\"Thank you. Now -\"",
+   "text": "\"Thank you. Now -\"",
+   "break_before": false
+  },
+  {
+   "n": 4082,
+   "local": 99,
+   "html": "\"I've read all the books you gave me and I still don't know what to call that. Overconfidence? Planning fallacy? Super duper Lake Wobegon effect? They'll have to name it after you. Harry Bias.\"",
+   "text": "\"I've read all the books you gave me and I still don't know what to call that. Overconfidence? Planning fallacy? Super duper Lake Wobegon effect? They'll have to name it after you. Harry Bias.\"",
+   "break_before": false
+  },
+  {
+   "n": 4083,
+   "local": 100,
+   "html": "\"All <em>right!</em> \"",
+   "text": "\"All right! \"",
+   "break_before": false
+  },
+  {
+   "n": 4084,
+   "local": 101,
+   "html": "\"But it <em>is</em> cute. It's such a boy thing to do.\"",
+   "text": "\"But it is cute. It's such a boy thing to do.\"",
+   "break_before": false
+  },
+  {
+   "n": 4085,
+   "local": 102,
+   "html": "\"<em>Drop dead.</em>\"",
+   "text": "\"Drop dead.\"",
+   "break_before": false
+  },
+  {
+   "n": 4086,
+   "local": 103,
+   "html": "\"Aw, you say the most romantic things.\"",
+   "text": "\"Aw, you say the most romantic things.\"",
+   "break_before": false
+  },
+  {
+   "n": 4087,
+   "local": 104,
+   "html": "<em>Thud. Thud. Thud.</em>",
+   "text": "Thud. Thud. Thud.",
+   "break_before": false
+  },
+  {
+   "n": 4088,
+   "local": 105,
+   "html": "\"So what's next?\" said Hermione.",
+   "text": "\"So what's next?\" said Hermione.",
+   "break_before": false
+  },
+  {
+   "n": 4089,
+   "local": 106,
+   "html": "Harry rested his head against the bricks. His forehead was starting to hurt where he'd been banging it. \"Nothing. I have to go back and design different experiments.\"",
+   "text": "Harry rested his head against the bricks. His forehead was starting to hurt where he'd been banging it. \"Nothing. I have to go back and design different experiments.\"",
+   "break_before": false
+  },
+  {
+   "n": 4090,
+   "local": 107,
+   "html": "Over the last month, Harry had carefully worked out, in advance, a course of experimentation for them that would have lasted until December.",
+   "text": "Over the last month, Harry had carefully worked out, in advance, a course of experimentation for them that would have lasted until December.",
+   "break_before": false
+  },
+  {
+   "n": 4091,
+   "local": 108,
+   "html": "It would have been a <em>great</em> set of experiments if the <em>very first test</em> had not falsified the basic premise.",
+   "text": "It would have been a great set of experiments if the very first test had not falsified the basic premise.",
+   "break_before": false
+  },
+  {
+   "n": 4092,
+   "local": 109,
+   "html": "Harry could not believe he had been this dumb.",
+   "text": "Harry could not believe he had been this dumb.",
+   "break_before": false
+  },
+  {
+   "n": 4093,
+   "local": 110,
+   "html": "\"Let me correct myself,\" said Harry. \"I need to design <em>one</em> new experiment. I'll let you know when we've got it, and we'll do it, and then I'll design the next one. How does that sound?\"",
+   "text": "\"Let me correct myself,\" said Harry. \"I need to design one new experiment. I'll let you know when we've got it, and we'll do it, and then I'll design the next one. How does that sound?\"",
+   "break_before": false
+  },
+  {
+   "n": 4094,
+   "local": 111,
+   "html": "\"It sounds like <em>someone</em> wasted a <em>whole lot of effort</em>.\"",
+   "text": "\"It sounds like someone wasted a whole lot of effort.\"",
+   "break_before": false
+  },
+  {
+   "n": 4095,
+   "local": 112,
+   "html": "<em>Thud.</em> Ow. He'd done that a bit harder than he'd planned.",
+   "text": "Thud. Ow. He'd done that a bit harder than he'd planned.",
+   "break_before": false
+  },
+  {
+   "n": 4096,
+   "local": 113,
+   "html": "\"So,\" said Hermione. She was leaning back in her chair and the smug look was back on her face. \"What did we discover today?\"",
+   "text": "\"So,\" said Hermione. She was leaning back in her chair and the smug look was back on her face. \"What did we discover today?\"",
+   "break_before": false
+  },
+  {
+   "n": 4097,
+   "local": 114,
+   "html": "\"I discovered,\" said Harry through gritted teeth, \"that when it comes to doing truly basic research on a genuinely confusing problem where you have no clue what's going on, my books on scientific methodology aren't worth crap -\"",
+   "text": "\"I discovered,\" said Harry through gritted teeth, \"that when it comes to doing truly basic research on a genuinely confusing problem where you have no clue what's going on, my books on scientific methodology aren't worth crap -\"",
+   "break_before": false
+  },
+  {
+   "n": 4098,
+   "local": 115,
+   "html": "\"Language, Mr. Potter! Some of us are innocent young girls!\"",
+   "text": "\"Language, Mr. Potter! Some of us are innocent young girls!\"",
+   "break_before": false
+  },
+  {
+   "n": 4099,
+   "local": 116,
+   "html": "\"Fine. But if my books were worth a <em>carp,</em> that's a kind of fish not anything bad, they would have given me the following important piece of advice: When there's a confusing problem and you're just starting out and you have a falsifiable hypothesis, go test it. Find some simple, easy way of doing a basic check and do it right away. Don't worry about designing an elaborate course of experiments that would make a grant proposal look impressive to a funding agency. Just check as fast as possible whether your ideas are false before you start investing huge amounts of effort in them. How does that sound for a moral?\"",
+   "text": "\"Fine. But if my books were worth a carp, that's a kind of fish not anything bad, they would have given me the following important piece of advice: When there's a confusing problem and you're just starting out and you have a falsifiable hypothesis, go test it. Find some simple, easy way of doing a basic check and do it right away. Don't worry about designing an elaborate course of experiments that would make a grant proposal look impressive to a funding agency. Just check as fast as possible whether your ideas are false before you start investing huge amounts of effort in them. How does that sound for a moral?\"",
+   "break_before": false
+  },
+  {
+   "n": 4100,
+   "local": 117,
+   "html": "\"Mmm... okay,\" said Hermione. \"But I was also hoping for something like 'Hermione's books aren't worthless. They're written by wise old wizards who know way more about magic than I do. I should pay attention to what Hermione's books say.' Can we have that moral too?\"",
+   "text": "\"Mmm... okay,\" said Hermione. \"But I was also hoping for something like 'Hermione's books aren't worthless. They're written by wise old wizards who know way more about magic than I do. I should pay attention to what Hermione's books say.' Can we have that moral too?\"",
+   "break_before": false
+  },
+  {
+   "n": 4101,
+   "local": 118,
+   "html": "Harry's jaw seemed to be clenched too tightly to let any words out, so he just nodded.",
+   "text": "Harry's jaw seemed to be clenched too tightly to let any words out, so he just nodded.",
+   "break_before": false
+  },
+  {
+   "n": 4102,
+   "local": 119,
+   "html": "\"Great!\" Hermione said. \"I liked this experiment. We learned a lot from it and it only took me an hour or so.\"",
+   "text": "\"Great!\" Hermione said. \"I liked this experiment. We learned a lot from it and it only took me an hour or so.\"",
+   "break_before": false
+  },
+  {
+   "n": 4103,
+   "local": 120,
+   "html": "\"AAAAAAAAAAAAAAHHHHHHHHHHHHHHH!\"",
+   "text": "\"AAAAAAAAAAAAAAHHHHHHHHHHHHHHH!\"",
+   "break_before": false
+  },
+  {
+   "n": 4104,
+   "local": 121,
+   "html": "In the dungeons of Slytherin.",
+   "text": "In the dungeons of Slytherin.",
+   "break_before": true
+  },
+  {
+   "n": 4105,
+   "local": 122,
+   "html": "An unused classroom lit with eerie green light, much brighter this time and coming from a small crystal globe with a temporary enchantment, but eerie green light nonetheless, casting strange shadows from the dusty desks.",
+   "text": "An unused classroom lit with eerie green light, much brighter this time and coming from a small crystal globe with a temporary enchantment, but eerie green light nonetheless, casting strange shadows from the dusty desks.",
+   "break_before": false
+  },
+  {
+   "n": 4106,
+   "local": 123,
+   "html": "Two boy-sized figures in cowled grey cloaks (no masks) had entered in silence, and sat down in two chairs opposite the same desk.",
+   "text": "Two boy-sized figures in cowled grey cloaks (no masks) had entered in silence, and sat down in two chairs opposite the same desk.",
+   "break_before": false
+  },
+  {
+   "n": 4107,
+   "local": 124,
+   "html": "It was the second meeting of the Bayesian Conspiracy.",
+   "text": "It was the second meeting of the Bayesian Conspiracy.",
+   "break_before": false
+  },
+  {
+   "n": 4108,
+   "local": 125,
+   "html": "Draco Malfoy hadn't been sure if he should look forward to it or not.",
+   "text": "Draco Malfoy hadn't been sure if he should look forward to it or not.",
+   "break_before": false
+  },
+  {
+   "n": 4109,
+   "local": 126,
+   "html": "Harry Potter, judging by the expression on his face, didn't seem to have any doubts on the appropriate mood.",
+   "text": "Harry Potter, judging by the expression on his face, didn't seem to have any doubts on the appropriate mood.",
+   "break_before": false
+  },
+  {
+   "n": 4110,
+   "local": 127,
+   "html": "Harry Potter looked like he was ready to kill someone.",
+   "text": "Harry Potter looked like he was ready to kill someone.",
+   "break_before": false
+  },
+  {
+   "n": 4111,
+   "local": 128,
+   "html": "\"Hermione Granger,\" said Harry Potter, just as Draco was opening his mouth. \"<em>Don't ask</em>.\"",
+   "text": "\"Hermione Granger,\" said Harry Potter, just as Draco was opening his mouth. \"Don't ask.\"",
+   "break_before": false
+  },
+  {
+   "n": 4112,
+   "local": 129,
+   "html": "<em>He couldn't have gone on another date, could he?</em> thought Draco, but that didn't make any sense.",
+   "text": "He couldn't have gone on another date, could he? thought Draco, but that didn't make any sense.",
+   "break_before": false
+  },
+  {
+   "n": 4113,
+   "local": 130,
+   "html": "\"Harry,\" said Draco, \"I'm sorry but I have to ask this anyway, did you <em>really</em> order the mudblood girl an expensive mokeskin pouch for her birthday?\"",
+   "text": "\"Harry,\" said Draco, \"I'm sorry but I have to ask this anyway, did you really order the mudblood girl an expensive mokeskin pouch for her birthday?\"",
+   "break_before": false
+  },
+  {
+   "n": 4114,
+   "local": 131,
+   "html": "\"Yes, I did. You've already worked out why, of course.\"",
+   "text": "\"Yes, I did. You've already worked out why, of course.\"",
+   "break_before": false
+  },
+  {
+   "n": 4115,
+   "local": 132,
+   "html": "Draco reached up and raked fingers through his hair in frustration, his cowl brushing the back of his hand. He <em>hadn't</em> been quite sure why, but now he couldn't say so. And Slytherin <em>knew</em> he was courting Harry Potter, he'd made it obvious enough in Defense class. \"Harry,\" said Draco, \"people know I'm friends with you, they don't know about the Conspiracy of course, but they know we're friends, and it makes <em>me</em> look bad when you do that sort of thing.\"",
+   "text": "Draco reached up and raked fingers through his hair in frustration, his cowl brushing the back of his hand. He hadn't been quite sure why, but now he couldn't say so. And Slytherin knew he was courting Harry Potter, he'd made it obvious enough in Defense class. \"Harry,\" said Draco, \"people know I'm friends with you, they don't know about the Conspiracy of course, but they know we're friends, and it makes me look bad when you do that sort of thing.\"",
+   "break_before": false
+  },
+  {
+   "n": 4116,
+   "local": 133,
+   "html": "Harry Potter's face tightened. \"Anyone in Slytherin who can't understand the concept of acting nice toward people you don't actually like should be ground up and fed to pet snakes.\"",
+   "text": "Harry Potter's face tightened. \"Anyone in Slytherin who can't understand the concept of acting nice toward people you don't actually like should be ground up and fed to pet snakes.\"",
+   "break_before": false
+  },
+  {
+   "n": 4117,
+   "local": 134,
+   "html": "\"There are a lot of people in Slytherin who <em>don't,</em>\" Draco said, his voice serious. \"Most people are stupid, and you have to look good in front of them anyway.\" Harry Potter <em>had</em> to understand that if he ever wanted to get anywhere in life.",
+   "text": "\"There are a lot of people in Slytherin who don't,\" Draco said, his voice serious. \"Most people are stupid, and you have to look good in front of them anyway.\" Harry Potter had to understand that if he ever wanted to get anywhere in life.",
+   "break_before": false
+  },
+  {
+   "n": 4118,
+   "local": 135,
+   "html": "\"What do <em>you</em> care what other people think? Are you really going to live your life needing to explain everything you do to the dumbest idiots in Slytherin, letting <em>them</em> judge <em>you?</em> I'm sorry, Draco, but I'm not lowering my cunning plots to the level of what the dumbest Slytherins can understand, just because it might make you look bad otherwise. Not even your friendship is worth that. It would <em>take all the fun out of life.</em> Tell me <em>you</em> haven't ever thought the same thing when someone in Slytherin is being too stupid to breathe, that it's beneath the dignity of a Malfoy to have to pander to them.\"",
+   "text": "\"What do you care what other people think? Are you really going to live your life needing to explain everything you do to the dumbest idiots in Slytherin, letting them judge you? I'm sorry, Draco, but I'm not lowering my cunning plots to the level of what the dumbest Slytherins can understand, just because it might make you look bad otherwise. Not even your friendship is worth that. It would take all the fun out of life. Tell me you haven't ever thought the same thing when someone in Slytherin is being too stupid to breathe, that it's beneath the dignity of a Malfoy to have to pander to them.\"",
+   "break_before": false
+  },
+  {
+   "n": 4119,
+   "local": 136,
+   "html": "Draco genuinely hadn't. Ever. Pandering to idiots was like breathing, you did it without thinking about it.",
+   "text": "Draco genuinely hadn't. Ever. Pandering to idiots was like breathing, you did it without thinking about it.",
+   "break_before": false
+  },
+  {
+   "n": 4120,
+   "local": 137,
+   "html": "\"Harry,\" Draco said at last. \"Just doing whatever you want, without worrying about how it looks, isn't smart. The <em>Dark Lord</em> worried about how he looked! He was feared and hated, and he knew <em>exactly</em> what sort of fear and hate he wanted to create. <em>Everyone</em> has to worry about what other people think.\"",
+   "text": "\"Harry,\" Draco said at last. \"Just doing whatever you want, without worrying about how it looks, isn't smart. The Dark Lord worried about how he looked! He was feared and hated, and he knew exactly what sort of fear and hate he wanted to create. Everyone has to worry about what other people think.\"",
+   "break_before": false
+  },
+  {
+   "n": 4121,
+   "local": 138,
+   "html": "The cowled figure shrugged. \"Perhaps. Remind me sometime to tell you about something called Asch's Conformity Experiment, you might find it quite amusing. For now I'll just note that it's dangerous to worry about what other people think on <em>instinct,</em> because you <em>actually care,</em> not as a matter of cold-blooded calculation. Remember, I was beaten and bullied by older Slytherins for fifteen minutes, and afterward I stood up and graciously forgave them. Just like the good and virtuous Boy-Who-Lived ought to do. But my cold- blooded calculations, Draco, tell me that I have <em>no use</em> for the dumbest idiots in Slytherin, since <em>I don't own a pet snake.</em> So I have no reason to care what they think about how I conduct my duel with Hermione Granger.\"",
+   "text": "The cowled figure shrugged. \"Perhaps. Remind me sometime to tell you about something called Asch's Conformity Experiment, you might find it quite amusing. For now I'll just note that it's dangerous to worry about what other people think on instinct, because you actually care, not as a matter of cold-blooded calculation. Remember, I was beaten and bullied by older Slytherins for fifteen minutes, and afterward I stood up and graciously forgave them. Just like the good and virtuous Boy-Who-Lived ought to do. But my cold- blooded calculations, Draco, tell me that I have no use for the dumbest idiots in Slytherin, since I don't own a pet snake. So I have no reason to care what they think about how I conduct my duel with Hermione Granger.\"",
+   "break_before": false
+  },
+  {
+   "n": 4122,
+   "local": 139,
+   "html": "Draco did not clench his fists in frustration. \"She's just some mudblood,\" Draco said, keeping his voice calm, rather than shouting. \"If you don't like her, push her down the stairs.\"",
+   "text": "Draco did not clench his fists in frustration. \"She's just some mudblood,\" Draco said, keeping his voice calm, rather than shouting. \"If you don't like her, push her down the stairs.\"",
+   "break_before": false
+  },
+  {
+   "n": 4123,
+   "local": 140,
+   "html": "\"Ravenclaw would know -\"",
+   "text": "\"Ravenclaw would know -\"",
+   "break_before": false
+  },
+  {
+   "n": 4124,
+   "local": 141,
+   "html": "\"Have Pansy Parkinson push her down the stairs! You wouldn't even have to manipulate her, offer her a Sickle and she'd do it!\"",
+   "text": "\"Have Pansy Parkinson push her down the stairs! You wouldn't even have to manipulate her, offer her a Sickle and she'd do it!\"",
+   "break_before": false
+  },
+  {
+   "n": 4125,
+   "local": 142,
+   "html": "\"<em>I</em> would know! Hermione beat me in a book-reading contest, she's getting better grades than me, I have to defeat her with my <em>brain</em> or it doesn't count!\"",
+   "text": "\"I would know! Hermione beat me in a book-reading contest, she's getting better grades than me, I have to defeat her with my brain or it doesn't count!\"",
+   "break_before": false
+  },
+  {
+   "n": 4126,
+   "local": 143,
+   "html": "\"<em>She's just a mudblood! Why do you respect her that much?</em> \"",
+   "text": "\"She's just a mudblood! Why do you respect her that much? \"",
+   "break_before": false
+  },
+  {
+   "n": 4127,
+   "local": 144,
+   "html": "\"<em>She's a power among Ravenclaws! Why do you care what some powerless idiot in Slytherin thinks?</em> \"",
+   "text": "\"She's a power among Ravenclaws! Why do you care what some powerless idiot in Slytherin thinks? \"",
+   "break_before": false
+  },
+  {
+   "n": 4128,
+   "local": 145,
+   "html": "\"<em>It's called politics! And if you can't play it you can't have power!</em> \"",
+   "text": "\"It's called politics! And if you can't play it you can't have power! \"",
+   "break_before": false
+  },
+  {
+   "n": 4129,
+   "local": 146,
+   "html": "\"<em>Walking on the moon is power! Being a great wizard is power! There are kinds of power that don't require me to spend the rest of my life pandering to morons!</em> \"",
+   "text": "\"Walking on the moon is power! Being a great wizard is power! There are kinds of power that don't require me to spend the rest of my life pandering to morons! \"",
+   "break_before": false
+  },
+  {
+   "n": 4130,
+   "local": 147,
+   "html": "Both of them stopped, and, in almost perfect unison, began taking deep breaths to calm themselves.",
+   "text": "Both of them stopped, and, in almost perfect unison, began taking deep breaths to calm themselves.",
+   "break_before": false
+  },
+  {
+   "n": 4131,
+   "local": 148,
+   "html": "\"Sorry,\" Harry Potter said after a few moments, wiping sweat from his forehead. \"Sorry, Draco. You've got a lot of political power and it makes sense for you to keep it. You <em>should</em> be calculating what Slytherin thinks. It's an important game and I shouldn't have insulted it. But you can't ask <em>me</em> to lower the level of my game in Ravenclaw, just so that you don't look bad by associating with me. Tell Slytherin you're gritting your teeth while you pretend to be my friend.\"",
+   "text": "\"Sorry,\" Harry Potter said after a few moments, wiping sweat from his forehead. \"Sorry, Draco. You've got a lot of political power and it makes sense for you to keep it. You should be calculating what Slytherin thinks. It's an important game and I shouldn't have insulted it. But you can't ask me to lower the level of my game in Ravenclaw, just so that you don't look bad by associating with me. Tell Slytherin you're gritting your teeth while you pretend to be my friend.\"",
+   "break_before": false
+  },
+  {
+   "n": 4132,
+   "local": 149,
+   "html": "That was exactly what Draco <em>had</em> told Slytherin, and he still wasn't sure whether it was true.",
+   "text": "That was exactly what Draco had told Slytherin, and he still wasn't sure whether it was true.",
+   "break_before": false
+  },
+  {
+   "n": 4133,
+   "local": 150,
+   "html": "\"Anyway,\" Draco said. \"Speaking of your image. I'm afraid I've got some bad news. Rita Skeeter heard some of the stories about you and she's been asking questions.\"",
+   "text": "\"Anyway,\" Draco said. \"Speaking of your image. I'm afraid I've got some bad news. Rita Skeeter heard some of the stories about you and she's been asking questions.\"",
+   "break_before": false
+  },
+  {
+   "n": 4134,
+   "local": 151,
+   "html": "Harry Potter raised his eyebrows. \"Who?\"",
+   "text": "Harry Potter raised his eyebrows. \"Who?\"",
+   "break_before": false
+  },
+  {
+   "n": 4135,
+   "local": 152,
+   "html": "\"She writes for the <em>Daily Prophet,</em>\" Draco said. He tried to keep the worry out of his voice. The <em>Daily Prophet</em> was one of Father's primary tools, he used it like a wizard's wand. \"That's the newspaper people actually pay attention to. Rita Skeeter writes about celebrities, and as she puts it, uses her quill to puncture their over-inflated reputations. If she can't find any rumors about you, she'll just make up her own.\"",
+   "text": "\"She writes for the Daily Prophet,\" Draco said. He tried to keep the worry out of his voice. The Daily Prophet was one of Father's primary tools, he used it like a wizard's wand. \"That's the newspaper people actually pay attention to. Rita Skeeter writes about celebrities, and as she puts it, uses her quill to puncture their over-inflated reputations. If she can't find any rumors about you, she'll just make up her own.\"",
+   "break_before": false
+  },
+  {
+   "n": 4136,
+   "local": 153,
+   "html": "\"I <em>see,</em>\" said Harry Potter. His green-lit face looked very thoughtful beneath the cowl.",
+   "text": "\"I see,\" said Harry Potter. His green-lit face looked very thoughtful beneath the cowl.",
+   "break_before": false
+  },
+  {
+   "n": 4137,
+   "local": 154,
+   "html": "Draco hesitated before saying what he had to say next. By now someone had certainly reported to Father that he was courting Harry Potter, and Father would also know that Draco hadn't written home about it, and Father would understand that Draco didn't think he could actually keep it a secret, which sent a clear message that Draco was practicing his own game now but still on Father's side, since if Draco had been tempted away, he would have been sending false reports.",
+   "text": "Draco hesitated before saying what he had to say next. By now someone had certainly reported to Father that he was courting Harry Potter, and Father would also know that Draco hadn't written home about it, and Father would understand that Draco didn't think he could actually keep it a secret, which sent a clear message that Draco was practicing his own game now but still on Father's side, since if Draco had been tempted away, he would have been sending false reports.",
+   "break_before": false
+  },
+  {
+   "n": 4138,
+   "local": 155,
+   "html": "It followed that Father had probably anticipated what Draco was about to say next.",
+   "text": "It followed that Father had probably anticipated what Draco was about to say next.",
+   "break_before": false
+  },
+  {
+   "n": 4139,
+   "local": 156,
+   "html": "Playing the game with Father for real was a rather unnerving sensation. Even if they were on the same side. It was, on the one hand, exhiliarating, but Draco also knew that in the end it would turn out that Father had played the game better. There was no other way it could possibly go.",
+   "text": "Playing the game with Father for real was a rather unnerving sensation. Even if they were on the same side. It was, on the one hand, exhiliarating, but Draco also knew that in the end it would turn out that Father had played the game better. There was no other way it could possibly go.",
+   "break_before": false
+  },
+  {
+   "n": 4140,
+   "local": 157,
+   "html": "\"Harry,\" Draco finally said. \"This isn't a suggestion. This isn't my advice. Just the way it is. My father could almost certainly quash that article. But it would cost you.\"",
+   "text": "\"Harry,\" Draco finally said. \"This isn't a suggestion. This isn't my advice. Just the way it is. My father could almost certainly quash that article. But it would cost you.\"",
+   "break_before": false
+  },
+  {
+   "n": 4141,
+   "local": 158,
+   "html": "That Father had been expecting Draco to tell Harry Potter exactly that was not something Draco said out loud. Harry Potter would work it out on his own, or not.",
+   "text": "That Father had been expecting Draco to tell Harry Potter exactly that was not something Draco said out loud. Harry Potter would work it out on his own, or not.",
+   "break_before": false
+  },
+  {
+   "n": 4142,
+   "local": 159,
+   "html": "But instead Harry Potter shook his head, smiling beneath the cowl. \"I have no intention of trying to quash Rita Skeeter.\"",
+   "text": "But instead Harry Potter shook his head, smiling beneath the cowl. \"I have no intention of trying to quash Rita Skeeter.\"",
+   "break_before": false
+  },
+  {
+   "n": 4143,
+   "local": 160,
+   "html": "Draco didn't even try to keep the incredulity out of his voice. \"You <em>can't</em> tell me you don't care what the <em>newspaper</em> says about you!\"",
+   "text": "Draco didn't even try to keep the incredulity out of his voice. \"You can't tell me you don't care what the newspaper says about you!\"",
+   "break_before": false
+  },
+  {
+   "n": 4144,
+   "local": 161,
+   "html": "\"I care less than you might think,\" said Harry Potter. \"But I have my own ways of dealing with the likes of Skeeter. I don't need Lucius's help.\"",
+   "text": "\"I care less than you might think,\" said Harry Potter. \"But I have my own ways of dealing with the likes of Skeeter. I don't need Lucius's help.\"",
+   "break_before": false
+  },
+  {
+   "n": 4145,
+   "local": 162,
+   "html": "A worried look came over Draco's face before he could stop it. Whatever Harry Potter was about to do next, it would be something Father wasn't expecting, and Draco was feeling very nervous about where that might lead.",
+   "text": "A worried look came over Draco's face before he could stop it. Whatever Harry Potter was about to do next, it would be something Father wasn't expecting, and Draco was feeling very nervous about where that might lead.",
+   "break_before": false
+  },
+  {
+   "n": 4146,
+   "local": 163,
+   "html": "Draco also realized that his hair was getting sweaty underneath the cowl. He'd never actually worn one of those before, and hadn't realized that the Death Eaters' cloaks probably had things like Cooling Charms.",
+   "text": "Draco also realized that his hair was getting sweaty underneath the cowl. He'd never actually worn one of those before, and hadn't realized that the Death Eaters' cloaks probably had things like Cooling Charms.",
+   "break_before": false
+  },
+  {
+   "n": 4147,
+   "local": 164,
+   "html": "Harry Potter wiped some sweat from his forehead again, grimaced, took out his wand, pointed it upward, took a deep breath, and said \"<em>Frigideiro!</em> \"",
+   "text": "Harry Potter wiped some sweat from his forehead again, grimaced, took out his wand, pointed it upward, took a deep breath, and said \"Frigideiro! \"",
+   "break_before": false
+  },
+  {
+   "n": 4148,
+   "local": 165,
+   "html": "Moments later Draco felt the cold draft.",
+   "text": "Moments later Draco felt the cold draft.",
+   "break_before": false
+  },
+  {
+   "n": 4149,
+   "local": 166,
+   "html": "\"<em>Frigideiro! Frigideiro! Frigideiro! Frigideiro! Frigideiro!</em> \"",
+   "text": "\"Frigideiro! Frigideiro! Frigideiro! Frigideiro! Frigideiro! \"",
+   "break_before": false
+  },
+  {
+   "n": 4150,
+   "local": 167,
+   "html": "Then Harry Potter lowered the wand, though his hand seemed a bit shaky, and put it back into his robes.",
+   "text": "Then Harry Potter lowered the wand, though his hand seemed a bit shaky, and put it back into his robes.",
+   "break_before": false
+  },
+  {
+   "n": 4151,
+   "local": 168,
+   "html": "The whole room seemed perceptibly cooler. Draco could have done that too, but still, not bad.",
+   "text": "The whole room seemed perceptibly cooler. Draco could have done that too, but still, not bad.",
+   "break_before": false
+  },
+  {
+   "n": 4152,
+   "local": 169,
+   "html": "\"So,\" Draco said. \"Science. You're going to tell me about blood.\"",
+   "text": "\"So,\" Draco said. \"Science. You're going to tell me about blood.\"",
+   "break_before": false
+  },
+  {
+   "n": 4153,
+   "local": 170,
+   "html": "\"We're going to <em>find out</em> about blood,\" Harry Potter said. \"By doing experiments.\"",
+   "text": "\"We're going to find out about blood,\" Harry Potter said. \"By doing experiments.\"",
+   "break_before": false
+  },
+  {
+   "n": 4154,
+   "local": 171,
+   "html": "\"All right,\" Draco said. \"What sort of experiments?\"",
+   "text": "\"All right,\" Draco said. \"What sort of experiments?\"",
+   "break_before": false
+  },
+  {
+   "n": 4155,
+   "local": 172,
+   "html": "Harry Potter smiled evilly beneath his cowl, and said, \"You tell me.\"",
+   "text": "Harry Potter smiled evilly beneath his cowl, and said, \"You tell me.\"",
+   "break_before": false
+  },
+  {
+   "n": 4156,
+   "local": 173,
+   "html": "Draco had heard of something called the Socratic Method, which was teaching by asking questions (named after an ancient philosopher who had been too smart to be a real Muggle and hence had been a disguised pureblood wizard). One of his tutors had used Socratic teaching a lot. It had been annoying but effective.",
+   "text": "Draco had heard of something called the Socratic Method, which was teaching by asking questions (named after an ancient philosopher who had been too smart to be a real Muggle and hence had been a disguised pureblood wizard). One of his tutors had used Socratic teaching a lot. It had been annoying but effective.",
+   "break_before": true
+  },
+  {
+   "n": 4157,
+   "local": 174,
+   "html": "Then there was the Potter Method, which was insane.",
+   "text": "Then there was the Potter Method, which was insane.",
+   "break_before": false
+  },
+  {
+   "n": 4158,
+   "local": 175,
+   "html": "To be fair, Draco had to admit that Harry Potter had tried the Socratic Method first and it hadn't been working too well.",
+   "text": "To be fair, Draco had to admit that Harry Potter had tried the Socratic Method first and it hadn't been working too well.",
+   "break_before": false
+  },
+  {
+   "n": 4159,
+   "local": 176,
+   "html": "Harry Potter had asked how Draco would go about <em>disproving</em> the blood purist hypothesis that wizards couldn't do the neat stuff now that they'd done eight centuries ago because they had interbred with Muggleborns and Squibs.",
+   "text": "Harry Potter had asked how Draco would go about disproving the blood purist hypothesis that wizards couldn't do the neat stuff now that they'd done eight centuries ago because they had interbred with Muggleborns and Squibs.",
+   "break_before": false
+  },
+  {
+   "n": 4160,
+   "local": 177,
+   "html": "Draco had said that he did not understand how Harry Potter could sit there with a straight face and claim this was not a trap.",
+   "text": "Draco had said that he did not understand how Harry Potter could sit there with a straight face and claim this was not a trap.",
+   "break_before": false
+  },
+  {
+   "n": 4161,
+   "local": 178,
+   "html": "Harry Potter had replied, still with a straight face, that if it was a trap it would have been so pathetically obvious that <em>he</em> ought to be ground up and fed to pet snakes, but it was <em>not</em> a trap, it was simply a rule of how scientists operated that you had to try to disprove your own theories, and if you made an honest effort and failed, that was victory.",
+   "text": "Harry Potter had replied, still with a straight face, that if it was a trap it would have been so pathetically obvious that he ought to be ground up and fed to pet snakes, but it was not a trap, it was simply a rule of how scientists operated that you had to try to disprove your own theories, and if you made an honest effort and failed, that was victory.",
+   "break_before": false
+  },
+  {
+   "n": 4162,
+   "local": 179,
+   "html": "Draco had tried to point out the staggering stupidity of this by suggesting that the key to surviving a duel was to cast Avada Kedavra on your own foot and miss.",
+   "text": "Draco had tried to point out the staggering stupidity of this by suggesting that the key to surviving a duel was to cast Avada Kedavra on your own foot and miss.",
+   "break_before": false
+  },
+  {
+   "n": 4163,
+   "local": 180,
+   "html": "Harry Potter had <em>nodded</em>.",
+   "text": "Harry Potter had nodded.",
+   "break_before": false
+  },
+  {
+   "n": 4164,
+   "local": 181,
+   "html": "Draco had shaken his head.",
+   "text": "Draco had shaken his head.",
+   "break_before": false
+  },
+  {
+   "n": 4165,
+   "local": 182,
+   "html": "Harry Potter had then presented the idea that scientists watched ideas fight to see which ones won, and you <em>couldn't fight without an opponent,</em> so Draco needed to figure out opponents for the blood purist hypothesis to fight so that blood purism could win, which Draco understood a little better even though Harry Potter had said it with a rather distasteful look. Like, it was clear that if blood purism was the way the world really was, then the sky just had to be blue, and if some other theory was true, the sky just had to be green; and nobody had seen the sky yet; and then you went outside and looked and the blood purists won; and after this had happened six times in a row, people would start noticing the trend.",
+   "text": "Harry Potter had then presented the idea that scientists watched ideas fight to see which ones won, and you couldn't fight without an opponent, so Draco needed to figure out opponents for the blood purist hypothesis to fight so that blood purism could win, which Draco understood a little better even though Harry Potter had said it with a rather distasteful look. Like, it was clear that if blood purism was the way the world really was, then the sky just had to be blue, and if some other theory was true, the sky just had to be green; and nobody had seen the sky yet; and then you went outside and looked and the blood purists won; and after this had happened six times in a row, people would start noticing the trend.",
+   "break_before": false
+  },
+  {
+   "n": 4166,
+   "local": 183,
+   "html": "Harry Potter had then proceeded to claim that all the opponents Draco was inventing were too weak, so blood purism wouldn't get credit for defeating them because the battle wouldn't be impressive enough. Draco had understood that too. <em>Wizards have gotten weaker because house elves are stealing our magic</em> hadn't sounded impressive to him either.",
+   "text": "Harry Potter had then proceeded to claim that all the opponents Draco was inventing were too weak, so blood purism wouldn't get credit for defeating them because the battle wouldn't be impressive enough. Draco had understood that too. Wizards have gotten weaker because house elves are stealing our magic hadn't sounded impressive to him either.",
+   "break_before": false
+  },
+  {
+   "n": 4167,
+   "local": 184,
+   "html": "(Though Harry Potter <em>had</em> said that one at least was testable, in that they could try to check if house elves had gotten stronger over time, and even draw a picture representing the increasing strength of house elves and another picture representing the decreasing strength of wizards and if the two pictures matched that would point to the house elves, all said in such completely serious tones that Draco had felt an impulse to ask Dobby a few pointed questions under Veritaserum before snapping out of it.)",
+   "text": "(Though Harry Potter had said that one at least was testable, in that they could try to check if house elves had gotten stronger over time, and even draw a picture representing the increasing strength of house elves and another picture representing the decreasing strength of wizards and if the two pictures matched that would point to the house elves, all said in such completely serious tones that Draco had felt an impulse to ask Dobby a few pointed questions under Veritaserum before snapping out of it.)",
+   "break_before": false
+  },
+  {
+   "n": 4168,
+   "local": 185,
+   "html": "And Harry Potter had finally said that Draco <em>couldn't</em> fix the battle, scientists weren't dumb, it would be <em>obvious</em> if you fixed the battle, it had to be a <em>real fight,</em> between two different theories that might both <em>really</em> be true, with a test that only the <em>true</em> hypothesis would win, something that actually <em>would</em> come out different ways depending on which hypothesis was actually correct, and there would be experienced scientists watching to make sure that was exactly what happened. Harry Potter had claimed that he himself just wanted to know <em>how blood really worked</em> and for that he need to see blood purism <em>really win</em> and Draco wasn't going to fool <em>him</em> with theories that were just there to be knocked down.",
+   "text": "And Harry Potter had finally said that Draco couldn't fix the battle, scientists weren't dumb, it would be obvious if you fixed the battle, it had to be a real fight, between two different theories that might both really be true, with a test that only the true hypothesis would win, something that actually would come out different ways depending on which hypothesis was actually correct, and there would be experienced scientists watching to make sure that was exactly what happened. Harry Potter had claimed that he himself just wanted to know how blood really worked and for that he need to see blood purism really win and Draco wasn't going to fool him with theories that were just there to be knocked down.",
+   "break_before": false
+  },
+  {
+   "n": 4169,
+   "local": 186,
+   "html": "Even having seen the point, Draco hadn't been able to invent any \"plausible alternatives\", as Harry Potter put it, to the idea that wizards were getting less powerful because they were mixing their blood with mud. It was too obviously true.",
+   "text": "Even having seen the point, Draco hadn't been able to invent any \"plausible alternatives\", as Harry Potter put it, to the idea that wizards were getting less powerful because they were mixing their blood with mud. It was too obviously true.",
+   "break_before": false
+  },
+  {
+   "n": 4170,
+   "local": 187,
+   "html": "It was then that Harry Potter had said, rather frustrated, that he couldn't imagine Draco was <em>really</em> this bad at considering different viewpoints, <em>surely</em> there'd been Death Eaters who'd posed as enemies of blood purism and had come up with much more plausible-sounding arguments against their own side than Draco was offering. If Draco had been trying to pose as a member of Dumbledore's faction, and come up with the house elf hypothesis, he wouldn't have fooled anyone for a second.",
+   "text": "It was then that Harry Potter had said, rather frustrated, that he couldn't imagine Draco was really this bad at considering different viewpoints, surely there'd been Death Eaters who'd posed as enemies of blood purism and had come up with much more plausible-sounding arguments against their own side than Draco was offering. If Draco had been trying to pose as a member of Dumbledore's faction, and come up with the house elf hypothesis, he wouldn't have fooled anyone for a second.",
+   "break_before": false
+  },
+  {
+   "n": 4171,
+   "local": 188,
+   "html": "Draco had been forced to admit this was a point.",
+   "text": "Draco had been forced to admit this was a point.",
+   "break_before": false
+  },
+  {
+   "n": 4172,
+   "local": 189,
+   "html": "Hence the Potter Method.",
+   "text": "Hence the Potter Method.",
+   "break_before": false
+  },
+  {
+   "n": 4173,
+   "local": 190,
+   "html": "\"Please, Dr. Malfoy,\" whined Harry Potter, \"why won't you accept my paper?\"",
+   "text": "\"Please, Dr. Malfoy,\" whined Harry Potter, \"why won't you accept my paper?\"",
+   "break_before": false
+  },
+  {
+   "n": 4174,
+   "local": 191,
+   "html": "Harry Potter had needed to repeat the phrase \"just pretend to be pretending to be a scientist\" three times before Draco had understood.",
+   "text": "Harry Potter had needed to repeat the phrase \"just pretend to be pretending to be a scientist\" three times before Draco had understood.",
+   "break_before": false
+  },
+  {
+   "n": 4175,
+   "local": 192,
+   "html": "In that moment Draco had realized that there was something deeply <em>wrong</em> with Harry Potter's brain, and anyone who tried Legilimency on it would probably never come back out again.",
+   "text": "In that moment Draco had realized that there was something deeply wrong with Harry Potter's brain, and anyone who tried Legilimency on it would probably never come back out again.",
+   "break_before": false
+  },
+  {
+   "n": 4176,
+   "local": 193,
+   "html": "Harry Potter had then gone into further and considerable detail: Draco was to pretend to be a Death Eater who was posing as the editor of a scientific journal, Dr. Malfoy, who wanted to reject his enemy Dr. Potter's paper \"On the Heritability of Magical Ability\", and if the Death Eater didn't act like a real scientist would, he would be revealed as a Death Eater and executed, while Dr. Malfoy was also being watched by his own rivals and needed to <em>appear</em> to reject Dr. Potter's paper for neutral scientific reasons or he would lose his position as journal editor.",
+   "text": "Harry Potter had then gone into further and considerable detail: Draco was to pretend to be a Death Eater who was posing as the editor of a scientific journal, Dr. Malfoy, who wanted to reject his enemy Dr. Potter's paper \"On the Heritability of Magical Ability\", and if the Death Eater didn't act like a real scientist would, he would be revealed as a Death Eater and executed, while Dr. Malfoy was also being watched by his own rivals and needed to appear to reject Dr. Potter's paper for neutral scientific reasons or he would lose his position as journal editor.",
+   "break_before": false
+  },
+  {
+   "n": 4177,
+   "local": 194,
+   "html": "It was a wonder the Sorting Hat wasn't gibbering madly in St. Mungo's.",
+   "text": "It was a wonder the Sorting Hat wasn't gibbering madly in St. Mungo's.",
+   "break_before": false
+  },
+  {
+   "n": 4178,
+   "local": 195,
+   "html": "It was also the most complicated thing anyone had <em>ever</em> asked Draco to pretend and there was no possible way he could have refused the challenge.",
+   "text": "It was also the most complicated thing anyone had ever asked Draco to pretend and there was no possible way he could have refused the challenge.",
+   "break_before": false
+  },
+  {
+   "n": 4179,
+   "local": 196,
+   "html": "Right now they were, as Harry Potter had put it, getting in the mood.",
+   "text": "Right now they were, as Harry Potter had put it, getting in the mood.",
+   "break_before": false
+  },
+  {
+   "n": 4180,
+   "local": 197,
+   "html": "\"I'm afraid, Dr. Potter, that you wrote this in the wrong color of ink,\" Draco said. \"Next!\"",
+   "text": "\"I'm afraid, Dr. Potter, that you wrote this in the wrong color of ink,\" Draco said. \"Next!\"",
+   "break_before": false
+  },
+  {
+   "n": 4181,
+   "local": 198,
+   "html": "Dr. Potter's face did an excellent job of crumpling in despair, and Draco couldn't help but feel a flash of Dr. Malfoy's glee, even though the Death Eater was only pretending to be Dr. Malfoy.",
+   "text": "Dr. Potter's face did an excellent job of crumpling in despair, and Draco couldn't help but feel a flash of Dr. Malfoy's glee, even though the Death Eater was only pretending to be Dr. Malfoy.",
+   "break_before": false
+  },
+  {
+   "n": 4182,
+   "local": 199,
+   "html": "This part was <em>fun.</em> He could have done this all day long.",
+   "text": "This part was fun. He could have done this all day long.",
+   "break_before": false
+  },
+  {
+   "n": 4183,
+   "local": 200,
+   "html": "Dr. Potter got up from the chair, slumped over in dismay, and trudged off, and turned into Harry Potter, who gave Draco a thumbs-up, and then turned back into Dr. Potter again, now approaching with an eager smile.",
+   "text": "Dr. Potter got up from the chair, slumped over in dismay, and trudged off, and turned into Harry Potter, who gave Draco a thumbs-up, and then turned back into Dr. Potter again, now approaching with an eager smile.",
+   "break_before": false
+  },
+  {
+   "n": 4184,
+   "local": 201,
+   "html": "Dr. Potter sat down and presented Dr. Malfoy with a piece of parchment on which was written:",
+   "text": "Dr. Potter sat down and presented Dr. Malfoy with a piece of parchment on which was written:",
+   "break_before": false
+  },
+  {
+   "n": 4185,
+   "local": 202,
+   "html": "<em>On the Heritability of Magical Ability</em>",
+   "text": "On the Heritability of Magical Ability",
+   "break_before": false
+  },
+  {
+   "n": 4186,
+   "local": 203,
+   "html": "<em>Dr. H. J. Potter-Evans-Verres, Institute for Sufficiently Advanced Science</em>",
+   "text": "Dr. H. J. Potter-Evans-Verres, Institute for Sufficiently Advanced Science",
+   "break_before": false
+  },
+  {
+   "n": 4187,
+   "local": 204,
+   "html": "<em>My observation:</em>",
+   "text": "My observation:",
+   "break_before": false
+  },
+  {
+   "n": 4188,
+   "local": 205,
+   "html": "<em>Today's wizards can't do things as impressive as<br>what wizards used to do 800 years ago.</em>",
+   "text": "Today's wizards can't do things as impressive as\nwhat wizards used to do 800 years ago.",
+   "break_before": false
+  },
+  {
+   "n": 4189,
+   "local": 206,
+   "html": "<em>My conclusion:</em>",
+   "text": "My conclusion:",
+   "break_before": false
+  },
+  {
+   "n": 4190,
+   "local": 207,
+   "html": "<em>Wizardkind has become weaker by mixing<br>their blood with Muggleborns and Squibs.</em>",
+   "text": "Wizardkind has become weaker by mixing\ntheir blood with Muggleborns and Squibs.",
+   "break_before": false
+  },
+  {
+   "n": 4191,
+   "local": 208,
+   "html": "\"Dr. Malfoy,\" said Dr. Potter with a hopeful look, \"I was wondering if the <em>Journal of Irreproducible Results</em> could consider for publication my paper entitled 'On the Heritability of Magical Ability'.\"",
+   "text": "\"Dr. Malfoy,\" said Dr. Potter with a hopeful look, \"I was wondering if the Journal of Irreproducible Results could consider for publication my paper entitled 'On the Heritability of Magical Ability'.\"",
+   "break_before": false
+  },
+  {
+   "n": 4192,
+   "local": 209,
+   "html": "Draco looked at the parchment, smiling while he considered possible rejections. If he was a professor, he would have refused the essay as too short, so -",
+   "text": "Draco looked at the parchment, smiling while he considered possible rejections. If he was a professor, he would have refused the essay as too short, so -",
+   "break_before": false
+  },
+  {
+   "n": 4193,
+   "local": 210,
+   "html": "\"It's too long, Dr. Potter,\" said Dr. Malfoy.",
+   "text": "\"It's too long, Dr. Potter,\" said Dr. Malfoy.",
+   "break_before": false
+  },
+  {
+   "n": 4194,
+   "local": 211,
+   "html": "For a moment there was genuine incredulity on Dr. Potter's face.",
+   "text": "For a moment there was genuine incredulity on Dr. Potter's face.",
+   "break_before": false
+  },
+  {
+   "n": 4195,
+   "local": 212,
+   "html": "\"Ah...\" said Dr. Potter. \"How about if I get rid of the separate lines for observations and conclusions, and just put in a <em>therefore</em> -\"",
+   "text": "\"Ah...\" said Dr. Potter. \"How about if I get rid of the separate lines for observations and conclusions, and just put in a therefore -\"",
+   "break_before": false
+  },
+  {
+   "n": 4196,
+   "local": 213,
+   "html": "\"Then it'll be too short. Next!\"",
+   "text": "\"Then it'll be too short. Next!\"",
+   "break_before": false
+  },
+  {
+   "n": 4197,
+   "local": 214,
+   "html": "Dr. Potter trudged off.",
+   "text": "Dr. Potter trudged off.",
+   "break_before": false
+  },
+  {
+   "n": 4198,
+   "local": 215,
+   "html": "\"All right,\" said Harry Potter, \"you're getting <em>too</em> good at this. Two more times to practice, and then third time is for real, no interruptions between, I'll just come in straight at you and that time you'll reject the paper based on the actual content, remember, your scientific rivals are watching.\"",
+   "text": "\"All right,\" said Harry Potter, \"you're getting too good at this. Two more times to practice, and then third time is for real, no interruptions between, I'll just come in straight at you and that time you'll reject the paper based on the actual content, remember, your scientific rivals are watching.\"",
+   "break_before": false
+  },
+  {
+   "n": 4199,
+   "local": 216,
+   "html": "Dr. Potter's next paper was perfect in every way, a marvel of its kind, but unfortunately had to be rejected because Dr. Malfoy's journal was having trouble with the letter E. Dr. Potter offered to rewrite it without those words, and Dr. Malfoy explained that it was really more of a vowel problem.",
+   "text": "Dr. Potter's next paper was perfect in every way, a marvel of its kind, but unfortunately had to be rejected because Dr. Malfoy's journal was having trouble with the letter E. Dr. Potter offered to rewrite it without those words, and Dr. Malfoy explained that it was really more of a vowel problem.",
+   "break_before": false
+  },
+  {
+   "n": 4200,
+   "local": 217,
+   "html": "The paper after that was rejected because it was Tuesday.",
+   "text": "The paper after that was rejected because it was Tuesday.",
+   "break_before": false
+  },
+  {
+   "n": 4201,
+   "local": 218,
+   "html": "It was, in fact, Saturday.",
+   "text": "It was, in fact, Saturday.",
+   "break_before": false
+  },
+  {
+   "n": 4202,
+   "local": 219,
+   "html": "Dr. Potter tried to point this out and was told \"Next!\"",
+   "text": "Dr. Potter tried to point this out and was told \"Next!\"",
+   "break_before": false
+  },
+  {
+   "n": 4203,
+   "local": 220,
+   "html": "(Draco was starting to understand why Snape had used his hold over Dumbledore just to get a position that let him be awful to students.)",
+   "text": "(Draco was starting to understand why Snape had used his hold over Dumbledore just to get a position that let him be awful to students.)",
+   "break_before": false
+  },
+  {
+   "n": 4204,
+   "local": 221,
+   "html": "And then -",
+   "text": "And then -",
+   "break_before": false
+  },
+  {
+   "n": 4205,
+   "local": 222,
+   "html": "Dr. Potter was approaching with a superior smirk on his face.",
+   "text": "Dr. Potter was approaching with a superior smirk on his face.",
+   "break_before": false
+  },
+  {
+   "n": 4206,
+   "local": 223,
+   "html": "\"This is my latest paper, <em>On the Heritability of Magical Ability,</em>\" Dr. Potter stated confidently, and thrust out the parchment. \"I have decided to allow your journal to publish it, and have prepared it in perfect accordance with your guidelines so that you may publish it quickly.\"",
+   "text": "\"This is my latest paper, On the Heritability of Magical Ability,\" Dr. Potter stated confidently, and thrust out the parchment. \"I have decided to allow your journal to publish it, and have prepared it in perfect accordance with your guidelines so that you may publish it quickly.\"",
+   "break_before": false
+  },
+  {
+   "n": 4207,
+   "local": 224,
+   "html": "The Death Eater decided to track down and kill Dr. Potter after his mission was done. Dr. Malfoy kept a polite smile on his face, since his rivals were watching, and said...",
+   "text": "The Death Eater decided to track down and kill Dr. Potter after his mission was done. Dr. Malfoy kept a polite smile on his face, since his rivals were watching, and said...",
+   "break_before": false
+  },
+  {
+   "n": 4208,
+   "local": 225,
+   "html": "(The pause stretched, with Dr. Potter looking at him impatiently.)",
+   "text": "(The pause stretched, with Dr. Potter looking at him impatiently.)",
+   "break_before": false
+  },
+  {
+   "n": 4209,
+   "local": 226,
+   "html": "...\"Let me look at that, please.\"",
+   "text": "...\"Let me look at that, please.\"",
+   "break_before": false
+  },
+  {
+   "n": 4210,
+   "local": 227,
+   "html": "Dr. Malfoy took the parchment and perused it carefully.",
+   "text": "Dr. Malfoy took the parchment and perused it carefully.",
+   "break_before": false
+  },
+  {
+   "n": 4211,
+   "local": 228,
+   "html": "The Death Eater was starting to get nervous about the fact that he wasn't a real scientist, and Draco was trying to remember how to talk like Harry Potter.",
+   "text": "The Death Eater was starting to get nervous about the fact that he wasn't a real scientist, and Draco was trying to remember how to talk like Harry Potter.",
+   "break_before": false
+  },
+  {
+   "n": 4212,
+   "local": 229,
+   "html": "\"You, ah, need to consider other possible explanations for your, um, observation, besides just this one -\"",
+   "text": "\"You, ah, need to consider other possible explanations for your, um, observation, besides just this one -\"",
+   "break_before": false
+  },
+  {
+   "n": 4213,
+   "local": 230,
+   "html": "\"Really?\" interrupted Dr. Potter. \"Like what, exactly? <em>House elves are stealing our magic?</em> My data admit of only one possible conclusion, Dr. Malfoy. There <em>are</em> no other plausible hypotheses.\"",
+   "text": "\"Really?\" interrupted Dr. Potter. \"Like what, exactly? House elves are stealing our magic? My data admit of only one possible conclusion, Dr. Malfoy. There are no other plausible hypotheses.\"",
+   "break_before": false
+  },
+  {
+   "n": 4214,
+   "local": 231,
+   "html": "Draco was trying furiously to order his brain to think, what would he say if he was posing as a member of Dumbledore's faction, what <em>did</em> they claim was the explanation for wizardkind's decline, Draco had never bothered to actually ask that...",
+   "text": "Draco was trying furiously to order his brain to think, what would he say if he was posing as a member of Dumbledore's faction, what did they claim was the explanation for wizardkind's decline, Draco had never bothered to actually ask that...",
+   "break_before": false
+  },
+  {
+   "n": 4215,
+   "local": 232,
+   "html": "\"If you can't think of any other way to explain my data, you'll have to publish my paper, <em>Dr. Malfoy.</em>\"",
+   "text": "\"If you can't think of any other way to explain my data, you'll have to publish my paper, Dr. Malfoy.\"",
+   "break_before": false
+  },
+  {
+   "n": 4216,
+   "local": 233,
+   "html": "It was the sneer on Dr. Potter's face that did it.",
+   "text": "It was the sneer on Dr. Potter's face that did it.",
+   "break_before": false
+  },
+  {
+   "n": 4217,
+   "local": 234,
+   "html": "\"Oh yeah?\" snapped Dr. Malfoy. \"How do you know that magic itself isn't fading away?\"",
+   "text": "\"Oh yeah?\" snapped Dr. Malfoy. \"How do you know that magic itself isn't fading away?\"",
+   "break_before": false
+  },
+  {
+   "n": 4218,
+   "local": 235,
+   "html": "Time stopped.",
+   "text": "Time stopped.",
+   "break_before": false
+  },
+  {
+   "n": 4219,
+   "local": 236,
+   "html": "Draco and Harry Potter exchanged looks of appalled horror.",
+   "text": "Draco and Harry Potter exchanged looks of appalled horror.",
+   "break_before": false
+  },
+  {
+   "n": 4220,
+   "local": 237,
+   "html": "Then Harry Potter spat something that was probably an extremely bad word if you'd been raised by Muggles. \"<em>I didn't think of that!</em> \" said Harry Potter. \"And I should have. The magic goes away. <em>Damn, damn, damn!</em> \"",
+   "text": "Then Harry Potter spat something that was probably an extremely bad word if you'd been raised by Muggles. \"I didn't think of that! \" said Harry Potter. \"And I should have. The magic goes away. Damn, damn, damn! \"",
+   "break_before": false
+  },
+  {
+   "n": 4221,
+   "local": 238,
+   "html": "The alarm in Harry Potter's voice was contagious. Without even thinking about it, Draco's hand went into his robes and clutched at his wand. He'd thought the House of Malfoy was <em>safe,</em> so long as you only married into families that could trace their bloodlines back four generations you were supposed to be <em>safe,</em> it had never occurred to him before that there might be nothing anyone could do to stop the end of magic. \"Harry, what do we do?\" Draco's voice was rising in panic. \"<em>What do we do?</em> \"",
+   "text": "The alarm in Harry Potter's voice was contagious. Without even thinking about it, Draco's hand went into his robes and clutched at his wand. He'd thought the House of Malfoy was safe, so long as you only married into families that could trace their bloodlines back four generations you were supposed to be safe, it had never occurred to him before that there might be nothing anyone could do to stop the end of magic. \"Harry, what do we do?\" Draco's voice was rising in panic. \"What do we do? \"",
+   "break_before": false
+  },
+  {
+   "n": 4222,
+   "local": 239,
+   "html": "\"<em>Let me think!</em> \"",
+   "text": "\"Let me think! \"",
+   "break_before": false
+  },
+  {
+   "n": 4223,
+   "local": 240,
+   "html": "After a few moments, Harry grabbed from a nearby desk the same quill and roll of parchment he'd used to write his pretend paper, and started scribbling something.",
+   "text": "After a few moments, Harry grabbed from a nearby desk the same quill and roll of parchment he'd used to write his pretend paper, and started scribbling something.",
+   "break_before": false
+  },
+  {
+   "n": 4224,
+   "local": 241,
+   "html": "\"We'll figure it out,\" Harry said, his voice tight, \"if magic is fading out of the world we'll figure out how fast it's fading and how much time we have left to do something, and then we'll figure out why it's fading, and then we'll do something about it. Draco, have wizarding powers been declining at a steady rate, or have there been sudden drops?\"",
+   "text": "\"We'll figure it out,\" Harry said, his voice tight, \"if magic is fading out of the world we'll figure out how fast it's fading and how much time we have left to do something, and then we'll figure out why it's fading, and then we'll do something about it. Draco, have wizarding powers been declining at a steady rate, or have there been sudden drops?\"",
+   "break_before": false
+  },
+  {
+   "n": 4225,
+   "local": 242,
+   "html": "\"I... I don't know...\"",
+   "text": "\"I... I don't know...\"",
+   "break_before": false
+  },
+  {
+   "n": 4226,
+   "local": 243,
+   "html": "\"You told me that no one had matched the four founders of Hogwarts. So it's been going on for at least eight centuries, then? You can't remember hearing anything about the problems suddenly appearing five centuries ago or anything like that?\"",
+   "text": "\"You told me that no one had matched the four founders of Hogwarts. So it's been going on for at least eight centuries, then? You can't remember hearing anything about the problems suddenly appearing five centuries ago or anything like that?\"",
+   "break_before": false
+  },
+  {
+   "n": 4227,
+   "local": 244,
+   "html": "Draco was trying frantically to think. \"I always heard that nobody was as good as Merlin and then after that nobody was as good as the Founders of Hogwarts.\"",
+   "text": "Draco was trying frantically to think. \"I always heard that nobody was as good as Merlin and then after that nobody was as good as the Founders of Hogwarts.\"",
+   "break_before": false
+  },
+  {
+   "n": 4228,
+   "local": 245,
+   "html": "\"All right,\" Harry said. He was still scribbling. \"Because three centuries ago is when Muggles started to not believe in magic, which I thought might have something to do with it. And about a century and a half ago was when Muggles began using a kind of technology that stops working around magic and I was wondering if it might also go the other way around.\"",
+   "text": "\"All right,\" Harry said. He was still scribbling. \"Because three centuries ago is when Muggles started to not believe in magic, which I thought might have something to do with it. And about a century and a half ago was when Muggles began using a kind of technology that stops working around magic and I was wondering if it might also go the other way around.\"",
+   "break_before": false
+  },
+  {
+   "n": 4229,
+   "local": 246,
+   "html": "Draco exploded out of his chair, so angry he could hardly even speak. \"It's the <em>Muggles</em> -\"",
+   "text": "Draco exploded out of his chair, so angry he could hardly even speak. \"It's the Muggles -\"",
+   "break_before": false
+  },
+  {
+   "n": 4230,
+   "local": 247,
+   "html": "\"<em>Damn it!</em> \" roared Harry. \"Weren't you even listening to <em>yourself?</em> It's been going on for eight centuries at least and the Muggles weren't doing anything interesting then! <em>We have to figure out the real truth!</em> The Muggles <em>might</em> have something to do with this but if they <em>don't</em> and you go blaming everything on them and that stops us from figuring out what's <em>really</em> going on then one day you're going to wake up in the morning and find out that your wand is just a stick of wood!\"",
+   "text": "\"Damn it! \" roared Harry. \"Weren't you even listening to yourself? It's been going on for eight centuries at least and the Muggles weren't doing anything interesting then! We have to figure out the real truth! The Muggles might have something to do with this but if they don't and you go blaming everything on them and that stops us from figuring out what's really going on then one day you're going to wake up in the morning and find out that your wand is just a stick of wood!\"",
+   "break_before": false
+  },
+  {
+   "n": 4231,
+   "local": 248,
+   "html": "Draco's breath stopped in his throat. His father often said <em>our wands will break in our hands</em> in his speeches but Draco had never really thought before about what that <em>meant</em>, it wasn't going to happen to <em>him</em> after all. And now suddenly it seemed very real. <em>Just a stick of wood.</em> Draco could imagine just what it would be like to take out his wand and try to cast a spell and find that nothing was happening...",
+   "text": "Draco's breath stopped in his throat. His father often said our wands will break in our hands in his speeches but Draco had never really thought before about what that meant, it wasn't going to happen to him after all. And now suddenly it seemed very real. Just a stick of wood. Draco could imagine just what it would be like to take out his wand and try to cast a spell and find that nothing was happening...",
+   "break_before": false
+  },
+  {
+   "n": 4232,
+   "local": 249,
+   "html": "That could happen to <em>everyone</em>.",
+   "text": "That could happen to everyone.",
+   "break_before": false
+  },
+  {
+   "n": 4233,
+   "local": 250,
+   "html": "There would be no more wizards, no more magic, ever. Just Muggles who had a few legends about what their ancestors had been able to do. Some of the Muggles would be called Malfoy, and that would be all that was left of the name.",
+   "text": "There would be no more wizards, no more magic, ever. Just Muggles who had a few legends about what their ancestors had been able to do. Some of the Muggles would be called Malfoy, and that would be all that was left of the name.",
+   "break_before": false
+  },
+  {
+   "n": 4234,
+   "local": 251,
+   "html": "For the first time in his life, Draco realized why there were Death Eaters.",
+   "text": "For the first time in his life, Draco realized why there were Death Eaters.",
+   "break_before": false
+  },
+  {
+   "n": 4235,
+   "local": 252,
+   "html": "He'd always taken for granted that becoming a Death Eater was something you did when you grew up. Now Draco <em>understood</em>, he knew why Father and Father's friends had sworn to give their lives to prevent the nightmare from coming to pass, there were things you couldn't just stand by and watch happen. But what if it was going to happen <em>anyway</em>, what if all the sacrifices, all the friends they'd lost to Dumbledore, the <em>family</em> they'd lost, what if it had all been for <em>nothing...</em>",
+   "text": "He'd always taken for granted that becoming a Death Eater was something you did when you grew up. Now Draco understood, he knew why Father and Father's friends had sworn to give their lives to prevent the nightmare from coming to pass, there were things you couldn't just stand by and watch happen. But what if it was going to happen anyway, what if all the sacrifices, all the friends they'd lost to Dumbledore, the family they'd lost, what if it had all been for nothing...",
+   "break_before": false
+  },
+  {
+   "n": 4236,
+   "local": 253,
+   "html": "\"Magic <em>can't</em> be fading away,\" Draco said. His voice was breaking. \"It wouldn't be <em>fair</em>.\"",
+   "text": "\"Magic can't be fading away,\" Draco said. His voice was breaking. \"It wouldn't be fair.\"",
+   "break_before": false
+  },
+  {
+   "n": 4237,
+   "local": 254,
+   "html": "Harry stopped scribbling and looked up. His face had an angry expression. \"Your father never told you that life isn't fair?\"",
+   "text": "Harry stopped scribbling and looked up. His face had an angry expression. \"Your father never told you that life isn't fair?\"",
+   "break_before": false
+  },
+  {
+   "n": 4238,
+   "local": 255,
+   "html": "Father had said that every single time Draco used the word. \"But, but, it's too awful to believe that -\"",
+   "text": "Father had said that every single time Draco used the word. \"But, but, it's too awful to believe that -\"",
+   "break_before": false
+  },
+  {
+   "n": 4239,
+   "local": 256,
+   "html": "\"Draco, let me introduce you to something I call the Litany of Tarski. It changes every time you use it. On this occasion it runs like so: <em>If magic is fading out of the world, I want to believe that magic is fading out of the world. If magic is not fading out of the world, I want not to believe that magic is fading out of the world. Let me not become attached to beliefs I may not want.</em> If we're living in a world where magic is fading, <em>that's what we have to believe,</em> we have to know what's coming, so we can stop it, or in the very worst case, be prepared to do what we can in the time we have left. Not believing it won't stop it from happening. So the <em>only</em> question we have to ask is whether magic is <em>actually</em> fading, and if that's the world we live in then that's what we want to believe. Litany of Gendlin: <em>What's true is already so, owning up to it doesn't make it worse.</em> Got that, Draco? I'm going to make you memorize it later. It's something you repeat to yourself any time you start wondering if it's a good idea to believe something that isn't actually true. In fact I want you to say it right now. <em>What's true is already so, owning up to it doesn't make it worse.</em> Say it.\"",
+   "text": "\"Draco, let me introduce you to something I call the Litany of Tarski. It changes every time you use it. On this occasion it runs like so: If magic is fading out of the world, I want to believe that magic is fading out of the world. If magic is not fading out of the world, I want not to believe that magic is fading out of the world. Let me not become attached to beliefs I may not want. If we're living in a world where magic is fading, that's what we have to believe, we have to know what's coming, so we can stop it, or in the very worst case, be prepared to do what we can in the time we have left. Not believing it won't stop it from happening. So the only question we have to ask is whether magic is actually fading, and if that's the world we live in then that's what we want to believe. Litany of Gendlin: What's true is already so, owning up to it doesn't make it worse. Got that, Draco? I'm going to make you memorize it later. It's something you repeat to yourself any time you start wondering if it's a good idea to believe something that isn't actually true. In fact I want you to say it right now. What's true is already so, owning up to it doesn't make it worse. Say it.\"",
+   "break_before": false
+  },
+  {
+   "n": 4240,
+   "local": 257,
+   "html": "\"What's true is already so,\" repeated Draco, his voice trembling, \"owning up to it doesn't make it worse.\"",
+   "text": "\"What's true is already so,\" repeated Draco, his voice trembling, \"owning up to it doesn't make it worse.\"",
+   "break_before": false
+  },
+  {
+   "n": 4241,
+   "local": 258,
+   "html": "\"If magic is fading, I want to believe that magic is fading. If magic is not fading, I want not to believe that magic is fading. Say it.\"",
+   "text": "\"If magic is fading, I want to believe that magic is fading. If magic is not fading, I want not to believe that magic is fading. Say it.\"",
+   "break_before": false
+  },
+  {
+   "n": 4242,
+   "local": 259,
+   "html": "Draco repeated back the words, the sickness churning in his stomach.",
+   "text": "Draco repeated back the words, the sickness churning in his stomach.",
+   "break_before": false
+  },
+  {
+   "n": 4243,
+   "local": 260,
+   "html": "\"Good,\" Harry said, \"remember, it might <em>not</em> be happening, and then you won't have to believe it, either. <em>First</em> we just want to know what's actually going on, which world we actually live in.\" Harry turned back to his work, scribbled some more, and then turned the parchment so Draco could see it. Draco leaned over the desk and Harry brought the green light closer.",
+   "text": "\"Good,\" Harry said, \"remember, it might not be happening, and then you won't have to believe it, either. First we just want to know what's actually going on, which world we actually live in.\" Harry turned back to his work, scribbled some more, and then turned the parchment so Draco could see it. Draco leaned over the desk and Harry brought the green light closer.",
+   "break_before": false
+  },
+  {
+   "n": 4244,
+   "local": 261,
+   "html": "<em>Observation:</em>",
+   "text": "Observation:",
+   "break_before": false
+  },
+  {
+   "n": 4245,
+   "local": 262,
+   "html": "<em>Wizardry isn't as powerful now as it was when Hogwarts was founded.</em>",
+   "text": "Wizardry isn't as powerful now as it was when Hogwarts was founded.",
+   "break_before": false
+  },
+  {
+   "n": 4246,
+   "local": 263,
+   "html": "<em>Hypotheses:</em>",
+   "text": "Hypotheses:",
+   "break_before": false
+  },
+  {
+   "n": 4247,
+   "local": 264,
+   "html": "<em>1. Magic itself is fading.<br>2. Wizards are interbreeding with Muggles and Squibs.<br>3. Knowledge to cast powerful spells is being lost.</em><em><br>4. Wizards are eating the wrong foods as children, or something else besides blood is making them grow up weaker.<br>5. Muggle technology is interfering with magic. (Since 800 years ago?)<br>6. Stronger wizards are having fewer children. (Draco = only child? Check if 3 powerful wizards, Quirrell / Dumbledore / Dark Lord, had any children.)</em>",
+   "text": "1. Magic itself is fading.\n2. Wizards are interbreeding with Muggles and Squibs.\n3. Knowledge to cast powerful spells is being lost.\n4. Wizards are eating the wrong foods as children, or something else besides blood is making them grow up weaker.\n5. Muggle technology is interfering with magic. (Since 800 years ago?)\n6. Stronger wizards are having fewer children. (Draco = only child? Check if 3 powerful wizards, Quirrell / Dumbledore / Dark Lord, had any children.)",
+   "break_before": false
+  },
+  {
+   "n": 4248,
+   "local": 265,
+   "html": "<em>Tests:</em>",
+   "text": "Tests:",
+   "break_before": false
+  },
+  {
+   "n": 4249,
+   "local": 266,
+   "html": "\"All right,\" Harry said. His breathing sounded a little calmer. \"Now when you're dealing with a confusing problem and you have no idea what's going on, the smart thing to do is figure out some really simple tests, things you can look at right away. We need fast tests that distinguish between these hypotheses. Observations that would come out a different way for at least one of them compared to all the other ones.\"",
+   "text": "\"All right,\" Harry said. His breathing sounded a little calmer. \"Now when you're dealing with a confusing problem and you have no idea what's going on, the smart thing to do is figure out some really simple tests, things you can look at right away. We need fast tests that distinguish between these hypotheses. Observations that would come out a different way for at least one of them compared to all the other ones.\"",
+   "break_before": false
+  },
+  {
+   "n": 4250,
+   "local": 267,
+   "html": "Draco stared at the list in shock. He was suddenly realizing that he knew an awful lot of purebloods who were only children. Himself, Vincent, Gregory, practically <em>everyone.</em> The two most powerful wizards everyone talked about were Dumbledore and the Dark Lord and neither had any children just like Harry had suspected...",
+   "text": "Draco stared at the list in shock. He was suddenly realizing that he knew an awful lot of purebloods who were only children. Himself, Vincent, Gregory, practically everyone. The two most powerful wizards everyone talked about were Dumbledore and the Dark Lord and neither had any children just like Harry had suspected...",
+   "break_before": false
+  },
+  {
+   "n": 4251,
+   "local": 268,
+   "html": "\"It's going to be really hard to distinguish between 2 and 6,\" Harry said, \"it's in the blood either way, you'd have to try and track the decline of wizardry and compare that to how many kids different wizards were having and measure the abilities of Muggleborns compared to purebloods...\" Harry's fingers were tapping nervously on the desk. \"Let's just lump 6 in with 2 and call them the blood hypothesis for now. 4 is unlikely because then everyone would notice a sudden drop when the wizards switched to new foods, it's hard to see what would've changed steadily over 800 years. 5 is unlikely for the same reason, no sudden drop, Muggles weren't doing anything 800 years back. 4 looks like 2 and 5 looks like 1 anyway. So mainly we should be trying to distinguish between 1, 2, and 3.\" Harry turned the parchment to himself, drew an ellipse around those three numbers, turned it back. \"Magic is fading, blood is weakening, knowledge is disappearing. What test comes out differently depending on which of those is true? What could we see that would mean any one of these was false?\"",
+   "text": "\"It's going to be really hard to distinguish between 2 and 6,\" Harry said, \"it's in the blood either way, you'd have to try and track the decline of wizardry and compare that to how many kids different wizards were having and measure the abilities of Muggleborns compared to purebloods...\" Harry's fingers were tapping nervously on the desk. \"Let's just lump 6 in with 2 and call them the blood hypothesis for now. 4 is unlikely because then everyone would notice a sudden drop when the wizards switched to new foods, it's hard to see what would've changed steadily over 800 years. 5 is unlikely for the same reason, no sudden drop, Muggles weren't doing anything 800 years back. 4 looks like 2 and 5 looks like 1 anyway. So mainly we should be trying to distinguish between 1, 2, and 3.\" Harry turned the parchment to himself, drew an ellipse around those three numbers, turned it back. \"Magic is fading, blood is weakening, knowledge is disappearing. What test comes out differently depending on which of those is true? What could we see that would mean any one of these was false?\"",
+   "break_before": false
+  },
+  {
+   "n": 4252,
+   "local": 269,
+   "html": "\"<em>I</em> don't know!\" blurted Draco. \"Why are you asking me? You're the scientist!\"",
+   "text": "\"I don't know!\" blurted Draco. \"Why are you asking me? You're the scientist!\"",
+   "break_before": false
+  },
+  {
+   "n": 4253,
+   "local": 270,
+   "html": "\"Draco,\" Harry said, a note of pleading desperation in his voice, \"I only know what Muggle scientists know! You grew up in the wizarding world, I didn't! You know more magic than I do and you know more <em>about</em> magic than I do and you thought of this whole idea in the first place, so start thinking like a scientist and solve this!\"",
+   "text": "\"Draco,\" Harry said, a note of pleading desperation in his voice, \"I only know what Muggle scientists know! You grew up in the wizarding world, I didn't! You know more magic than I do and you know more about magic than I do and you thought of this whole idea in the first place, so start thinking like a scientist and solve this!\"",
+   "break_before": false
+  },
+  {
+   "n": 4254,
+   "local": 271,
+   "html": "Draco swallowed hard and stared at the paper.",
+   "text": "Draco swallowed hard and stared at the paper.",
+   "break_before": false
+  },
+  {
+   "n": 4255,
+   "local": 272,
+   "html": "Magic is fading... wizards are interbreeding with Muggles... knowledge is being lost...",
+   "text": "Magic is fading... wizards are interbreeding with Muggles... knowledge is being lost...",
+   "break_before": false
+  },
+  {
+   "n": 4256,
+   "local": 273,
+   "html": "\"What does the world look like if magic is fading?\" said Harry Potter. \"You know more about magic, you should be the one guessing not me! Imagine you're telling a story about it, what happens in the story?\"",
+   "text": "\"What does the world look like if magic is fading?\" said Harry Potter. \"You know more about magic, you should be the one guessing not me! Imagine you're telling a story about it, what happens in the story?\"",
+   "break_before": false
+  },
+  {
+   "n": 4257,
+   "local": 274,
+   "html": "Draco imagined it. \"Charms that used to work stop working.\" <em>Wizards wake up and find that their wands are sticks of wood...</em>",
+   "text": "Draco imagined it. \"Charms that used to work stop working.\" Wizards wake up and find that their wands are sticks of wood...",
+   "break_before": false
+  },
+  {
+   "n": 4258,
+   "local": 275,
+   "html": "\"What does the world look like if the wizarding blood gets weaker?\"",
+   "text": "\"What does the world look like if the wizarding blood gets weaker?\"",
+   "break_before": false
+  },
+  {
+   "n": 4259,
+   "local": 276,
+   "html": "\"People can't do things their ancestors could do.\"",
+   "text": "\"People can't do things their ancestors could do.\"",
+   "break_before": false
+  },
+  {
+   "n": 4260,
+   "local": 277,
+   "html": "\"What does the world look like if knowledge is being lost?\"",
+   "text": "\"What does the world look like if knowledge is being lost?\"",
+   "break_before": false
+  },
+  {
+   "n": 4261,
+   "local": 278,
+   "html": "\"People don't know how to cast the Charms in the first place...\" said Draco. He stopped, surprised at himself. \"That's a test, isn't it?\"",
+   "text": "\"People don't know how to cast the Charms in the first place...\" said Draco. He stopped, surprised at himself. \"That's a test, isn't it?\"",
+   "break_before": false
+  },
+  {
+   "n": 4262,
+   "local": 279,
+   "html": "Harry nodded decisively. \"That's one.\" He wrote it down on the parchment under <em>Tests:</em>",
+   "text": "Harry nodded decisively. \"That's one.\" He wrote it down on the parchment under Tests:",
+   "break_before": false
+  },
+  {
+   "n": 4263,
+   "local": 280,
+   "html": "<em>A. Are there spells we know but can't cast (1 or 2) or are the lost spells no longer known (3)?</em>",
+   "text": "A. Are there spells we know but can't cast (1 or 2) or are the lost spells no longer known (3)?",
+   "break_before": false
+  },
+  {
+   "n": 4264,
+   "local": 281,
+   "html": "\"So that distinguishes between 1 and 2 on the one hand, and 3 on the other hand,\" said Harry. \"Now we need some way to distinguish between 1 and 2. Magic fading, blood weakening, how could we tell the difference?\"",
+   "text": "\"So that distinguishes between 1 and 2 on the one hand, and 3 on the other hand,\" said Harry. \"Now we need some way to distinguish between 1 and 2. Magic fading, blood weakening, how could we tell the difference?\"",
+   "break_before": false
+  },
+  {
+   "n": 4265,
+   "local": 282,
+   "html": "\"What kind of Charms did students used to cast in their first year at Hogwarts?\" said Draco. \"If they used to be able to cast much more powerful Charms, the blood was stronger -\"",
+   "text": "\"What kind of Charms did students used to cast in their first year at Hogwarts?\" said Draco. \"If they used to be able to cast much more powerful Charms, the blood was stronger -\"",
+   "break_before": false
+  },
+  {
+   "n": 4266,
+   "local": 283,
+   "html": "Harry Potter shook his head. \"Or magic itself was stronger. We have to figure out some way of telling the <em>difference.</em>\" Harry stood up from his chair, began pacing nervously through the classroom. \"No, wait, that might still work. Suppose different spells use up different amounts of magical energy. Then if the ambient magic weakened, the powerful spells would die first, but the spells everyone learns in their first year would stay the same...\" Harry's nervous pacing sped up. \"It's not a very good test, it's more about powerful wizardry being lost versus all wizardry being lost, someone's blood could be too weak for powerful wizardry but strong enough for easy spells... Draco, do you know if more powerful wizards within a <em>single</em> era, like powerful wizards from just this century, are more powerful as children? If the Dark Lord had cast the Cooling Charm when he was eleven, could he have frozen the whole room?\"",
+   "text": "Harry Potter shook his head. \"Or magic itself was stronger. We have to figure out some way of telling the difference.\" Harry stood up from his chair, began pacing nervously through the classroom. \"No, wait, that might still work. Suppose different spells use up different amounts of magical energy. Then if the ambient magic weakened, the powerful spells would die first, but the spells everyone learns in their first year would stay the same...\" Harry's nervous pacing sped up. \"It's not a very good test, it's more about powerful wizardry being lost versus all wizardry being lost, someone's blood could be too weak for powerful wizardry but strong enough for easy spells... Draco, do you know if more powerful wizards within a single era, like powerful wizards from just this century, are more powerful as children? If the Dark Lord had cast the Cooling Charm when he was eleven, could he have frozen the whole room?\"",
+   "break_before": false
+  },
+  {
+   "n": 4267,
+   "local": 284,
+   "html": "Draco's face screwed up as he tried to recollect. \"I can't remember hearing anything about the Dark Lord but I think Dumbledore's supposed to have done something amazing on his Transfiguration O.W.L.s in fifth year... I think other powerful wizards were good in Hogwarts too...\"",
+   "text": "Draco's face screwed up as he tried to recollect. \"I can't remember hearing anything about the Dark Lord but I think Dumbledore's supposed to have done something amazing on his Transfiguration O.W.L.s in fifth year... I think other powerful wizards were good in Hogwarts too...\"",
+   "break_before": false
+  },
+  {
+   "n": 4268,
+   "local": 285,
+   "html": "Harry scowled, still pacing. \"They could just be studying hard. Still, if first- year students learned the same spells and seemed about as powerful then as now, we could call that <em>weak</em> evidence favoring 1 over 2... wait, hold on.\" Harry stopped where he stood. \"I have another test that might distinguish between 1 and 2. It would take a while to explain, it uses some things that scientists know about blood and inheritance, but it's an easy question to ask. And if we <em>combine</em> my test and your test and they both come out the same way, that's a strong hint at the answer.\" Harry almost ran back to the desk, took the parchment and wrote:",
+   "text": "Harry scowled, still pacing. \"They could just be studying hard. Still, if first- year students learned the same spells and seemed about as powerful then as now, we could call that weak evidence favoring 1 over 2... wait, hold on.\" Harry stopped where he stood. \"I have another test that might distinguish between 1 and 2. It would take a while to explain, it uses some things that scientists know about blood and inheritance, but it's an easy question to ask. And if we combine my test and your test and they both come out the same way, that's a strong hint at the answer.\" Harry almost ran back to the desk, took the parchment and wrote:",
+   "break_before": false
+  },
+  {
+   "n": 4269,
+   "local": 286,
+   "html": "<em>B. Did ancient first-year students cast the same sort of spells, with the same power, as now? (Weak evidence for 1 over 2, but blood could also be losing powerful wizardry only.)</em>",
+   "text": "B. Did ancient first-year students cast the same sort of spells, with the same power, as now? (Weak evidence for 1 over 2, but blood could also be losing powerful wizardry only.)",
+   "break_before": false
+  },
+  {
+   "n": 4270,
+   "local": 287,
+   "html": "<em>C. Additional test that distinguishes 1 and 2 using scientific knowledge of blood, will explain later.</em>",
+   "text": "C. Additional test that distinguishes 1 and 2 using scientific knowledge of blood, will explain later.",
+   "break_before": false
+  },
+  {
+   "n": 4271,
+   "local": 288,
+   "html": "\"Okay,\" said Harry, \"we can at least try to tell the difference between 1 and 2 and 3, so let's go with this right away, we can figure out <em>more</em> tests after we do the ones we already have. Now it's going to look a little odd if Draco Malfoy and Harry Potter go around asking questions together, so here's my idea. You'll go through Hogwarts and find old portraits and ask them about what spells they learned to cast during their first years. They're portraits so they won't know there's anything odd about Draco Malfoy doing that. I'll ask recent portraits and living people about spells we know but can't cast, no one will notice anything unusual if Harry Potter asks weird questions. And I'll have to do complicated research about forgotten spells, so I want you to be the one to gather the data I need for my own scientific question. It's a simple question and you should be able to find the answer by asking portraits. You might want to write this down, ready?\"",
+   "text": "\"Okay,\" said Harry, \"we can at least try to tell the difference between 1 and 2 and 3, so let's go with this right away, we can figure out more tests after we do the ones we already have. Now it's going to look a little odd if Draco Malfoy and Harry Potter go around asking questions together, so here's my idea. You'll go through Hogwarts and find old portraits and ask them about what spells they learned to cast during their first years. They're portraits so they won't know there's anything odd about Draco Malfoy doing that. I'll ask recent portraits and living people about spells we know but can't cast, no one will notice anything unusual if Harry Potter asks weird questions. And I'll have to do complicated research about forgotten spells, so I want you to be the one to gather the data I need for my own scientific question. It's a simple question and you should be able to find the answer by asking portraits. You might want to write this down, ready?\"",
+   "break_before": false
+  },
+  {
+   "n": 4272,
+   "local": 289,
+   "html": "Draco sat down again and scrabbled in his bookbag for parchment and quill. When it was laid down on the desk, Draco looked up, face determined. \"Go ahead.\"",
+   "text": "Draco sat down again and scrabbled in his bookbag for parchment and quill. When it was laid down on the desk, Draco looked up, face determined. \"Go ahead.\"",
+   "break_before": false
+  },
+  {
+   "n": 4273,
+   "local": 290,
+   "html": "\"Find portraits who knew a married Squib couple - don't make that face, Draco, it's important information. Just ask recent portraits who are Gryffindors or something. Find portraits who knew a married Squib couple well enough to know the names of all their children. Write down the name of each child and whether that child was a wizard, a Squib, or a Muggle. If they don't know whether the child was a Squib or a Muggle, write down 'non-wizard'. Write that down for <em>every</em> child the couple had, don't leave any out. If the portrait only knows the name of the wizarding children, not the names of <em>all</em> the children, then don't write down <em>any</em> data from that couple. It's very important that you only bring me data from someone who knows <em>all</em> the children a Squib couple had, well enough to know them all by name. Try to get at least forty names total, if you can, and if you have time for more, even better. Have you got all that?\"",
+   "text": "\"Find portraits who knew a married Squib couple - don't make that face, Draco, it's important information. Just ask recent portraits who are Gryffindors or something. Find portraits who knew a married Squib couple well enough to know the names of all their children. Write down the name of each child and whether that child was a wizard, a Squib, or a Muggle. If they don't know whether the child was a Squib or a Muggle, write down 'non-wizard'. Write that down for every child the couple had, don't leave any out. If the portrait only knows the name of the wizarding children, not the names of all the children, then don't write down any data from that couple. It's very important that you only bring me data from someone who knows all the children a Squib couple had, well enough to know them all by name. Try to get at least forty names total, if you can, and if you have time for more, even better. Have you got all that?\"",
+   "break_before": false
+  },
+  {
+   "n": 4274,
+   "local": 291,
+   "html": "\"Repeat it,\" Draco said, when he was done writing, and Harry repeated it.",
+   "text": "\"Repeat it,\" Draco said, when he was done writing, and Harry repeated it.",
+   "break_before": false
+  },
+  {
+   "n": 4275,
+   "local": 292,
+   "html": "\"I've got it,\" Draco said, \"but why -\"",
+   "text": "\"I've got it,\" Draco said, \"but why -\"",
+   "break_before": false
+  },
+  {
+   "n": 4276,
+   "local": 293,
+   "html": "\"It has to do with one of the secrets of blood that scientists already discovered. I'll explain when you get back. Let's split up and meet back here in an hour, 6:22pm that should be. Are we ready to go?\"",
+   "text": "\"It has to do with one of the secrets of blood that scientists already discovered. I'll explain when you get back. Let's split up and meet back here in an hour, 6:22pm that should be. Are we ready to go?\"",
+   "break_before": false
+  },
+  {
+   "n": 4277,
+   "local": 294,
+   "html": "Draco nodded decisively. It was all very rushed, but he'd long since been taught how to rush.",
+   "text": "Draco nodded decisively. It was all very rushed, but he'd long since been taught how to rush.",
+   "break_before": false
+  },
+  {
+   "n": 4278,
+   "local": 295,
+   "html": "\"Then <em>go!</em> \" said Harry Potter and yanked off his cowled cloak and shoved it into his pouch, which began eating it, and, without even waiting for his pouch to finish, spun around and began striding rapidly toward the classroom door, bumping into a desk and almost falling over in his haste.",
+   "text": "\"Then go! \" said Harry Potter and yanked off his cowled cloak and shoved it into his pouch, which began eating it, and, without even waiting for his pouch to finish, spun around and began striding rapidly toward the classroom door, bumping into a desk and almost falling over in his haste.",
+   "break_before": false
+  },
+  {
+   "n": 4279,
+   "local": 296,
+   "html": "By the time Draco had managed to get his own cloak off and stow it in his bookbag, Harry Potter was gone.",
+   "text": "By the time Draco had managed to get his own cloak off and stow it in his bookbag, Harry Potter was gone.",
+   "break_before": false
+  },
+  {
+   "n": 4280,
+   "local": 297,
+   "html": "Draco almost ran out the door.",
+   "text": "Draco almost ran out the door.",
+   "break_before": false
+  }
+ ]
+}

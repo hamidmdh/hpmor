@@ -1,0 +1,385 @@
+{
+ "chapter": 2,
+ "title": "Everything I Believe Is False",
+ "source": "https://hpmor.info/chapter/2/",
+ "paragraphs": [
+  {
+   "n": 97,
+   "local": 1,
+   "html": "#include \"stddisclaimer.h\"",
+   "text": "#include \"stddisclaimer.h\"",
+   "break_before": false
+  },
+  {
+   "n": 98,
+   "local": 2,
+   "html": "<em>\"Of course it was my fault. There's no one else here who could be responsible for anything.\"</em>",
+   "text": "\"Of course it was my fault. There's no one else here who could be responsible for anything.\"",
+   "break_before": true
+  },
+  {
+   "n": 99,
+   "local": 3,
+   "html": "\"Now, just to be clear,\" Harry said, \"if the professor does levitate you, Dad, when you know you haven't been attached to any wires, that's going to be sufficient evidence. You're not going to turn around and say that it's a magician's trick. That wouldn't be fair play. If you feel that way, you should say so <em>now</em>, and we can figure out a different experiment instead.\"",
+   "text": "\"Now, just to be clear,\" Harry said, \"if the professor does levitate you, Dad, when you know you haven't been attached to any wires, that's going to be sufficient evidence. You're not going to turn around and say that it's a magician's trick. That wouldn't be fair play. If you feel that way, you should say so now, and we can figure out a different experiment instead.\"",
+   "break_before": true
+  },
+  {
+   "n": 100,
+   "local": 4,
+   "html": "Harry's father, Professor Michael Verres-Evans, rolled his eyes. \"Yes, Harry.\"",
+   "text": "Harry's father, Professor Michael Verres-Evans, rolled his eyes. \"Yes, Harry.\"",
+   "break_before": false
+  },
+  {
+   "n": 101,
+   "local": 5,
+   "html": "\"And you, Mum, your theory says that the professor should be able to do this, and if that doesn't happen, you'll admit you're mistaken. Nothing about how magic doesn't work when people are sceptical of it, or anything like that.\"",
+   "text": "\"And you, Mum, your theory says that the professor should be able to do this, and if that doesn't happen, you'll admit you're mistaken. Nothing about how magic doesn't work when people are sceptical of it, or anything like that.\"",
+   "break_before": false
+  },
+  {
+   "n": 102,
+   "local": 6,
+   "html": "Deputy Headmistress Minerva McGonagall was watching Harry with a bemused expression. She looked quite witchy in her black robes and pointed hat, but when she spoke she sounded formal and Scottish, which didn't go together with the look at all. At first glance she looked like someone who ought to cackle and put babies into cauldrons, but the whole effect was ruined as soon as she opened her mouth. \"Is that sufficient, Mr. Potter?\" she said. \"Shall I go ahead and demonstrate?\"",
+   "text": "Deputy Headmistress Minerva McGonagall was watching Harry with a bemused expression. She looked quite witchy in her black robes and pointed hat, but when she spoke she sounded formal and Scottish, which didn't go together with the look at all. At first glance she looked like someone who ought to cackle and put babies into cauldrons, but the whole effect was ruined as soon as she opened her mouth. \"Is that sufficient, Mr. Potter?\" she said. \"Shall I go ahead and demonstrate?\"",
+   "break_before": false
+  },
+  {
+   "n": 103,
+   "local": 7,
+   "html": "\"<em>Sufficient?</em> Probably not,\" Harry said. \"But at least it will <em>help.</em> Go ahead, Deputy Headmistress.\"",
+   "text": "\"Sufficient? Probably not,\" Harry said. \"But at least it will help. Go ahead, Deputy Headmistress.\"",
+   "break_before": false
+  },
+  {
+   "n": 104,
+   "local": 8,
+   "html": "\"Just Professor will do,\" said she, and then, \"<em>Wingardium Leviosa</em>.\"",
+   "text": "\"Just Professor will do,\" said she, and then, \"Wingardium Leviosa.\"",
+   "break_before": false
+  },
+  {
+   "n": 105,
+   "local": 9,
+   "html": "Harry looked at his father.",
+   "text": "Harry looked at his father.",
+   "break_before": false
+  },
+  {
+   "n": 106,
+   "local": 10,
+   "html": "\"Huh,\" Harry said.",
+   "text": "\"Huh,\" Harry said.",
+   "break_before": false
+  },
+  {
+   "n": 107,
+   "local": 11,
+   "html": "His father looked back at him. \"Huh,\" his father echoed.",
+   "text": "His father looked back at him. \"Huh,\" his father echoed.",
+   "break_before": false
+  },
+  {
+   "n": 108,
+   "local": 12,
+   "html": "Then Professor Verres-Evans looked back at Professor McGonagall. \"All right, you can put me down now.\"",
+   "text": "Then Professor Verres-Evans looked back at Professor McGonagall. \"All right, you can put me down now.\"",
+   "break_before": false
+  },
+  {
+   "n": 109,
+   "local": 13,
+   "html": "His father was lowered carefully to the ground.",
+   "text": "His father was lowered carefully to the ground.",
+   "break_before": false
+  },
+  {
+   "n": 110,
+   "local": 14,
+   "html": "Harry ruffled a hand through his own hair. Maybe it was just that strange part of him which had <em>already</em> been convinced, but... \"That's a bit of an anticlimax,\" Harry said. \"You'd think there'd be some kind of more dramatic mental event associated with updating on an observation of infinitesimal probability -\" Harry stopped himself. Mum, the witch, and even his Dad were giving him <em>that look</em> again. \"I mean, with finding out that everything I believe is false.\"",
+   "text": "Harry ruffled a hand through his own hair. Maybe it was just that strange part of him which had already been convinced, but... \"That's a bit of an anticlimax,\" Harry said. \"You'd think there'd be some kind of more dramatic mental event associated with updating on an observation of infinitesimal probability -\" Harry stopped himself. Mum, the witch, and even his Dad were giving him that look again. \"I mean, with finding out that everything I believe is false.\"",
+   "break_before": false
+  },
+  {
+   "n": 111,
+   "local": 15,
+   "html": "Seriously, it should have been more dramatic. His brain ought to have been flushing its entire current stock of hypotheses about the universe, none of which allowed this to happen. But instead his brain just seemed to be going, <em>All right, I saw the Hogwarts Professor wave her wand and make your father rise into the air, now what?</em>",
+   "text": "Seriously, it should have been more dramatic. His brain ought to have been flushing its entire current stock of hypotheses about the universe, none of which allowed this to happen. But instead his brain just seemed to be going, All right, I saw the Hogwarts Professor wave her wand and make your father rise into the air, now what?",
+   "break_before": false
+  },
+  {
+   "n": 112,
+   "local": 16,
+   "html": "The witch-lady was smiling benevolently upon them, looking quite amused. \"Would you like a further demonstration, Mr. Potter?\"",
+   "text": "The witch-lady was smiling benevolently upon them, looking quite amused. \"Would you like a further demonstration, Mr. Potter?\"",
+   "break_before": false
+  },
+  {
+   "n": 113,
+   "local": 17,
+   "html": "\"You don't have to,\" Harry said. \"We've performed a definitive experiment. But...\" Harry hesitated. He couldn't help himself. Actually, under the circumstances, he <em>shouldn't</em> be helping himself. It was right and proper to be curious. \"What else <em>can</em> you do?\"",
+   "text": "\"You don't have to,\" Harry said. \"We've performed a definitive experiment. But...\" Harry hesitated. He couldn't help himself. Actually, under the circumstances, he shouldn't be helping himself. It was right and proper to be curious. \"What else can you do?\"",
+   "break_before": false
+  },
+  {
+   "n": 114,
+   "local": 18,
+   "html": "Professor McGonagall turned into a cat.",
+   "text": "Professor McGonagall turned into a cat.",
+   "break_before": false
+  },
+  {
+   "n": 115,
+   "local": 19,
+   "html": "Harry scrambled back unthinkingly, backpedalling so fast that he tripped over a stray stack of books and landed hard on his bottom with a <em>thwack.</em> His hands came down to catch himself without quite reaching properly, and there was a warning twinge in his shoulder as the weight came down unbraced.",
+   "text": "Harry scrambled back unthinkingly, backpedalling so fast that he tripped over a stray stack of books and landed hard on his bottom with a thwack. His hands came down to catch himself without quite reaching properly, and there was a warning twinge in his shoulder as the weight came down unbraced.",
+   "break_before": false
+  },
+  {
+   "n": 116,
+   "local": 20,
+   "html": "At once the small tabby cat morphed back up into a robed woman. \"I'm sorry, Mr. Potter,\" said the witch, sounding sincere, though the corners of her lips were twitching upwards. \"I should have warned you.\"",
+   "text": "At once the small tabby cat morphed back up into a robed woman. \"I'm sorry, Mr. Potter,\" said the witch, sounding sincere, though the corners of her lips were twitching upwards. \"I should have warned you.\"",
+   "break_before": false
+  },
+  {
+   "n": 117,
+   "local": 21,
+   "html": "Harry was breathing in short gasps. His voice came out choked. <em>\"You can't DO that!\"</em>",
+   "text": "Harry was breathing in short gasps. His voice came out choked. \"You can't DO that!\"",
+   "break_before": false
+  },
+  {
+   "n": 118,
+   "local": 22,
+   "html": "\"It's only a Transfiguration,\" said Professor McGonagall. \"An Animagus transformation, to be exact.\"",
+   "text": "\"It's only a Transfiguration,\" said Professor McGonagall. \"An Animagus transformation, to be exact.\"",
+   "break_before": false
+  },
+  {
+   "n": 119,
+   "local": 23,
+   "html": "\"You turned into a cat! A <em>SMALL</em> cat! You violated Conservation of Energy! That's not just an arbitrary rule, it's implied by the form of the quantum Hamiltonian! Rejecting it destroys unitarity and then you get FTL signalling! And cats are <em>COMPLICATED!</em> A human mind can't just visualise a whole cat's anatomy and, and all the cat biochemistry, and what about the <em>neurology?</em> How can you go on <em>thinking</em> using a cat-sized brain?\"",
+   "text": "\"You turned into a cat! A SMALL cat! You violated Conservation of Energy! That's not just an arbitrary rule, it's implied by the form of the quantum Hamiltonian! Rejecting it destroys unitarity and then you get FTL signalling! And cats are COMPLICATED! A human mind can't just visualise a whole cat's anatomy and, and all the cat biochemistry, and what about the neurology? How can you go on thinking using a cat-sized brain?\"",
+   "break_before": false
+  },
+  {
+   "n": 120,
+   "local": 24,
+   "html": "Professor McGonagall's lips were twitching harder now. \"Magic.\"",
+   "text": "Professor McGonagall's lips were twitching harder now. \"Magic.\"",
+   "break_before": false
+  },
+  {
+   "n": 121,
+   "local": 25,
+   "html": "\"Magic <em>isn't enough</em> to do that! You'd have to be a god!\"",
+   "text": "\"Magic isn't enough to do that! You'd have to be a god!\"",
+   "break_before": false
+  },
+  {
+   "n": 122,
+   "local": 26,
+   "html": "Professor McGonagall blinked. \"That's the first time I've ever been called <em>that.</em>\"",
+   "text": "Professor McGonagall blinked. \"That's the first time I've ever been called that.\"",
+   "break_before": false
+  },
+  {
+   "n": 123,
+   "local": 27,
+   "html": "A blur was coming over Harry's vision, as his brain started to comprehend what had just broken. The whole idea of a unified universe with mathematically regular laws, that was what had been flushed down the toilet; the whole notion of <em>physics</em>. Three thousand years of resolving big complicated things into smaller pieces, discovering that the music of the planets was the same tune as a falling apple, finding that the true laws were perfectly universal and had no exceptions anywhere and took the form of simple maths governing the smallest parts, <em>not to mention</em> that the mind was the brain and the brain was made of neurons, a brain was what a person <em>was</em> -",
+   "text": "A blur was coming over Harry's vision, as his brain started to comprehend what had just broken. The whole idea of a unified universe with mathematically regular laws, that was what had been flushed down the toilet; the whole notion of physics. Three thousand years of resolving big complicated things into smaller pieces, discovering that the music of the planets was the same tune as a falling apple, finding that the true laws were perfectly universal and had no exceptions anywhere and took the form of simple maths governing the smallest parts, not to mention that the mind was the brain and the brain was made of neurons, a brain was what a person was -",
+   "break_before": false
+  },
+  {
+   "n": 124,
+   "local": 28,
+   "html": "And then a woman turned into a cat, so much for all that.",
+   "text": "And then a woman turned into a cat, so much for all that.",
+   "break_before": false
+  },
+  {
+   "n": 125,
+   "local": 29,
+   "html": "A hundred questions fought for priority over Harry's lips and the winner poured out: \"And, and what kind of incantation is <em>Wingardium Leviosa?</em> Who invents the words to these spells, nursery schoolers?\"",
+   "text": "A hundred questions fought for priority over Harry's lips and the winner poured out: \"And, and what kind of incantation is Wingardium Leviosa? Who invents the words to these spells, nursery schoolers?\"",
+   "break_before": false
+  },
+  {
+   "n": 126,
+   "local": 30,
+   "html": "\"That will do, Mr. Potter,\" Professor McGonagall said crisply, though her eyes shone with suppressed amusement. \"If you wish to learn about magic, I suggest that we finalise the paperwork so that you can go to Hogwarts.\"",
+   "text": "\"That will do, Mr. Potter,\" Professor McGonagall said crisply, though her eyes shone with suppressed amusement. \"If you wish to learn about magic, I suggest that we finalise the paperwork so that you can go to Hogwarts.\"",
+   "break_before": false
+  },
+  {
+   "n": 127,
+   "local": 31,
+   "html": "\"Right,\" Harry said, somewhat dazed. He pulled his thoughts together. The March of Reason would just have to start over, that was all; they still had the experimental method and that was the important thing. \"How do I get to Hogwarts, then?\"",
+   "text": "\"Right,\" Harry said, somewhat dazed. He pulled his thoughts together. The March of Reason would just have to start over, that was all; they still had the experimental method and that was the important thing. \"How do I get to Hogwarts, then?\"",
+   "break_before": false
+  },
+  {
+   "n": 128,
+   "local": 32,
+   "html": "A choked laugh escaped Professor McGonagall, as if extracted from her by tweezers.",
+   "text": "A choked laugh escaped Professor McGonagall, as if extracted from her by tweezers.",
+   "break_before": false
+  },
+  {
+   "n": 129,
+   "local": 33,
+   "html": "\"Hold on a moment, Harry,\" his father said. \"Remember why you haven't been going to school up until now? What about your condition?\"",
+   "text": "\"Hold on a moment, Harry,\" his father said. \"Remember why you haven't been going to school up until now? What about your condition?\"",
+   "break_before": false
+  },
+  {
+   "n": 130,
+   "local": 34,
+   "html": "Professor McGonagall spun to face Michael. \"His condition? What's this?\"",
+   "text": "Professor McGonagall spun to face Michael. \"His condition? What's this?\"",
+   "break_before": false
+  },
+  {
+   "n": 131,
+   "local": 35,
+   "html": "\"I don't sleep right,\" Harry said. He waved his hands helplessly. \"My sleep cycle is twenty-six hours long, I always go to sleep two hours later, every day. I can't fall asleep any earlier than that, and then the next day I go to sleep two hours later than <em>that.</em> 10PM, 12AM, 2AM, 4AM, until it goes around the clock. Even if I try to wake up early, it makes no difference and I'm a wreck that whole day. That's why I haven't been going to a normal school up until now.\"",
+   "text": "\"I don't sleep right,\" Harry said. He waved his hands helplessly. \"My sleep cycle is twenty-six hours long, I always go to sleep two hours later, every day. I can't fall asleep any earlier than that, and then the next day I go to sleep two hours later than that. 10PM, 12AM, 2AM, 4AM, until it goes around the clock. Even if I try to wake up early, it makes no difference and I'm a wreck that whole day. That's why I haven't been going to a normal school up until now.\"",
+   "break_before": false
+  },
+  {
+   "n": 132,
+   "local": 36,
+   "html": "\"One of the reasons,\" said his mother. Harry shot her a glare.",
+   "text": "\"One of the reasons,\" said his mother. Harry shot her a glare.",
+   "break_before": false
+  },
+  {
+   "n": 133,
+   "local": 37,
+   "html": "McGonagall gave a long <em>hmmmmm.</em> \"I can't recall hearing about such a condition before...\" she said slowly. \"I'll check with Madam Pomfrey to see if she knows any remedies.\" Then her face brightened. \"No, I'm sure this won't be a problem - I'll find a solution in time. Now,\" and her gaze sharpened again, \"what are these <em>other</em> reasons?\"",
+   "text": "McGonagall gave a long hmmmmm. \"I can't recall hearing about such a condition before...\" she said slowly. \"I'll check with Madam Pomfrey to see if she knows any remedies.\" Then her face brightened. \"No, I'm sure this won't be a problem - I'll find a solution in time. Now,\" and her gaze sharpened again, \"what are these other reasons?\"",
+   "break_before": false
+  },
+  {
+   "n": 134,
+   "local": 38,
+   "html": "Harry sent his parents a glare. \"I am a conscientious objector to child conscription, on grounds that I should not have to suffer for a disintegrating school system's failure to provide teachers or study materials of even minimally adequate quality.\"",
+   "text": "Harry sent his parents a glare. \"I am a conscientious objector to child conscription, on grounds that I should not have to suffer for a disintegrating school system's failure to provide teachers or study materials of even minimally adequate quality.\"",
+   "break_before": false
+  },
+  {
+   "n": 135,
+   "local": 39,
+   "html": "Both of Harry's parents howled with laughter at that, like they thought it was all a big joke. \"Oh,\" said Harry's father, eyes bright, \"is <em>that</em> why you bit a maths teacher in third year.\"",
+   "text": "Both of Harry's parents howled with laughter at that, like they thought it was all a big joke. \"Oh,\" said Harry's father, eyes bright, \"is that why you bit a maths teacher in third year.\"",
+   "break_before": false
+  },
+  {
+   "n": 136,
+   "local": 40,
+   "html": "\"<em>She didn't know what a logarithm was!</em> \"",
+   "text": "\"She didn't know what a logarithm was! \"",
+   "break_before": false
+  },
+  {
+   "n": 137,
+   "local": 41,
+   "html": "\"Of course,\" seconded Harry's mother. \"Biting her was a very mature response to that.\"",
+   "text": "\"Of course,\" seconded Harry's mother. \"Biting her was a very mature response to that.\"",
+   "break_before": false
+  },
+  {
+   "n": 138,
+   "local": 42,
+   "html": "Harry's father nodded. \"A well-considered policy for addressing the problem of teachers who don't understand logarithms.\"",
+   "text": "Harry's father nodded. \"A well-considered policy for addressing the problem of teachers who don't understand logarithms.\"",
+   "break_before": false
+  },
+  {
+   "n": 139,
+   "local": 43,
+   "html": "\"I was <em>seven years old!</em> How long are you going to keep on bringing that up?\"",
+   "text": "\"I was seven years old! How long are you going to keep on bringing that up?\"",
+   "break_before": false
+  },
+  {
+   "n": 140,
+   "local": 44,
+   "html": "\"I know,\" said his mother sympathetically, \"you bite <em>one</em> maths teacher and they never let you forget it, do they?\"",
+   "text": "\"I know,\" said his mother sympathetically, \"you bite one maths teacher and they never let you forget it, do they?\"",
+   "break_before": false
+  },
+  {
+   "n": 141,
+   "local": 45,
+   "html": "Harry turned to Professor McGonagall. \"There! You see what I have to deal with?\"",
+   "text": "Harry turned to Professor McGonagall. \"There! You see what I have to deal with?\"",
+   "break_before": false
+  },
+  {
+   "n": 142,
+   "local": 46,
+   "html": "\"Excuse me,\" said Petunia, and fled through the backdoor into the garden, from which her screams of laughter were clearly audible.",
+   "text": "\"Excuse me,\" said Petunia, and fled through the backdoor into the garden, from which her screams of laughter were clearly audible.",
+   "break_before": false
+  },
+  {
+   "n": 143,
+   "local": 47,
+   "html": "\"There, ah, there,\" Professor McGonagall seemed to be having trouble speaking for some reason, \"there is to be no biting of teachers at Hogwarts, is that quite clear, Mr. Potter?\"",
+   "text": "\"There, ah, there,\" Professor McGonagall seemed to be having trouble speaking for some reason, \"there is to be no biting of teachers at Hogwarts, is that quite clear, Mr. Potter?\"",
+   "break_before": false
+  },
+  {
+   "n": 144,
+   "local": 48,
+   "html": "Harry scowled at her. \"Fine, I won't bite anyone who doesn't bite me first.\"",
+   "text": "Harry scowled at her. \"Fine, I won't bite anyone who doesn't bite me first.\"",
+   "break_before": false
+  },
+  {
+   "n": 145,
+   "local": 49,
+   "html": "Professor Michael Verres-Evans also had to leave the room briefly upon hearing that.",
+   "text": "Professor Michael Verres-Evans also had to leave the room briefly upon hearing that.",
+   "break_before": false
+  },
+  {
+   "n": 146,
+   "local": 50,
+   "html": "\"Well,\" Professor McGonagall sighed, after Harry's parents had composed themselves and returned. \"Well. I think, under the circumstances, that I should avoid taking you to purchase your study materials until a day or two before school begins.\"",
+   "text": "\"Well,\" Professor McGonagall sighed, after Harry's parents had composed themselves and returned. \"Well. I think, under the circumstances, that I should avoid taking you to purchase your study materials until a day or two before school begins.\"",
+   "break_before": false
+  },
+  {
+   "n": 147,
+   "local": 51,
+   "html": "\"What? Why? The other children already know magic, don't they? I have to start catching up right away!\"",
+   "text": "\"What? Why? The other children already know magic, don't they? I have to start catching up right away!\"",
+   "break_before": false
+  },
+  {
+   "n": 148,
+   "local": 52,
+   "html": "\"Rest assured, Mr. Potter,\" replied Professor McGonagall, \"Hogwarts is quite capable of teaching the basics. And I suspect, Mr. Potter, that if I leave you alone for two months with your schoolbooks, even without a wand, I will return to this house only to find a crater billowing purple smoke, a depopulated city surrounding it and a plague of flaming zebras terrorising what remains of England.\"",
+   "text": "\"Rest assured, Mr. Potter,\" replied Professor McGonagall, \"Hogwarts is quite capable of teaching the basics. And I suspect, Mr. Potter, that if I leave you alone for two months with your schoolbooks, even without a wand, I will return to this house only to find a crater billowing purple smoke, a depopulated city surrounding it and a plague of flaming zebras terrorising what remains of England.\"",
+   "break_before": false
+  },
+  {
+   "n": 149,
+   "local": 53,
+   "html": "Harry's mother and father nodded in perfect unison.",
+   "text": "Harry's mother and father nodded in perfect unison.",
+   "break_before": false
+  },
+  {
+   "n": 150,
+   "local": 54,
+   "html": "\"<em>Mum! Dad!</em> \"",
+   "text": "\"Mum! Dad! \"",
+   "break_before": false
+  }
+ ]
+}

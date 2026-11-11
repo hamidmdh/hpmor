@@ -1,0 +1,2569 @@
+{
+ "chapter": 18,
+ "title": "Dominance Hierarchies",
+ "source": "https://hpmor.info/chapter/18/",
+ "paragraphs": [
+  {
+   "n": 2869,
+   "local": 1,
+   "html": "Any sufficiently advanced J. K. Rowling is indistinguishable from magic.",
+   "text": "Any sufficiently advanced J. K. Rowling is indistinguishable from magic.",
+   "break_before": false
+  },
+  {
+   "n": 2870,
+   "local": 2,
+   "html": "<em>\"That does sound like the sort of thing I would do, doesn't it?\"</em>",
+   "text": "\"That does sound like the sort of thing I would do, doesn't it?\"",
+   "break_before": true
+  },
+  {
+   "n": 2871,
+   "local": 3,
+   "html": "It was breakfast time on Friday morning. Harry took another huge bite out of his toast and then tried to remind his brain that scarfing his breakfast wouldn't actually get him into the dungeons any faster. Anyway they had a full hour of study time between breakfast and the start of Potions.",
+   "text": "It was breakfast time on Friday morning. Harry took another huge bite out of his toast and then tried to remind his brain that scarfing his breakfast wouldn't actually get him into the dungeons any faster. Anyway they had a full hour of study time between breakfast and the start of Potions.",
+   "break_before": true
+  },
+  {
+   "n": 2872,
+   "local": 4,
+   "html": "But dungeons! In Hogwarts! Harry's imagination was already sketching the chasms, narrow bridges, torchlit sconces, and patches of glowing moss. Would there be rats? Would there be <em>dragons?</em>",
+   "text": "But dungeons! In Hogwarts! Harry's imagination was already sketching the chasms, narrow bridges, torchlit sconces, and patches of glowing moss. Would there be rats? Would there be dragons?",
+   "break_before": false
+  },
+  {
+   "n": 2873,
+   "local": 5,
+   "html": "\"Harry Potter,\" said a quiet voice from behind him.",
+   "text": "\"Harry Potter,\" said a quiet voice from behind him.",
+   "break_before": false
+  },
+  {
+   "n": 2874,
+   "local": 6,
+   "html": "Harry looked over his shoulder and found himself beholding Ernie Macmillan, smartly dressed in yellow-trimmed robes and looking a little worried.",
+   "text": "Harry looked over his shoulder and found himself beholding Ernie Macmillan, smartly dressed in yellow-trimmed robes and looking a little worried.",
+   "break_before": false
+  },
+  {
+   "n": 2875,
+   "local": 7,
+   "html": "\"Neville thought I should warn you,\" Ernie said in a low voice. \"I think he's right. Be careful of the Potions Master in our session today. The older Hufflepuffs told us that Professor Snape can be really nasty to people he doesn't like, and he doesn't like most people who aren't Slytherins. If you say anything smart to him it... it could be really bad for you, from what I've heard. Just keep your head down and don't give him any reason to notice you.\"",
+   "text": "\"Neville thought I should warn you,\" Ernie said in a low voice. \"I think he's right. Be careful of the Potions Master in our session today. The older Hufflepuffs told us that Professor Snape can be really nasty to people he doesn't like, and he doesn't like most people who aren't Slytherins. If you say anything smart to him it... it could be really bad for you, from what I've heard. Just keep your head down and don't give him any reason to notice you.\"",
+   "break_before": false
+  },
+  {
+   "n": 2876,
+   "local": 8,
+   "html": "There was a pause as Harry processed this, and then he lifted his eyebrows. (Harry wished he could raise just one eyebrow, like Spock, but he'd never been able to manage.) \"Thanks,\" Harry said. \"You might've just saved me a lot of trouble.\"",
+   "text": "There was a pause as Harry processed this, and then he lifted his eyebrows. (Harry wished he could raise just one eyebrow, like Spock, but he'd never been able to manage.) \"Thanks,\" Harry said. \"You might've just saved me a lot of trouble.\"",
+   "break_before": false
+  },
+  {
+   "n": 2877,
+   "local": 9,
+   "html": "Ernie nodded, and turned to go back to the Hufflepuff table.",
+   "text": "Ernie nodded, and turned to go back to the Hufflepuff table.",
+   "break_before": false
+  },
+  {
+   "n": 2878,
+   "local": 10,
+   "html": "Harry resumed eating his toast.",
+   "text": "Harry resumed eating his toast.",
+   "break_before": false
+  },
+  {
+   "n": 2879,
+   "local": 11,
+   "html": "It was around four bites afterward that someone said \"Pardon me,\" and Harry turned around to see an older Ravenclaw, looking a little worried -",
+   "text": "It was around four bites afterward that someone said \"Pardon me,\" and Harry turned around to see an older Ravenclaw, looking a little worried -",
+   "break_before": false
+  },
+  {
+   "n": 2880,
+   "local": 12,
+   "html": "Some time later, Harry was finishing up his third plate of rashers. (He'd learned to eat heavily at breakfast. He could always eat lightly at lunch if he didn't end up using the Time-Turner.) And there was yet another voice from behind him saying \"Harry?\"",
+   "text": "Some time later, Harry was finishing up his third plate of rashers. (He'd learned to eat heavily at breakfast. He could always eat lightly at lunch if he didn't end up using the Time-Turner.) And there was yet another voice from behind him saying \"Harry?\"",
+   "break_before": false
+  },
+  {
+   "n": 2881,
+   "local": 13,
+   "html": "\"Yes,\" Harry said wearily, \"I'll try not to draw Professor Snape's attention -\"",
+   "text": "\"Yes,\" Harry said wearily, \"I'll try not to draw Professor Snape's attention -\"",
+   "break_before": false
+  },
+  {
+   "n": 2882,
+   "local": 14,
+   "html": "\"Oh, that's hopeless,\" said Fred.",
+   "text": "\"Oh, that's hopeless,\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 2883,
+   "local": 15,
+   "html": "\"Completely hopeless,\" said George.",
+   "text": "\"Completely hopeless,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 2884,
+   "local": 16,
+   "html": "\"So we had the house elves bake you a cake,\" said Fred.",
+   "text": "\"So we had the house elves bake you a cake,\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 2885,
+   "local": 17,
+   "html": "\"We're going to put one candle on it for every point you lose for Ravenclaw,\" said George.",
+   "text": "\"We're going to put one candle on it for every point you lose for Ravenclaw,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 2886,
+   "local": 18,
+   "html": "\"And have a party for you at the Gryffindor table during lunch,\" said Fred.",
+   "text": "\"And have a party for you at the Gryffindor table during lunch,\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 2887,
+   "local": 19,
+   "html": "\"We hope that'll cheer you up afterward,\" finished George.",
+   "text": "\"We hope that'll cheer you up afterward,\" finished George.",
+   "break_before": false
+  },
+  {
+   "n": 2888,
+   "local": 20,
+   "html": "Harry swallowed his last bite of rasher and turned around. \"All right,\" said Harry. \"I wasn't going to ask this after Professor Binns, I really wasn't, but if Professor Snape is <em>that</em> awful why hasn't he been fired?\"",
+   "text": "Harry swallowed his last bite of rasher and turned around. \"All right,\" said Harry. \"I wasn't going to ask this after Professor Binns, I really wasn't, but if Professor Snape is that awful why hasn't he been fired?\"",
+   "break_before": false
+  },
+  {
+   "n": 2889,
+   "local": 21,
+   "html": "\"Fired?\" said Fred.",
+   "text": "\"Fired?\" said Fred.",
+   "break_before": false
+  },
+  {
+   "n": 2890,
+   "local": 22,
+   "html": "\"You mean, let go?\" said George.",
+   "text": "\"You mean, let go?\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 2891,
+   "local": 23,
+   "html": "\"Yes,\" Harry said. \"It's what you do to bad teachers. You fire them. Then you hire a better teacher instead. You don't have unions or tenure here, right?\"",
+   "text": "\"Yes,\" Harry said. \"It's what you do to bad teachers. You fire them. Then you hire a better teacher instead. You don't have unions or tenure here, right?\"",
+   "break_before": false
+  },
+  {
+   "n": 2892,
+   "local": 24,
+   "html": "Fred and George were frowning in much the same way that hunter-gatherer tribal elders might frown if you tried to tell them about calculus.",
+   "text": "Fred and George were frowning in much the same way that hunter-gatherer tribal elders might frown if you tried to tell them about calculus.",
+   "break_before": false
+  },
+  {
+   "n": 2893,
+   "local": 25,
+   "html": "\"I don't know,\" said Fred after a while. \"I never thought about that.\"",
+   "text": "\"I don't know,\" said Fred after a while. \"I never thought about that.\"",
+   "break_before": false
+  },
+  {
+   "n": 2894,
+   "local": 26,
+   "html": "\"Me neither,\" said George.",
+   "text": "\"Me neither,\" said George.",
+   "break_before": false
+  },
+  {
+   "n": 2895,
+   "local": 27,
+   "html": "\"Yeah,\" said Harry, \"I get that a lot. See you at lunch, guys, and don't blame me if there aren't any candles on that cake.\"",
+   "text": "\"Yeah,\" said Harry, \"I get that a lot. See you at lunch, guys, and don't blame me if there aren't any candles on that cake.\"",
+   "break_before": false
+  },
+  {
+   "n": 2896,
+   "local": 28,
+   "html": "Fred and George both laughed, as if Harry had said something funny, and bowed to him and headed back toward Gryffindor.",
+   "text": "Fred and George both laughed, as if Harry had said something funny, and bowed to him and headed back toward Gryffindor.",
+   "break_before": false
+  },
+  {
+   "n": 2897,
+   "local": 29,
+   "html": "Harry turned back to the breakfast table and grabbed a cupcake. His stomach already felt full, but he had a feeling this morning might use a lot of calories.",
+   "text": "Harry turned back to the breakfast table and grabbed a cupcake. His stomach already felt full, but he had a feeling this morning might use a lot of calories.",
+   "break_before": false
+  },
+  {
+   "n": 2898,
+   "local": 30,
+   "html": "As he ate his cupcake, Harry thought of the worst teacher he'd met so far, Professor Binns of History. Professor Binns was a ghost. From what Hermione had said about ghosts, it didn't seem likely that they were fully self-aware. There were no famous discoveries made by ghosts, or much of any original work, no matter who they'd been in life. Ghosts tended to have trouble remembering the current century. Hermione had said they were like accidental portraits, impressed into the surrounding matter by a burst of psychic energy accompanying a wizard's sudden death.",
+   "text": "As he ate his cupcake, Harry thought of the worst teacher he'd met so far, Professor Binns of History. Professor Binns was a ghost. From what Hermione had said about ghosts, it didn't seem likely that they were fully self-aware. There were no famous discoveries made by ghosts, or much of any original work, no matter who they'd been in life. Ghosts tended to have trouble remembering the current century. Hermione had said they were like accidental portraits, impressed into the surrounding matter by a burst of psychic energy accompanying a wizard's sudden death.",
+   "break_before": false
+  },
+  {
+   "n": 2899,
+   "local": 31,
+   "html": "Harry had run into some stupid teachers during his abortive forays into standard Muggle education - his father had been a lot pickier when it came to selecting grad students as tutors, of course - but History class was the first time he'd encountered a teacher who literally wasn't sentient.",
+   "text": "Harry had run into some stupid teachers during his abortive forays into standard Muggle education - his father had been a lot pickier when it came to selecting grad students as tutors, of course - but History class was the first time he'd encountered a teacher who literally wasn't sentient.",
+   "break_before": false
+  },
+  {
+   "n": 2900,
+   "local": 32,
+   "html": "And it showed, too. Harry had given up after five minutes and started reading a textbook. When it became clear that \"Professor Binns\" wasn't going to object, Harry had also reached into his pouch and gotten earplugs.",
+   "text": "And it showed, too. Harry had given up after five minutes and started reading a textbook. When it became clear that \"Professor Binns\" wasn't going to object, Harry had also reached into his pouch and gotten earplugs.",
+   "break_before": false
+  },
+  {
+   "n": 2901,
+   "local": 33,
+   "html": "Did ghosts not require a salary? Was that it? Or was it literally impossible to fire anyone in Hogwarts <em>even if they died?</em>",
+   "text": "Did ghosts not require a salary? Was that it? Or was it literally impossible to fire anyone in Hogwarts even if they died?",
+   "break_before": false
+  },
+  {
+   "n": 2902,
+   "local": 34,
+   "html": "Now it seemed that Professor Snape was going about being absolutely awful to everyone who wasn't a Slytherin and it hadn't even <em>occurred</em> to anyone to terminate his contract.",
+   "text": "Now it seemed that Professor Snape was going about being absolutely awful to everyone who wasn't a Slytherin and it hadn't even occurred to anyone to terminate his contract.",
+   "break_before": false
+  },
+  {
+   "n": 2903,
+   "local": 35,
+   "html": "And the Headmaster had set fire to a chicken.",
+   "text": "And the Headmaster had set fire to a chicken.",
+   "break_before": false
+  },
+  {
+   "n": 2904,
+   "local": 36,
+   "html": "\"Excuse me,\" came a worried voice from behind him.",
+   "text": "\"Excuse me,\" came a worried voice from behind him.",
+   "break_before": false
+  },
+  {
+   "n": 2905,
+   "local": 37,
+   "html": "\"I swear,\" Harry said without turning around, \"this place is almost eight and a half percent as bad as what Dad says about Oxford.\"",
+   "text": "\"I swear,\" Harry said without turning around, \"this place is almost eight and a half percent as bad as what Dad says about Oxford.\"",
+   "break_before": false
+  },
+  {
+   "n": 2906,
+   "local": 38,
+   "html": "Harry stamped down the stone corridors, looking affronted, annoyed, and infuriated all at once.",
+   "text": "Harry stamped down the stone corridors, looking affronted, annoyed, and infuriated all at once.",
+   "break_before": true
+  },
+  {
+   "n": 2907,
+   "local": 39,
+   "html": "\"Dungeons!\" Harry hissed. \"<em>Dungeons!</em> These are not dungeons! This is a basement! A <em>basement!</em> \"",
+   "text": "\"Dungeons!\" Harry hissed. \"Dungeons! These are not dungeons! This is a basement! A basement! \"",
+   "break_before": false
+  },
+  {
+   "n": 2908,
+   "local": 40,
+   "html": "Some of the Ravenclaw girls gave him odd looks. The boys were all used to him by now.",
+   "text": "Some of the Ravenclaw girls gave him odd looks. The boys were all used to him by now.",
+   "break_before": false
+  },
+  {
+   "n": 2909,
+   "local": 41,
+   "html": "It seemed that the level in which the Potions classroom was located was called the \"dungeons\" for no better reason than that it was below ground and slightly colder than the main castle.",
+   "text": "It seemed that the level in which the Potions classroom was located was called the \"dungeons\" for no better reason than that it was below ground and slightly colder than the main castle.",
+   "break_before": false
+  },
+  {
+   "n": 2910,
+   "local": 42,
+   "html": "In <em>Hogwarts!</em> In <em>Hogwarts!</em> Harry had been waiting his whole life and now he was <em>still</em> waiting and if there was anywhere <em>on the face of the Earth</em> that had decent dungeons it ought to be Hogwarts! Was Harry going to have to build his own castle if he wanted to see one little bottomless abyss?",
+   "text": "In Hogwarts! In Hogwarts! Harry had been waiting his whole life and now he was still waiting and if there was anywhere on the face of the Earth that had decent dungeons it ought to be Hogwarts! Was Harry going to have to build his own castle if he wanted to see one little bottomless abyss?",
+   "break_before": false
+  },
+  {
+   "n": 2911,
+   "local": 43,
+   "html": "A short time later they got to the actual Potions classroom and Harry cheered up considerably.",
+   "text": "A short time later they got to the actual Potions classroom and Harry cheered up considerably.",
+   "break_before": false
+  },
+  {
+   "n": 2912,
+   "local": 44,
+   "html": "The Potions classroom had strange preserved creatures floating in huge jars on shelves that covered every centimeter of wall space between the closets. Harry had gotten far enough along in his reading now that he could actually identify some of the creatures, like the Zabriskan Fontema. Albeit the fifty-centimeter spider <em>looked</em> like an Acromantula but it was too small to <em>be</em> one. He'd tried asking Hermione, but she hadn't seemed very interested in looking anywhere near where he was pointing.",
+   "text": "The Potions classroom had strange preserved creatures floating in huge jars on shelves that covered every centimeter of wall space between the closets. Harry had gotten far enough along in his reading now that he could actually identify some of the creatures, like the Zabriskan Fontema. Albeit the fifty-centimeter spider looked like an Acromantula but it was too small to be one. He'd tried asking Hermione, but she hadn't seemed very interested in looking anywhere near where he was pointing.",
+   "break_before": false
+  },
+  {
+   "n": 2913,
+   "local": 45,
+   "html": "Harry was looking at a large dust ball with eyes and feet when the assassin swept into the room.",
+   "text": "Harry was looking at a large dust ball with eyes and feet when the assassin swept into the room.",
+   "break_before": false
+  },
+  {
+   "n": 2914,
+   "local": 46,
+   "html": "That was the first thought that crossed Harry's mind when he saw Professor Severus Snape. There was something quiet and deadly about the way the man stalked between the children's desks. His robes were unkempt, his hair spotted and greasy. There was something about him that seemed reminiscent of Lucius, although the two of them looked nothing remotely alike, and you got the impression that where Lucius would kill you with flawless elegance, this man would simply kill you.",
+   "text": "That was the first thought that crossed Harry's mind when he saw Professor Severus Snape. There was something quiet and deadly about the way the man stalked between the children's desks. His robes were unkempt, his hair spotted and greasy. There was something about him that seemed reminiscent of Lucius, although the two of them looked nothing remotely alike, and you got the impression that where Lucius would kill you with flawless elegance, this man would simply kill you.",
+   "break_before": false
+  },
+  {
+   "n": 2915,
+   "local": 47,
+   "html": "\"Sit down,\" said Professor Severus Snape. \"Now.\"",
+   "text": "\"Sit down,\" said Professor Severus Snape. \"Now.\"",
+   "break_before": false
+  },
+  {
+   "n": 2916,
+   "local": 48,
+   "html": "Harry and a few other children who had been standing around talking to each other scrambled for desks. Harry had planned on ending up next to Hermione but somehow he found himself sitting down in the nearest empty desk next to Justin Finch-Fletchley (it was a Doubles session, Ravenclaw and Hufflepuff) which put him two desks to the left of Hermione.",
+   "text": "Harry and a few other children who had been standing around talking to each other scrambled for desks. Harry had planned on ending up next to Hermione but somehow he found himself sitting down in the nearest empty desk next to Justin Finch-Fletchley (it was a Doubles session, Ravenclaw and Hufflepuff) which put him two desks to the left of Hermione.",
+   "break_before": false
+  },
+  {
+   "n": 2917,
+   "local": 49,
+   "html": "Severus seated himself behind the teacher's desk, and without the slightest transition or introduction, said, \"Hannah Abbott.\"",
+   "text": "Severus seated himself behind the teacher's desk, and without the slightest transition or introduction, said, \"Hannah Abbott.\"",
+   "break_before": false
+  },
+  {
+   "n": 2918,
+   "local": 50,
+   "html": "\"Here,\" said Hannah in a somewhat trembling voice.",
+   "text": "\"Here,\" said Hannah in a somewhat trembling voice.",
+   "break_before": false
+  },
+  {
+   "n": 2919,
+   "local": 51,
+   "html": "\"Susan Bones.\"",
+   "text": "\"Susan Bones.\"",
+   "break_before": false
+  },
+  {
+   "n": 2920,
+   "local": 52,
+   "html": "\"Present.\"",
+   "text": "\"Present.\"",
+   "break_before": false
+  },
+  {
+   "n": 2921,
+   "local": 53,
+   "html": "And so it went, no one daring to say a word in edgewise, until:",
+   "text": "And so it went, no one daring to say a word in edgewise, until:",
+   "break_before": false
+  },
+  {
+   "n": 2922,
+   "local": 54,
+   "html": "\"Ah, yes. Harry Potter. Our new... <em>celebrity.</em>\"",
+   "text": "\"Ah, yes. Harry Potter. Our new... celebrity.\"",
+   "break_before": false
+  },
+  {
+   "n": 2923,
+   "local": 55,
+   "html": "\"The celebrity is present, <em>sir</em>.\"",
+   "text": "\"The celebrity is present, sir.\"",
+   "break_before": false
+  },
+  {
+   "n": 2924,
+   "local": 56,
+   "html": "Half the class flinched, and some of the smarter ones suddenly looked like they wanted to run out the door while the classroom was still there.",
+   "text": "Half the class flinched, and some of the smarter ones suddenly looked like they wanted to run out the door while the classroom was still there.",
+   "break_before": false
+  },
+  {
+   "n": 2925,
+   "local": 57,
+   "html": "Severus smiled in an anticipatory sort of way and called the next name on his list.",
+   "text": "Severus smiled in an anticipatory sort of way and called the next name on his list.",
+   "break_before": false
+  },
+  {
+   "n": 2926,
+   "local": 58,
+   "html": "Harry gave a mental sigh. That had happened way too fast for him to do anything about it. Oh well. Clearly this man already didn't like him, for whatever reason. And when Harry thought about it, better by far that this Potions professor should pick on <em>him</em> rather than, say, Neville or Hermione. Harry was a lot better able to defend himself. Yep, probably all for the best.",
+   "text": "Harry gave a mental sigh. That had happened way too fast for him to do anything about it. Oh well. Clearly this man already didn't like him, for whatever reason. And when Harry thought about it, better by far that this Potions professor should pick on him rather than, say, Neville or Hermione. Harry was a lot better able to defend himself. Yep, probably all for the best.",
+   "break_before": false
+  },
+  {
+   "n": 2927,
+   "local": 59,
+   "html": "When full attendance had been taken, Severus swept his gaze over the full class. His eyes were as empty as a night sky without stars.",
+   "text": "When full attendance had been taken, Severus swept his gaze over the full class. His eyes were as empty as a night sky without stars.",
+   "break_before": false
+  },
+  {
+   "n": 2928,
+   "local": 60,
+   "html": "\"You are here,\" Severus said in a quiet voice which the students at back strained to hear, \"to learn the subtle science and exact art of potionmaking. As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes, the delicate power of liquids that creep through human veins,\" this in a rather caressing, gloating tone, \"bewitching the mind, ensnaring the senses,\" this was just getting creepier and creepier. \"I can teach you how to bottle fame, brew glory, even stopper death - if you aren't as great a pack of fools as I usually have to teach.\"",
+   "text": "\"You are here,\" Severus said in a quiet voice which the students at back strained to hear, \"to learn the subtle science and exact art of potionmaking. As there is little foolish wand-waving here, many of you will hardly believe this is magic. I don't expect you will really understand the beauty of the softly simmering cauldron with its shimmering fumes, the delicate power of liquids that creep through human veins,\" this in a rather caressing, gloating tone, \"bewitching the mind, ensnaring the senses,\" this was just getting creepier and creepier. \"I can teach you how to bottle fame, brew glory, even stopper death - if you aren't as great a pack of fools as I usually have to teach.\"",
+   "break_before": false
+  },
+  {
+   "n": 2929,
+   "local": 61,
+   "html": "Severus somehow seemed to notice the look of skepticism on Harry's face, or at least his eyes suddenly jumped to where Harry was sitting.",
+   "text": "Severus somehow seemed to notice the look of skepticism on Harry's face, or at least his eyes suddenly jumped to where Harry was sitting.",
+   "break_before": false
+  },
+  {
+   "n": 2930,
+   "local": 62,
+   "html": "\"Potter!\" snapped the Potions professor. \"What would I get if I added powdered root of asphodel to an infusion of wormwood?\"",
+   "text": "\"Potter!\" snapped the Potions professor. \"What would I get if I added powdered root of asphodel to an infusion of wormwood?\"",
+   "break_before": false
+  },
+  {
+   "n": 2931,
+   "local": 63,
+   "html": "Harry blinked. \"Was that in <em>Magical Drafts and Potions</em>?\" he said. \"I just finished reading it, and I don't remember anything which used wormwood -\"",
+   "text": "Harry blinked. \"Was that in Magical Drafts and Potions?\" he said. \"I just finished reading it, and I don't remember anything which used wormwood -\"",
+   "break_before": false
+  },
+  {
+   "n": 2932,
+   "local": 64,
+   "html": "Hermione's hand went up and Harry shot her a glare which caused her to raise her hand even higher.",
+   "text": "Hermione's hand went up and Harry shot her a glare which caused her to raise her hand even higher.",
+   "break_before": false
+  },
+  {
+   "n": 2933,
+   "local": 65,
+   "html": "\"Tut, tut,\" Severus said silkily. \"Fame clearly isn't everything.\"",
+   "text": "\"Tut, tut,\" Severus said silkily. \"Fame clearly isn't everything.\"",
+   "break_before": false
+  },
+  {
+   "n": 2934,
+   "local": 66,
+   "html": "\"Really?\" Harry said. \"But you just told us you'd teach us how to bottle fame. Say, how <em>does</em> that work, exactly? You drink it and turn into a celebrity?\"",
+   "text": "\"Really?\" Harry said. \"But you just told us you'd teach us how to bottle fame. Say, how does that work, exactly? You drink it and turn into a celebrity?\"",
+   "break_before": false
+  },
+  {
+   "n": 2935,
+   "local": 67,
+   "html": "Three-quarters of the class flinched.",
+   "text": "Three-quarters of the class flinched.",
+   "break_before": false
+  },
+  {
+   "n": 2936,
+   "local": 68,
+   "html": "Hermione's hand was dropping slowly back down. Well, that wasn't surprising. She might be his rival, but she wasn't the sort of girl who would play along after it became clear that the professor was deliberately trying to humiliate him.",
+   "text": "Hermione's hand was dropping slowly back down. Well, that wasn't surprising. She might be his rival, but she wasn't the sort of girl who would play along after it became clear that the professor was deliberately trying to humiliate him.",
+   "break_before": false
+  },
+  {
+   "n": 2937,
+   "local": 69,
+   "html": "Harry was trying hard to keep control of his temper. The first rejoinder that had crossed his mind was 'Abracadabra'.",
+   "text": "Harry was trying hard to keep control of his temper. The first rejoinder that had crossed his mind was 'Abracadabra'.",
+   "break_before": false
+  },
+  {
+   "n": 2938,
+   "local": 70,
+   "html": "\"Let's try again,\" said Severus. \"Potter, where would you look if I told you to find me a bezoar?\"",
+   "text": "\"Let's try again,\" said Severus. \"Potter, where would you look if I told you to find me a bezoar?\"",
+   "break_before": false
+  },
+  {
+   "n": 2939,
+   "local": 71,
+   "html": "\"That's not in the textbook either,\" Harry said, \"but in one Muggle book I read that a trichinobezoar is a mass of solidified hair found in a human stomach, and Muggles used to believe it would cure any poison -\"",
+   "text": "\"That's not in the textbook either,\" Harry said, \"but in one Muggle book I read that a trichinobezoar is a mass of solidified hair found in a human stomach, and Muggles used to believe it would cure any poison -\"",
+   "break_before": false
+  },
+  {
+   "n": 2940,
+   "local": 72,
+   "html": "\"Wrong,\" Severus said. \"A bezoar is found in the stomach of a goat, it is not made of hair, and it will cure most poisons but not all.\"",
+   "text": "\"Wrong,\" Severus said. \"A bezoar is found in the stomach of a goat, it is not made of hair, and it will cure most poisons but not all.\"",
+   "break_before": false
+  },
+  {
+   "n": 2941,
+   "local": 73,
+   "html": "\"I didn't <em>say</em> it would, I said that was what I read in one Muggle book -\"",
+   "text": "\"I didn't say it would, I said that was what I read in one Muggle book -\"",
+   "break_before": false
+  },
+  {
+   "n": 2942,
+   "local": 74,
+   "html": "\"No one here is interested in your <em>pathetic</em> Muggle books. Final try. What is the difference, Potter, between monksblood and wolfsbane?\"",
+   "text": "\"No one here is interested in your pathetic Muggle books. Final try. What is the difference, Potter, between monksblood and wolfsbane?\"",
+   "break_before": false
+  },
+  {
+   "n": 2943,
+   "local": 75,
+   "html": "That did it.",
+   "text": "That did it.",
+   "break_before": false
+  },
+  {
+   "n": 2944,
+   "local": 76,
+   "html": "\"You know,\" Harry said icily, \"in one of my quite <em>fascinating</em> Muggle books, they describe a study in which people managed to make themselves look very smart by asking questions about random facts that only they knew. Apparently the onlookers only noticed that the askers knew and the answerers didn't, and failed to adjust for the unfairness of the underlying game. So, Professor, can you tell me how many electrons are in the outermost orbital of a carbon atom?\"",
+   "text": "\"You know,\" Harry said icily, \"in one of my quite fascinating Muggle books, they describe a study in which people managed to make themselves look very smart by asking questions about random facts that only they knew. Apparently the onlookers only noticed that the askers knew and the answerers didn't, and failed to adjust for the unfairness of the underlying game. So, Professor, can you tell me how many electrons are in the outermost orbital of a carbon atom?\"",
+   "break_before": false
+  },
+  {
+   "n": 2945,
+   "local": 77,
+   "html": "Severus's smile widened. \"Four,\" he said. \"It is a useless fact which no one should bother writing down, however. And for your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite, as you would know if you had read <em>One Thousand Magical Herbs and Fungi.</em> Thought you didn't need to open the book before coming, eh, Potter? All the rest of you should be copying that down so that you will not be as ignorant as him.\" Severus paused, looking quite pleased with himself. \"And that will be... five points? No, let us make it an even ten points from Ravenclaw for backchat.\"",
+   "text": "Severus's smile widened. \"Four,\" he said. \"It is a useless fact which no one should bother writing down, however. And for your information, Potter, asphodel and wormwood make a sleeping potion so powerful it is known as the Draught of Living Death. As for monkshood and wolfsbane, they are the same plant, which also goes by the name of aconite, as you would know if you had read One Thousand Magical Herbs and Fungi. Thought you didn't need to open the book before coming, eh, Potter? All the rest of you should be copying that down so that you will not be as ignorant as him.\" Severus paused, looking quite pleased with himself. \"And that will be... five points? No, let us make it an even ten points from Ravenclaw for backchat.\"",
+   "break_before": false
+  },
+  {
+   "n": 2946,
+   "local": 78,
+   "html": "Hermione gasped, along with a number of others.",
+   "text": "Hermione gasped, along with a number of others.",
+   "break_before": false
+  },
+  {
+   "n": 2947,
+   "local": 79,
+   "html": "\"Professor Severus Snape,\" Harry bit out. \"I know of nothing which I have done to earn your enmity. If there is some problem you have with me which I do not know about, I suggest we -\"",
+   "text": "\"Professor Severus Snape,\" Harry bit out. \"I know of nothing which I have done to earn your enmity. If there is some problem you have with me which I do not know about, I suggest we -\"",
+   "break_before": false
+  },
+  {
+   "n": 2948,
+   "local": 80,
+   "html": "\"Shut up, Potter. Ten more points from Ravenclaw. The rest of you, open your books to page 3.\"",
+   "text": "\"Shut up, Potter. Ten more points from Ravenclaw. The rest of you, open your books to page 3.\"",
+   "break_before": false
+  },
+  {
+   "n": 2949,
+   "local": 81,
+   "html": "There was only a slight, only a very faint burning sensation in the back of Harry's throat, and no moisture at all in his eyes. If crying was not an effective strategy for destroying this Potions professor then there was no point in crying.",
+   "text": "There was only a slight, only a very faint burning sensation in the back of Harry's throat, and no moisture at all in his eyes. If crying was not an effective strategy for destroying this Potions professor then there was no point in crying.",
+   "break_before": false
+  },
+  {
+   "n": 2950,
+   "local": 82,
+   "html": "Slowly, Harry sat up very straight. All his blood seemed to have been drained away and replaced with liquid nitrogen. He knew he'd been trying to keep his temper but he couldn't seem to remember why.",
+   "text": "Slowly, Harry sat up very straight. All his blood seemed to have been drained away and replaced with liquid nitrogen. He knew he'd been trying to keep his temper but he couldn't seem to remember why.",
+   "break_before": false
+  },
+  {
+   "n": 2951,
+   "local": 83,
+   "html": "\"Harry,\" whispered Hermione frantically from two desks over, \"stop, please, it's all right, we won't count it -\"",
+   "text": "\"Harry,\" whispered Hermione frantically from two desks over, \"stop, please, it's all right, we won't count it -\"",
+   "break_before": false
+  },
+  {
+   "n": 2952,
+   "local": 84,
+   "html": "\"Talking in class, Granger? Three -\"",
+   "text": "\"Talking in class, Granger? Three -\"",
+   "break_before": false
+  },
+  {
+   "n": 2953,
+   "local": 85,
+   "html": "\"So,\" said a voice colder than zero Kelvin, \"how does one go about filing a formal complaint against an abusive professor? Does one talk to the Deputy Headmistress, write a letter to the Board of Governors... would you care to explain how it works?\"",
+   "text": "\"So,\" said a voice colder than zero Kelvin, \"how does one go about filing a formal complaint against an abusive professor? Does one talk to the Deputy Headmistress, write a letter to the Board of Governors... would you care to explain how it works?\"",
+   "break_before": false
+  },
+  {
+   "n": 2954,
+   "local": 86,
+   "html": "The class was utterly frozen.",
+   "text": "The class was utterly frozen.",
+   "break_before": false
+  },
+  {
+   "n": 2955,
+   "local": 87,
+   "html": "\"Detention for one month, Potter,\" Severus said, smiling even more broadly.",
+   "text": "\"Detention for one month, Potter,\" Severus said, smiling even more broadly.",
+   "break_before": false
+  },
+  {
+   "n": 2956,
+   "local": 88,
+   "html": "\"I decline to recognize your authority as a teacher and I will not serve any detention you give.\"",
+   "text": "\"I decline to recognize your authority as a teacher and I will not serve any detention you give.\"",
+   "break_before": false
+  },
+  {
+   "n": 2957,
+   "local": 89,
+   "html": "People stopped breathing.",
+   "text": "People stopped breathing.",
+   "break_before": false
+  },
+  {
+   "n": 2958,
+   "local": 90,
+   "html": "Severus's smile vanished. \"Then you will be -\" his voice stopped short.",
+   "text": "Severus's smile vanished. \"Then you will be -\" his voice stopped short.",
+   "break_before": false
+  },
+  {
+   "n": 2959,
+   "local": 91,
+   "html": "\"Expelled, were you about to say?\" Harry, on the other hand, was now smiling thinly. \"But then you seemed to doubt your ability to carry out the threat, or fear the consequences if you did. I, on the other hand, neither doubt nor fear the prospect of finding a school with less abusive professors. Or perhaps I should hire private tutors, as is my accustomed practice, and be taught at my full learning speed. I have enough money in my vault. Something about bounties on a Dark Lord I defeated. But there <em>are</em> teachers at Hogwarts who I rather like, so I think it will be easier if I find some way to get rid of you instead.\"",
+   "text": "\"Expelled, were you about to say?\" Harry, on the other hand, was now smiling thinly. \"But then you seemed to doubt your ability to carry out the threat, or fear the consequences if you did. I, on the other hand, neither doubt nor fear the prospect of finding a school with less abusive professors. Or perhaps I should hire private tutors, as is my accustomed practice, and be taught at my full learning speed. I have enough money in my vault. Something about bounties on a Dark Lord I defeated. But there are teachers at Hogwarts who I rather like, so I think it will be easier if I find some way to get rid of you instead.\"",
+   "break_before": false
+  },
+  {
+   "n": 2960,
+   "local": 92,
+   "html": "\"Get rid of me?\" Severus said, now also smiling thinly. \"What an amusing conceit. How do you suppose you will do that, Potter?\"",
+   "text": "\"Get rid of me?\" Severus said, now also smiling thinly. \"What an amusing conceit. How do you suppose you will do that, Potter?\"",
+   "break_before": false
+  },
+  {
+   "n": 2961,
+   "local": 93,
+   "html": "\"I understand there have been a number of complaints about you from students and their parents,\" a guess but a safe one, \"which leaves only the question of why you're not already gone. Is Hogwarts too financially strapped to afford a real Potions professor? I could chip in, if so. I'm sure they could find a better class of teacher if they offered double your current salary.\"",
+   "text": "\"I understand there have been a number of complaints about you from students and their parents,\" a guess but a safe one, \"which leaves only the question of why you're not already gone. Is Hogwarts too financially strapped to afford a real Potions professor? I could chip in, if so. I'm sure they could find a better class of teacher if they offered double your current salary.\"",
+   "break_before": false
+  },
+  {
+   "n": 2962,
+   "local": 94,
+   "html": "Two poles of ice radiated freezing winter across the classroom.",
+   "text": "Two poles of ice radiated freezing winter across the classroom.",
+   "break_before": false
+  },
+  {
+   "n": 2963,
+   "local": 95,
+   "html": "\"You will find,\" Severus said softly, \"that the Board of Governers is not the slightest bit sympathetic to your offer.\"",
+   "text": "\"You will find,\" Severus said softly, \"that the Board of Governers is not the slightest bit sympathetic to your offer.\"",
+   "break_before": false
+  },
+  {
+   "n": 2964,
+   "local": 96,
+   "html": "\"Lucius...\" Harry said. \"<em>That's</em> why you're still here. Perhaps I should chat with Lucius about that. I believe he desires to meet with me. I wonder if I have anything he wants?\"",
+   "text": "\"Lucius...\" Harry said. \"That's why you're still here. Perhaps I should chat with Lucius about that. I believe he desires to meet with me. I wonder if I have anything he wants?\"",
+   "break_before": false
+  },
+  {
+   "n": 2965,
+   "local": 97,
+   "html": "Hermione frantically shook her head. Harry noticed out of the corner of his eye, but his attention was all on Severus.",
+   "text": "Hermione frantically shook her head. Harry noticed out of the corner of his eye, but his attention was all on Severus.",
+   "break_before": false
+  },
+  {
+   "n": 2966,
+   "local": 98,
+   "html": "\"You are a very foolish boy,\" Severus said. He wasn't smiling at all, now. \"You have nothing that Lucius values more than my friendship. And if you did, I have other allies.\" His voice grew hard. \"And I find it increasingly unlikely that you were not Sorted into Slytherin. How was it that you managed to stay out of my House? Ah, yes, because the Sorting Hat claimed it was <em>joking</em>. For the first time in recorded history. What were you really <em>chatting</em> about with the Sorting Hat, Potter? Did you have something that it wanted?\"",
+   "text": "\"You are a very foolish boy,\" Severus said. He wasn't smiling at all, now. \"You have nothing that Lucius values more than my friendship. And if you did, I have other allies.\" His voice grew hard. \"And I find it increasingly unlikely that you were not Sorted into Slytherin. How was it that you managed to stay out of my House? Ah, yes, because the Sorting Hat claimed it was joking. For the first time in recorded history. What were you really chatting about with the Sorting Hat, Potter? Did you have something that it wanted?\"",
+   "break_before": false
+  },
+  {
+   "n": 2967,
+   "local": 99,
+   "html": "Harry stared into Severus's cold gaze and remembered that the Sorting Hat had warned him not to meet anyone's eyes while thinking about - Harry dropped his gaze to Severus's desk.",
+   "text": "Harry stared into Severus's cold gaze and remembered that the Sorting Hat had warned him not to meet anyone's eyes while thinking about - Harry dropped his gaze to Severus's desk.",
+   "break_before": false
+  },
+  {
+   "n": 2968,
+   "local": 100,
+   "html": "\"You seem oddly reluctant to look me in the eyes, Potter!\"",
+   "text": "\"You seem oddly reluctant to look me in the eyes, Potter!\"",
+   "break_before": false
+  },
+  {
+   "n": 2969,
+   "local": 101,
+   "html": "A shock of sudden understanding - \"So it was <em>you</em> the Sorting Hat was warning me about!\"",
+   "text": "A shock of sudden understanding - \"So it was you the Sorting Hat was warning me about!\"",
+   "break_before": false
+  },
+  {
+   "n": 2970,
+   "local": 102,
+   "html": "\"What?\" said Severus's voice, sounding genuinely surprised, though of course Harry didn't look at his face.",
+   "text": "\"What?\" said Severus's voice, sounding genuinely surprised, though of course Harry didn't look at his face.",
+   "break_before": false
+  },
+  {
+   "n": 2971,
+   "local": 103,
+   "html": "Harry got up out of his desk.",
+   "text": "Harry got up out of his desk.",
+   "break_before": false
+  },
+  {
+   "n": 2972,
+   "local": 104,
+   "html": "\"Sit down, Potter,\" said an angry voice from somewhere he wasn't looking.",
+   "text": "\"Sit down, Potter,\" said an angry voice from somewhere he wasn't looking.",
+   "break_before": false
+  },
+  {
+   "n": 2973,
+   "local": 105,
+   "html": "Harry ignored it, and looked around the classroom. \"I have no intention of letting one unprofessional teacher ruin my time at Hogwarts,\" Harry said with deadly calm. \"I think I'll take my leave of this class, and either hire a tutor to teach me Potions while I'm here, or if the Board is really that locked up, learn over the summer. If any of you decide that you don't care to be bullied by this man, my sessions will be open to you.\"",
+   "text": "Harry ignored it, and looked around the classroom. \"I have no intention of letting one unprofessional teacher ruin my time at Hogwarts,\" Harry said with deadly calm. \"I think I'll take my leave of this class, and either hire a tutor to teach me Potions while I'm here, or if the Board is really that locked up, learn over the summer. If any of you decide that you don't care to be bullied by this man, my sessions will be open to you.\"",
+   "break_before": false
+  },
+  {
+   "n": 2974,
+   "local": 106,
+   "html": "\"<em>Sit down, Potter!</em> \"",
+   "text": "\"Sit down, Potter! \"",
+   "break_before": false
+  },
+  {
+   "n": 2975,
+   "local": 107,
+   "html": "Harry strode across the room and grasped the doorknob.",
+   "text": "Harry strode across the room and grasped the doorknob.",
+   "break_before": false
+  },
+  {
+   "n": 2976,
+   "local": 108,
+   "html": "It didn't turn.",
+   "text": "It didn't turn.",
+   "break_before": false
+  },
+  {
+   "n": 2977,
+   "local": 109,
+   "html": "Harry slowly turned around, and caught a glimpse of Severus smiling nastily before he remembered to look away.",
+   "text": "Harry slowly turned around, and caught a glimpse of Severus smiling nastily before he remembered to look away.",
+   "break_before": false
+  },
+  {
+   "n": 2978,
+   "local": 110,
+   "html": "\"Open this door.\"",
+   "text": "\"Open this door.\"",
+   "break_before": false
+  },
+  {
+   "n": 2979,
+   "local": 111,
+   "html": "\"No,\" said Severus.",
+   "text": "\"No,\" said Severus.",
+   "break_before": false
+  },
+  {
+   "n": 2980,
+   "local": 112,
+   "html": "\"You are making me feel threatened,\" said a voice so icy it didn't sound like Harry's at all, \"and that is a mistake.\"",
+   "text": "\"You are making me feel threatened,\" said a voice so icy it didn't sound like Harry's at all, \"and that is a mistake.\"",
+   "break_before": false
+  },
+  {
+   "n": 2981,
+   "local": 113,
+   "html": "Severus's voice laughed. \"What do you intend to do about it, little boy?\"",
+   "text": "Severus's voice laughed. \"What do you intend to do about it, little boy?\"",
+   "break_before": false
+  },
+  {
+   "n": 2982,
+   "local": 114,
+   "html": "Harry took six long strides forward away from the door, until he was standing near the back row of desks.",
+   "text": "Harry took six long strides forward away from the door, until he was standing near the back row of desks.",
+   "break_before": false
+  },
+  {
+   "n": 2983,
+   "local": 115,
+   "html": "Then Harry drew himself upright and raised his right hand in one terrible motion, fingers poised to snap.",
+   "text": "Then Harry drew himself upright and raised his right hand in one terrible motion, fingers poised to snap.",
+   "break_before": false
+  },
+  {
+   "n": 2984,
+   "local": 116,
+   "html": "Neville screamed and dived under his desk. Other children shrank back or instinctively raised their arms to shield themselves.",
+   "text": "Neville screamed and dived under his desk. Other children shrank back or instinctively raised their arms to shield themselves.",
+   "break_before": false
+  },
+  {
+   "n": 2985,
+   "local": 117,
+   "html": "\"<em>Harry don't!</em> \" shrieked Hermione. \"Whatever you were going to do to him, don't do it!\"",
+   "text": "\"Harry don't! \" shrieked Hermione. \"Whatever you were going to do to him, don't do it!\"",
+   "break_before": false
+  },
+  {
+   "n": 2986,
+   "local": 118,
+   "html": "\"Have you all gone <em>mad?</em> \" barked Severus's voice.",
+   "text": "\"Have you all gone mad? \" barked Severus's voice.",
+   "break_before": false
+  },
+  {
+   "n": 2987,
+   "local": 119,
+   "html": "Slowly, Harry lowered his hand. \"I wasn't going to hurt him, Hermione,\" Harry said, his voice a little lower. \"I was just going to blow up the door.\"",
+   "text": "Slowly, Harry lowered his hand. \"I wasn't going to hurt him, Hermione,\" Harry said, his voice a little lower. \"I was just going to blow up the door.\"",
+   "break_before": false
+  },
+  {
+   "n": 2988,
+   "local": 120,
+   "html": "Though now that Harry remembered it, you weren't supposed to Transfigure things that were to be burned, which meant that going back in time afterward and getting Fred or George to Transfigure some carefully measured amount of explosives might not actually have been such a good idea...",
+   "text": "Though now that Harry remembered it, you weren't supposed to Transfigure things that were to be burned, which meant that going back in time afterward and getting Fred or George to Transfigure some carefully measured amount of explosives might not actually have been such a good idea...",
+   "break_before": false
+  },
+  {
+   "n": 2989,
+   "local": 121,
+   "html": "\"<em>Silencio,</em>\" said Severus's voice.",
+   "text": "\"Silencio,\" said Severus's voice.",
+   "break_before": false
+  },
+  {
+   "n": 2990,
+   "local": 122,
+   "html": "Harry tried to say \"What?\" and found that no sound was coming out.",
+   "text": "Harry tried to say \"What?\" and found that no sound was coming out.",
+   "break_before": false
+  },
+  {
+   "n": 2991,
+   "local": 123,
+   "html": "\"This has become ridiculous. I think you've been allowed to get yourself in enough trouble for one day, Potter. You are the most disruptive and unruly student I have ever seen, and I don't recall how many points Ravenclaw has right now, but I'm sure I can manage to wipe them all out. Ten points from Ravenclaw. Ten points from Ravenclaw. Ten points from Ravenclaw! Fifty points from Ravenclaw! Now sit down and watch the rest of the class take their lesson!\"",
+   "text": "\"This has become ridiculous. I think you've been allowed to get yourself in enough trouble for one day, Potter. You are the most disruptive and unruly student I have ever seen, and I don't recall how many points Ravenclaw has right now, but I'm sure I can manage to wipe them all out. Ten points from Ravenclaw. Ten points from Ravenclaw. Ten points from Ravenclaw! Fifty points from Ravenclaw! Now sit down and watch the rest of the class take their lesson!\"",
+   "break_before": false
+  },
+  {
+   "n": 2992,
+   "local": 124,
+   "html": "Harry put his hand into his pouch and tried to say 'marker' but of course no words came out. For one brief moment that stopped him; and then it occurred to Harry to spell out M-A-R-K-E-R using finger motions, which worked. P-A-D and he had a pad of paper. Harry strode over to an empty desk, not the one he'd originally sat down in, and scrawled a brief message. He tore off that sheet of paper, put away the marker and pad in a pocket of his robes for quicker access, and held up his message, not to Snape, but to the rest of the class.",
+   "text": "Harry put his hand into his pouch and tried to say 'marker' but of course no words came out. For one brief moment that stopped him; and then it occurred to Harry to spell out M-A-R-K-E-R using finger motions, which worked. P-A-D and he had a pad of paper. Harry strode over to an empty desk, not the one he'd originally sat down in, and scrawled a brief message. He tore off that sheet of paper, put away the marker and pad in a pocket of his robes for quicker access, and held up his message, not to Snape, but to the rest of the class.",
+   "break_before": false
+  },
+  {
+   "n": 2993,
+   "local": 125,
+   "html": "I'M LEAVING<br>DOES ANYONE ELSE<br>NEED TO GET OUT?",
+   "text": "I'M LEAVING\nDOES ANYONE ELSE\nNEED TO GET OUT?",
+   "break_before": false
+  },
+  {
+   "n": 2994,
+   "local": 126,
+   "html": "\"You're insane, Potter,\" Severus said with cold contempt.",
+   "text": "\"You're insane, Potter,\" Severus said with cold contempt.",
+   "break_before": false
+  },
+  {
+   "n": 2995,
+   "local": 127,
+   "html": "Aside from that, no one spoke.",
+   "text": "Aside from that, no one spoke.",
+   "break_before": false
+  },
+  {
+   "n": 2996,
+   "local": 128,
+   "html": "Harry swept an ironic bow to the teacher's desk, walked over to the wall, and with one smooth motion yanked open a closet door, stepped in, and slammed the door shut behind him.",
+   "text": "Harry swept an ironic bow to the teacher's desk, walked over to the wall, and with one smooth motion yanked open a closet door, stepped in, and slammed the door shut behind him.",
+   "break_before": false
+  },
+  {
+   "n": 2997,
+   "local": 129,
+   "html": "There was the muffled sound of someone snapping his fingers, and then nothing.",
+   "text": "There was the muffled sound of someone snapping his fingers, and then nothing.",
+   "break_before": false
+  },
+  {
+   "n": 2998,
+   "local": 130,
+   "html": "In the classroom, students looked at each other in puzzlement and fear.",
+   "text": "In the classroom, students looked at each other in puzzlement and fear.",
+   "break_before": false
+  },
+  {
+   "n": 2999,
+   "local": 131,
+   "html": "The Potions Master's face was now completely enraged. He crossed the room in terrible strides and yanked open the closet door.",
+   "text": "The Potions Master's face was now completely enraged. He crossed the room in terrible strides and yanked open the closet door.",
+   "break_before": false
+  },
+  {
+   "n": 3000,
+   "local": 132,
+   "html": "The closet was empty.",
+   "text": "The closet was empty.",
+   "break_before": false
+  },
+  {
+   "n": 3001,
+   "local": 133,
+   "html": "One hour earlier, Harry listened from inside the closed closet. There was no sound from outside, and no point in taking risks either.",
+   "text": "One hour earlier, Harry listened from inside the closed closet. There was no sound from outside, and no point in taking risks either.",
+   "break_before": true
+  },
+  {
+   "n": 3002,
+   "local": 134,
+   "html": "C-L-O-A-K, his fingers spelled out.",
+   "text": "C-L-O-A-K, his fingers spelled out.",
+   "break_before": false
+  },
+  {
+   "n": 3003,
+   "local": 135,
+   "html": "Once he was invisible, he very carefully and slowly cracked open the closet door and peeked out. No one seemed to be in the classroom.",
+   "text": "Once he was invisible, he very carefully and slowly cracked open the closet door and peeked out. No one seemed to be in the classroom.",
+   "break_before": false
+  },
+  {
+   "n": 3004,
+   "local": 136,
+   "html": "The door wasn't locked.",
+   "text": "The door wasn't locked.",
+   "break_before": false
+  },
+  {
+   "n": 3005,
+   "local": 137,
+   "html": "It was when Harry was outside the dangerous place and inside the hallway, safely invisible, that some of the anger drained away and he realized what he'd just done.",
+   "text": "It was when Harry was outside the dangerous place and inside the hallway, safely invisible, that some of the anger drained away and he realized what he'd just done.",
+   "break_before": false
+  },
+  {
+   "n": 3006,
+   "local": 138,
+   "html": "What he'd just done.",
+   "text": "What he'd just done.",
+   "break_before": false
+  },
+  {
+   "n": 3007,
+   "local": 139,
+   "html": "Harry's invisible face was frozen in absolute horror.",
+   "text": "Harry's invisible face was frozen in absolute horror.",
+   "break_before": false
+  },
+  {
+   "n": 3008,
+   "local": 140,
+   "html": "He'd antagonized a teacher three orders of magnitude beyond anything he'd ever managed before. He'd threatened to walk out of Hogwarts and might have to follow through on it. He'd lost all the points Ravenclaw had and then he'd used the Time-Turner...",
+   "text": "He'd antagonized a teacher three orders of magnitude beyond anything he'd ever managed before. He'd threatened to walk out of Hogwarts and might have to follow through on it. He'd lost all the points Ravenclaw had and then he'd used the Time-Turner...",
+   "break_before": false
+  },
+  {
+   "n": 3009,
+   "local": 141,
+   "html": "His imagination showed him his parents yelling at him after he was expelled, Professor McGonagall disappointed in him, and it was just too painful and he couldn't bear it and he <em>couldn't think of any way to save himself -</em>",
+   "text": "His imagination showed him his parents yelling at him after he was expelled, Professor McGonagall disappointed in him, and it was just too painful and he couldn't bear it and he couldn't think of any way to save himself -",
+   "break_before": false
+  },
+  {
+   "n": 3010,
+   "local": 142,
+   "html": "The thought that Harry allowed himself to think was that if getting angry had gotten him into all this trouble, then maybe when he was angry he'd think of a way out, things seemed clearer somehow when he was angry.",
+   "text": "The thought that Harry allowed himself to think was that if getting angry had gotten him into all this trouble, then maybe when he was angry he'd think of a way out, things seemed clearer somehow when he was angry.",
+   "break_before": false
+  },
+  {
+   "n": 3011,
+   "local": 143,
+   "html": "And the thought that Harry didn't let himself think was that he just couldn't face this future if he wasn't angry.",
+   "text": "And the thought that Harry didn't let himself think was that he just couldn't face this future if he wasn't angry.",
+   "break_before": false
+  },
+  {
+   "n": 3012,
+   "local": 144,
+   "html": "So he cast his thoughts back and remembered the burning humiliation -",
+   "text": "So he cast his thoughts back and remembered the burning humiliation -",
+   "break_before": false
+  },
+  {
+   "n": 3013,
+   "local": 145,
+   "html": "<em>Tut, tut. Fame clearly isn't everything.</em>",
+   "text": "Tut, tut. Fame clearly isn't everything.",
+   "break_before": false
+  },
+  {
+   "n": 3014,
+   "local": 146,
+   "html": "<em>Ten points from Ravenclaw for backchat.</em>",
+   "text": "Ten points from Ravenclaw for backchat.",
+   "break_before": false
+  },
+  {
+   "n": 3015,
+   "local": 147,
+   "html": "The calming cold washed back through his veins like a wave reflected and returning from some breaker, and Harry let out his breath.",
+   "text": "The calming cold washed back through his veins like a wave reflected and returning from some breaker, and Harry let out his breath.",
+   "break_before": false
+  },
+  {
+   "n": 3016,
+   "local": 148,
+   "html": "Okay. Back to being sane now.",
+   "text": "Okay. Back to being sane now.",
+   "break_before": false
+  },
+  {
+   "n": 3017,
+   "local": 149,
+   "html": "He was actually feeling a bit disappointed in his non-angry self for collapsing like that and wanting only to get out of trouble. Professor Severus Snape was <em>everyone's</em> problem. Normal-Harry had forgotten that and wished for a way to protect <em>himself.</em> And let all the other victims go hang? The question wasn't how to protect himself, the question was how to destroy this Potions professor.",
+   "text": "He was actually feeling a bit disappointed in his non-angry self for collapsing like that and wanting only to get out of trouble. Professor Severus Snape was everyone's problem. Normal-Harry had forgotten that and wished for a way to protect himself. And let all the other victims go hang? The question wasn't how to protect himself, the question was how to destroy this Potions professor.",
+   "break_before": false
+  },
+  {
+   "n": 3018,
+   "local": 150,
+   "html": "<em>So this is my dark side, is it?</em> <em>Bit of a prejudiced term that, my light side seems more selfish and cowardly, not to mention confused and panicky.</em>",
+   "text": "So this is my dark side, is it? Bit of a prejudiced term that, my light side seems more selfish and cowardly, not to mention confused and panicky.",
+   "break_before": false
+  },
+  {
+   "n": 3019,
+   "local": 151,
+   "html": "And now that he was thinking clearly, it was equally clear what to do next. He'd already given himself an extra hour to prepare, and could get up to five hours more if required...",
+   "text": "And now that he was thinking clearly, it was equally clear what to do next. He'd already given himself an extra hour to prepare, and could get up to five hours more if required...",
+   "break_before": false
+  },
+  {
+   "n": 3020,
+   "local": 152,
+   "html": "Minerva McGonagall waited in the Headmaster's office.",
+   "text": "Minerva McGonagall waited in the Headmaster's office.",
+   "break_before": true
+  },
+  {
+   "n": 3021,
+   "local": 153,
+   "html": "Dumbledore sat in his padded throne behind his desk, dressed in four layers of formal lavender robes. Minerva sat in a chair before him, opposite Severus in another chair. Facing the three of them was an empty wooden stool.",
+   "text": "Dumbledore sat in his padded throne behind his desk, dressed in four layers of formal lavender robes. Minerva sat in a chair before him, opposite Severus in another chair. Facing the three of them was an empty wooden stool.",
+   "break_before": false
+  },
+  {
+   "n": 3022,
+   "local": 154,
+   "html": "They were waiting for Harry Potter.",
+   "text": "They were waiting for Harry Potter.",
+   "break_before": false
+  },
+  {
+   "n": 3023,
+   "local": 155,
+   "html": "<em>Harry,</em> Minerva thought despairingly, <em>you promised you wouldn't bite any teachers!</em>",
+   "text": "Harry, Minerva thought despairingly, you promised you wouldn't bite any teachers!",
+   "break_before": false
+  },
+  {
+   "n": 3024,
+   "local": 156,
+   "html": "And in her mind she could see very clearly the reply, Harry's angry face and his outraged response: <em>I said I wouldn't bite anyone who didn't bite me first!</em>",
+   "text": "And in her mind she could see very clearly the reply, Harry's angry face and his outraged response: I said I wouldn't bite anyone who didn't bite me first!",
+   "break_before": false
+  },
+  {
+   "n": 3025,
+   "local": 157,
+   "html": "There was a knock at the door.",
+   "text": "There was a knock at the door.",
+   "break_before": false
+  },
+  {
+   "n": 3026,
+   "local": 158,
+   "html": "\"Come in!\" Dumbledore called.",
+   "text": "\"Come in!\" Dumbledore called.",
+   "break_before": false
+  },
+  {
+   "n": 3027,
+   "local": 159,
+   "html": "The door swept open, and Harry Potter entered. Minerva almost gasped out loud. The boy looked cool, collected, and utterly in control of himself.",
+   "text": "The door swept open, and Harry Potter entered. Minerva almost gasped out loud. The boy looked cool, collected, and utterly in control of himself.",
+   "break_before": false
+  },
+  {
+   "n": 3028,
+   "local": 160,
+   "html": "\"Good mor-\" Harry's voice suddenly cut off. His jaw dropped.",
+   "text": "\"Good mor-\" Harry's voice suddenly cut off. His jaw dropped.",
+   "break_before": false
+  },
+  {
+   "n": 3029,
+   "local": 161,
+   "html": "Minerva tracked Harry's gaze, and she saw that Harry was staring at Fawkes where the phoenix sat on its golden perch. Fawkes fluttered his bright red-golden wings like the flickering of a flame, and dipped his head in a measured nod to the boy.",
+   "text": "Minerva tracked Harry's gaze, and she saw that Harry was staring at Fawkes where the phoenix sat on its golden perch. Fawkes fluttered his bright red-golden wings like the flickering of a flame, and dipped his head in a measured nod to the boy.",
+   "break_before": false
+  },
+  {
+   "n": 3030,
+   "local": 162,
+   "html": "Harry turned to stare at Dumbledore.",
+   "text": "Harry turned to stare at Dumbledore.",
+   "break_before": false
+  },
+  {
+   "n": 3031,
+   "local": 163,
+   "html": "Dumbledore winked at him.",
+   "text": "Dumbledore winked at him.",
+   "break_before": false
+  },
+  {
+   "n": 3032,
+   "local": 164,
+   "html": "Minerva felt she was missing something.",
+   "text": "Minerva felt she was missing something.",
+   "break_before": false
+  },
+  {
+   "n": 3033,
+   "local": 165,
+   "html": "Sudden uncertainty crossed Harry's face. His coolness wavered. Fear showed in his eyes, then anger, and then the boy was calm again.",
+   "text": "Sudden uncertainty crossed Harry's face. His coolness wavered. Fear showed in his eyes, then anger, and then the boy was calm again.",
+   "break_before": false
+  },
+  {
+   "n": 3034,
+   "local": 166,
+   "html": "A chill went down Minerva's spine. Something was not right here.",
+   "text": "A chill went down Minerva's spine. Something was not right here.",
+   "break_before": false
+  },
+  {
+   "n": 3035,
+   "local": 167,
+   "html": "\"Please sit down,\" said Dumbledore. His face was now serious once more.",
+   "text": "\"Please sit down,\" said Dumbledore. His face was now serious once more.",
+   "break_before": false
+  },
+  {
+   "n": 3036,
+   "local": 168,
+   "html": "Harry sat.",
+   "text": "Harry sat.",
+   "break_before": false
+  },
+  {
+   "n": 3037,
+   "local": 169,
+   "html": "\"So, Harry,\" said Dumbledore. \"I've heard one report of this day from Professor Snape. Would you care to tell me what happened in your own words?\"",
+   "text": "\"So, Harry,\" said Dumbledore. \"I've heard one report of this day from Professor Snape. Would you care to tell me what happened in your own words?\"",
+   "break_before": false
+  },
+  {
+   "n": 3038,
+   "local": 170,
+   "html": "Harry's gaze flicked dismissively to Severus. \"It's not complicated,\" said the boy, smiling thinly. \"He tried bullying me the way he's been bullying every non- Slytherin in the school since the day Lucius foisted him off on you. As for the other details, I request a private conversation with you concerning them. A student who is reporting abusive behavior from a professor can hardly be expected to speak frankly in front of that same professor, after all.\"",
+   "text": "Harry's gaze flicked dismissively to Severus. \"It's not complicated,\" said the boy, smiling thinly. \"He tried bullying me the way he's been bullying every non- Slytherin in the school since the day Lucius foisted him off on you. As for the other details, I request a private conversation with you concerning them. A student who is reporting abusive behavior from a professor can hardly be expected to speak frankly in front of that same professor, after all.\"",
+   "break_before": false
+  },
+  {
+   "n": 3039,
+   "local": 171,
+   "html": "This time Minerva couldn't stop herself from gasping out loud.",
+   "text": "This time Minerva couldn't stop herself from gasping out loud.",
+   "break_before": false
+  },
+  {
+   "n": 3040,
+   "local": 172,
+   "html": "Severus simply laughed.",
+   "text": "Severus simply laughed.",
+   "break_before": false
+  },
+  {
+   "n": 3041,
+   "local": 173,
+   "html": "And the Headmaster's face grew grave. \"Mr. Potter,\" the Headmaster said, \"one does not speak of a Hogwarts professor in such terms. I fear that you labor under a terrible misapprehension. Professor Severus Snape has my fullest confidence, and serves Hogwarts at my own behest, not Lucius Malfoy's.\"",
+   "text": "And the Headmaster's face grew grave. \"Mr. Potter,\" the Headmaster said, \"one does not speak of a Hogwarts professor in such terms. I fear that you labor under a terrible misapprehension. Professor Severus Snape has my fullest confidence, and serves Hogwarts at my own behest, not Lucius Malfoy's.\"",
+   "break_before": false
+  },
+  {
+   "n": 3042,
+   "local": 174,
+   "html": "There was silence for a few moments.",
+   "text": "There was silence for a few moments.",
+   "break_before": false
+  },
+  {
+   "n": 3043,
+   "local": 175,
+   "html": "When the boy spoke again his voice was icy. \"Am I missing something here?\"",
+   "text": "When the boy spoke again his voice was icy. \"Am I missing something here?\"",
+   "break_before": false
+  },
+  {
+   "n": 3044,
+   "local": 176,
+   "html": "\"Quite a number of things, Mr. Potter,\" said the Headmaster. \"You should understand, to start with, that the purpose of this meeting is to discuss how to discipline you for the events of this morning.\"",
+   "text": "\"Quite a number of things, Mr. Potter,\" said the Headmaster. \"You should understand, to start with, that the purpose of this meeting is to discuss how to discipline you for the events of this morning.\"",
+   "break_before": false
+  },
+  {
+   "n": 3045,
+   "local": 177,
+   "html": "\"This man has terrorized your school for years. I spoke to students and collected stories to make sure there would be enough for a newspaper campaign to rally the parents against him. Some of the younger students cried while they told me. I almost cried when I heard them! <em>You allowed this abuser to run free? You did this to your students? Why?</em> \"",
+   "text": "\"This man has terrorized your school for years. I spoke to students and collected stories to make sure there would be enough for a newspaper campaign to rally the parents against him. Some of the younger students cried while they told me. I almost cried when I heard them! You allowed this abuser to run free? You did this to your students? Why? \"",
+   "break_before": false
+  },
+  {
+   "n": 3046,
+   "local": 178,
+   "html": "Minerva swallowed a lump in her throat. She'd - thought that, sometimes, but somehow she'd never quite -",
+   "text": "Minerva swallowed a lump in her throat. She'd - thought that, sometimes, but somehow she'd never quite -",
+   "break_before": false
+  },
+  {
+   "n": 3047,
+   "local": 179,
+   "html": "\"Mr. Potter,\" said the Headmaster, his voice now stern, \"this meeting is not about Professor Snape. It is about you and your disregard for school discipline. Professor Snape has suggested, and I have agreed, that three full months of detention will be appropriate -\"",
+   "text": "\"Mr. Potter,\" said the Headmaster, his voice now stern, \"this meeting is not about Professor Snape. It is about you and your disregard for school discipline. Professor Snape has suggested, and I have agreed, that three full months of detention will be appropriate -\"",
+   "break_before": false
+  },
+  {
+   "n": 3048,
+   "local": 180,
+   "html": "\"Declined,\" Harry said icily.",
+   "text": "\"Declined,\" Harry said icily.",
+   "break_before": false
+  },
+  {
+   "n": 3049,
+   "local": 181,
+   "html": "Minerva was speechless.",
+   "text": "Minerva was speechless.",
+   "break_before": false
+  },
+  {
+   "n": 3050,
+   "local": 182,
+   "html": "\"This is not a request, Mr. Potter,\" the Headmaster said. The full, entire force of the wizard's gaze was turned on the boy. \"This is your punishme-\"",
+   "text": "\"This is not a request, Mr. Potter,\" the Headmaster said. The full, entire force of the wizard's gaze was turned on the boy. \"This is your punishme-\"",
+   "break_before": false
+  },
+  {
+   "n": 3051,
+   "local": 183,
+   "html": "\"You will explain to me why you allowed this man to hurt the children placed in your care, and if your explanation is not sufficient then I will begin my newspaper campaign with <em>you</em> as the target.\"",
+   "text": "\"You will explain to me why you allowed this man to hurt the children placed in your care, and if your explanation is not sufficient then I will begin my newspaper campaign with you as the target.\"",
+   "break_before": false
+  },
+  {
+   "n": 3052,
+   "local": 184,
+   "html": "Minerva's body swayed with the force of that blow, with the sheer raw <em>lese majeste</em>.",
+   "text": "Minerva's body swayed with the force of that blow, with the sheer raw lese majeste.",
+   "break_before": false
+  },
+  {
+   "n": 3053,
+   "local": 185,
+   "html": "Even Severus looked shocked.",
+   "text": "Even Severus looked shocked.",
+   "break_before": false
+  },
+  {
+   "n": 3054,
+   "local": 186,
+   "html": "\"That, Harry, would be most extremely unwise,\" Dumbledore said slowly. \"I am the primary piece opposing Lucius on the gameboard. For you to do such a thing would strengthen him greatly, and I did not think that was your chosen side.\"",
+   "text": "\"That, Harry, would be most extremely unwise,\" Dumbledore said slowly. \"I am the primary piece opposing Lucius on the gameboard. For you to do such a thing would strengthen him greatly, and I did not think that was your chosen side.\"",
+   "break_before": false
+  },
+  {
+   "n": 3055,
+   "local": 187,
+   "html": "The boy was still for a long moment.",
+   "text": "The boy was still for a long moment.",
+   "break_before": false
+  },
+  {
+   "n": 3056,
+   "local": 188,
+   "html": "\"This conversation grows private,\" Harry said. His hand flicked in Severus's direction. \"Send him away.\"",
+   "text": "\"This conversation grows private,\" Harry said. His hand flicked in Severus's direction. \"Send him away.\"",
+   "break_before": false
+  },
+  {
+   "n": 3057,
+   "local": 189,
+   "html": "Dumbledore shook his head. \"Harry, did I not tell you that Severus Snape has my fullest confidence?\"",
+   "text": "Dumbledore shook his head. \"Harry, did I not tell you that Severus Snape has my fullest confidence?\"",
+   "break_before": false
+  },
+  {
+   "n": 3058,
+   "local": 190,
+   "html": "The boy's face showed the shock of it. \"This man's bullying makes you vulnerable! I am not the only one who could start a newspaper campaign against you! This is insane! Why are you doing this?\"",
+   "text": "The boy's face showed the shock of it. \"This man's bullying makes you vulnerable! I am not the only one who could start a newspaper campaign against you! This is insane! Why are you doing this?\"",
+   "break_before": false
+  },
+  {
+   "n": 3059,
+   "local": 191,
+   "html": "Dumbledore sighed. \"I'm sorry, Harry. It has to do with things that you are not, at this time, ready to hear.\"",
+   "text": "Dumbledore sighed. \"I'm sorry, Harry. It has to do with things that you are not, at this time, ready to hear.\"",
+   "break_before": false
+  },
+  {
+   "n": 3060,
+   "local": 192,
+   "html": "The boy stared at Dumbledore. Then he turned to look at Severus. Then back to Dumbledore again.",
+   "text": "The boy stared at Dumbledore. Then he turned to look at Severus. Then back to Dumbledore again.",
+   "break_before": false
+  },
+  {
+   "n": 3061,
+   "local": 193,
+   "html": "\"It <em>is</em> insanity,\" the boy said slowly. \"You haven't reined him in because you think he's <em>part of the pattern</em>. That Hogwarts needs an evil Potions Master to be a proper magical school, just as it needs a ghost to teach History.\"",
+   "text": "\"It is insanity,\" the boy said slowly. \"You haven't reined him in because you think he's part of the pattern. That Hogwarts needs an evil Potions Master to be a proper magical school, just as it needs a ghost to teach History.\"",
+   "break_before": false
+  },
+  {
+   "n": 3062,
+   "local": 194,
+   "html": "\"That does sound like the sort of thing I would do, doesn't it?\" said Dumbledore, smiling.",
+   "text": "\"That does sound like the sort of thing I would do, doesn't it?\" said Dumbledore, smiling.",
+   "break_before": false
+  },
+  {
+   "n": 3063,
+   "local": 195,
+   "html": "\"Unacceptable,\" Harry said flatly. His gaze was now cold and dark. \"I will not tolerate bullying or abuse. I had considered many possible ways of dealing with this problem, but I will make it simple. Either this man goes, or I do.\"",
+   "text": "\"Unacceptable,\" Harry said flatly. His gaze was now cold and dark. \"I will not tolerate bullying or abuse. I had considered many possible ways of dealing with this problem, but I will make it simple. Either this man goes, or I do.\"",
+   "break_before": false
+  },
+  {
+   "n": 3064,
+   "local": 196,
+   "html": "Minerva gasped again. Something strange flickered in Severus's eyes.",
+   "text": "Minerva gasped again. Something strange flickered in Severus's eyes.",
+   "break_before": false
+  },
+  {
+   "n": 3065,
+   "local": 197,
+   "html": "Now Dumbledore's gaze was also growing cold. \"Expulsion, Mr. Potter, is the final threat which may be used against a student. It is not customarily used as a threat by students against the Headmaster. This is the best magical school in the entire world, and an education here is not an opportunity given to everyone. Are you under the impression that Hogwarts cannot get along without you?\"",
+   "text": "Now Dumbledore's gaze was also growing cold. \"Expulsion, Mr. Potter, is the final threat which may be used against a student. It is not customarily used as a threat by students against the Headmaster. This is the best magical school in the entire world, and an education here is not an opportunity given to everyone. Are you under the impression that Hogwarts cannot get along without you?\"",
+   "break_before": false
+  },
+  {
+   "n": 3066,
+   "local": 198,
+   "html": "And Harry sat there, smiling thinly.",
+   "text": "And Harry sat there, smiling thinly.",
+   "break_before": false
+  },
+  {
+   "n": 3067,
+   "local": 199,
+   "html": "Sudden horror dawned on Minerva. Surely Harry wouldn't -",
+   "text": "Sudden horror dawned on Minerva. Surely Harry wouldn't -",
+   "break_before": false
+  },
+  {
+   "n": 3068,
+   "local": 200,
+   "html": "\"You forget,\" Harry said, \"that you're not the only one who can see patterns. <em>This grows private. Now send him</em> -\" Harry flicked a hand at Severus again, and then stopped in mid-sentence and mid-gesture.",
+   "text": "\"You forget,\" Harry said, \"that you're not the only one who can see patterns. This grows private. Now send him -\" Harry flicked a hand at Severus again, and then stopped in mid-sentence and mid-gesture.",
+   "break_before": false
+  },
+  {
+   "n": 3069,
+   "local": 201,
+   "html": "Minerva could see it on Harry's face, the moment when he remembered.",
+   "text": "Minerva could see it on Harry's face, the moment when he remembered.",
+   "break_before": false
+  },
+  {
+   "n": 3070,
+   "local": 202,
+   "html": "She'd told him, after all.",
+   "text": "She'd told him, after all.",
+   "break_before": false
+  },
+  {
+   "n": 3071,
+   "local": 203,
+   "html": "\"Mr. Potter,\" said the Headmaster, \"once again, Severus Snape has my fullest confidence.\"",
+   "text": "\"Mr. Potter,\" said the Headmaster, \"once again, Severus Snape has my fullest confidence.\"",
+   "break_before": false
+  },
+  {
+   "n": 3072,
+   "local": 204,
+   "html": "\"You told him,\" whispered the boy. \"You utter fool.\"",
+   "text": "\"You told him,\" whispered the boy. \"You utter fool.\"",
+   "break_before": false
+  },
+  {
+   "n": 3073,
+   "local": 205,
+   "html": "Dumbledore didn't react to the insult. \"Told him what?\"",
+   "text": "Dumbledore didn't react to the insult. \"Told him what?\"",
+   "break_before": false
+  },
+  {
+   "n": 3074,
+   "local": 206,
+   "html": "\"That the Dark Lord is alive.\"",
+   "text": "\"That the Dark Lord is alive.\"",
+   "break_before": false
+  },
+  {
+   "n": 3075,
+   "local": 207,
+   "html": "\"<em>What in Merlin's name are you on about, Potter?</em> \" cried Severus in tones of sheer astonishment and outrage.",
+   "text": "\"What in Merlin's name are you on about, Potter? \" cried Severus in tones of sheer astonishment and outrage.",
+   "break_before": false
+  },
+  {
+   "n": 3076,
+   "local": 208,
+   "html": "Harry glanced briefly at him, smiling grimly. \"Oh, so we <em>are</em> a Slytherin, then,\" Harry said. \"I was starting to wonder.\"",
+   "text": "Harry glanced briefly at him, smiling grimly. \"Oh, so we are a Slytherin, then,\" Harry said. \"I was starting to wonder.\"",
+   "break_before": false
+  },
+  {
+   "n": 3077,
+   "local": 209,
+   "html": "And then there was silence.",
+   "text": "And then there was silence.",
+   "break_before": false
+  },
+  {
+   "n": 3078,
+   "local": 210,
+   "html": "Finally Dumbledore spoke. His voice was mild. \"Harry, what <em>are</em> you talking about?\"",
+   "text": "Finally Dumbledore spoke. His voice was mild. \"Harry, what are you talking about?\"",
+   "break_before": false
+  },
+  {
+   "n": 3079,
+   "local": 211,
+   "html": "\"I'm sorry, Albus,\" Minerva whispered.",
+   "text": "\"I'm sorry, Albus,\" Minerva whispered.",
+   "break_before": false
+  },
+  {
+   "n": 3080,
+   "local": 212,
+   "html": "Severus and Dumbledore turned to look at her.",
+   "text": "Severus and Dumbledore turned to look at her.",
+   "break_before": false
+  },
+  {
+   "n": 3081,
+   "local": 213,
+   "html": "\"Professor McGonagall didn't tell me,\" said Harry's voice, swiftly and less calm than it had been. \"I guessed. I told you, I can see the patterns too. I guessed, and she controlled her reaction just as Severus did. But her control fell a shade short of perfection, and I could tell it was control, not genuine.\"",
+   "text": "\"Professor McGonagall didn't tell me,\" said Harry's voice, swiftly and less calm than it had been. \"I guessed. I told you, I can see the patterns too. I guessed, and she controlled her reaction just as Severus did. But her control fell a shade short of perfection, and I could tell it was control, not genuine.\"",
+   "break_before": false
+  },
+  {
+   "n": 3082,
+   "local": 214,
+   "html": "\"And I told him,\" said Minerva, her voice trembling a little, \"that you, and I, and Severus were the only ones who knew.\"",
+   "text": "\"And I told him,\" said Minerva, her voice trembling a little, \"that you, and I, and Severus were the only ones who knew.\"",
+   "break_before": false
+  },
+  {
+   "n": 3083,
+   "local": 215,
+   "html": "\"Which she did as a concession to prevent me from simply going around asking questions, as I threatened to do if she didn't talk,\" Harry said. The boy chuckled briefly. \"I really should have gotten one of you alone and told you that she told me everything, to see if you let anything slip. Probably wouldn't have worked, but would have been worth a shot.\" The boy smiled again. \"Threat's still on the table and I do expect to be briefed <em>fully</em> at some point.\"",
+   "text": "\"Which she did as a concession to prevent me from simply going around asking questions, as I threatened to do if she didn't talk,\" Harry said. The boy chuckled briefly. \"I really should have gotten one of you alone and told you that she told me everything, to see if you let anything slip. Probably wouldn't have worked, but would have been worth a shot.\" The boy smiled again. \"Threat's still on the table and I do expect to be briefed fully at some point.\"",
+   "break_before": false
+  },
+  {
+   "n": 3084,
+   "local": 216,
+   "html": "Severus was giving her a look of utter contempt. Minerva raised her chin and bore it. She knew it was deserved.",
+   "text": "Severus was giving her a look of utter contempt. Minerva raised her chin and bore it. She knew it was deserved.",
+   "break_before": false
+  },
+  {
+   "n": 3085,
+   "local": 217,
+   "html": "Dumbledore leaned back in his padded throne. His eyes were as cold as anything Minerva had seen from him since the day his brother died. \"And you threaten to abandon us to Voldemort if we do not comply with your wishes.\"",
+   "text": "Dumbledore leaned back in his padded throne. His eyes were as cold as anything Minerva had seen from him since the day his brother died. \"And you threaten to abandon us to Voldemort if we do not comply with your wishes.\"",
+   "break_before": false
+  },
+  {
+   "n": 3086,
+   "local": 218,
+   "html": "Harry's voice was razor-sharp. \"I regret to inform you that you are not the center of the universe. I'm not threatening to walk out on magical Britain. I'm threatening to walk out on <em>you</em>. I am not a meek little Frodo. This is <em>my</em> quest and if you want in you will play by <em>my</em> rules.\"",
+   "text": "Harry's voice was razor-sharp. \"I regret to inform you that you are not the center of the universe. I'm not threatening to walk out on magical Britain. I'm threatening to walk out on you. I am not a meek little Frodo. This is my quest and if you want in you will play by my rules.\"",
+   "break_before": false
+  },
+  {
+   "n": 3087,
+   "local": 219,
+   "html": "Dumbledore's face was still cold. \"I am beginning to doubt your suitability as the hero, Mr. Potter.\"",
+   "text": "Dumbledore's face was still cold. \"I am beginning to doubt your suitability as the hero, Mr. Potter.\"",
+   "break_before": false
+  },
+  {
+   "n": 3088,
+   "local": 220,
+   "html": "Harry's return gaze was equally icy. \"I am beginning to doubt your suitability as my Gandalf, <em>Mr. Dumbledore</em>. Boromir was at least a plausible mistake. What is this <em>Nazgul</em> doing in my Fellowship?\"",
+   "text": "Harry's return gaze was equally icy. \"I am beginning to doubt your suitability as my Gandalf, Mr. Dumbledore. Boromir was at least a plausible mistake. What is this Nazgul doing in my Fellowship?\"",
+   "break_before": false
+  },
+  {
+   "n": 3089,
+   "local": 221,
+   "html": "Minerva was completely lost. She looked at Severus, to see if he was following this, and she saw that Severus had turned his face away from Harry's field of vision and was smiling.",
+   "text": "Minerva was completely lost. She looked at Severus, to see if he was following this, and she saw that Severus had turned his face away from Harry's field of vision and was smiling.",
+   "break_before": false
+  },
+  {
+   "n": 3090,
+   "local": 222,
+   "html": "\"I suppose,\" Dumbledore said slowly, \"that from your perspective it is a reasonable question. So, Mr. Potter, if Professor Snape is to leave you alone henceforth, will that be the last time this issue arises, or will I find you here every week with a new demand?\"",
+   "text": "\"I suppose,\" Dumbledore said slowly, \"that from your perspective it is a reasonable question. So, Mr. Potter, if Professor Snape is to leave you alone henceforth, will that be the last time this issue arises, or will I find you here every week with a new demand?\"",
+   "break_before": false
+  },
+  {
+   "n": 3091,
+   "local": 223,
+   "html": "\"Leave <em>me</em> alone?\" Harry's voice was outraged. \"I am not his only victim and certainly not the most vulnerable! <em>Have you forgotten how defenseless children are? How much they hurt?</em> Henceforth Severus will treat <em>every</em> student of Hogwarts with appropriate and professional courtesy, or you will find another Potions Master, or you will find another hero!\"",
+   "text": "\"Leave me alone?\" Harry's voice was outraged. \"I am not his only victim and certainly not the most vulnerable! Have you forgotten how defenseless children are? How much they hurt? Henceforth Severus will treat every student of Hogwarts with appropriate and professional courtesy, or you will find another Potions Master, or you will find another hero!\"",
+   "break_before": false
+  },
+  {
+   "n": 3092,
+   "local": 224,
+   "html": "Dumbledore started laughing. Full-throated, warm, humorous laughter, as if Harry had just performed a comic dance in front of him.",
+   "text": "Dumbledore started laughing. Full-throated, warm, humorous laughter, as if Harry had just performed a comic dance in front of him.",
+   "break_before": false
+  },
+  {
+   "n": 3093,
+   "local": 225,
+   "html": "Minerva didn't dare move. Her eyes flickered and she saw that Severus was equally motionless.",
+   "text": "Minerva didn't dare move. Her eyes flickered and she saw that Severus was equally motionless.",
+   "break_before": false
+  },
+  {
+   "n": 3094,
+   "local": 226,
+   "html": "Harry's visage grew even colder. \"You mistake me, Headmaster, if you think that this is a joke. This is not a request. This is your punishment.\"",
+   "text": "Harry's visage grew even colder. \"You mistake me, Headmaster, if you think that this is a joke. This is not a request. This is your punishment.\"",
+   "break_before": false
+  },
+  {
+   "n": 3095,
+   "local": 227,
+   "html": "\"Mr. Potter -\" Minerva said. She didn't even know what she was going to say. She simply couldn't let that go by.",
+   "text": "\"Mr. Potter -\" Minerva said. She didn't even know what she was going to say. She simply couldn't let that go by.",
+   "break_before": false
+  },
+  {
+   "n": 3096,
+   "local": 228,
+   "html": "Harry made a shushing gesture at her and continued to speak to Dumbledore. \"And if that seems impolite to you,\" Harry said, his voice now a little less hard, \"it seemed no less impolite when you said it to me. You would not say such a thing to anyone who you considered a real human being instead of a subordinate child, and I will treat you with just the same courtesy as you treat me -\"",
+   "text": "Harry made a shushing gesture at her and continued to speak to Dumbledore. \"And if that seems impolite to you,\" Harry said, his voice now a little less hard, \"it seemed no less impolite when you said it to me. You would not say such a thing to anyone who you considered a real human being instead of a subordinate child, and I will treat you with just the same courtesy as you treat me -\"",
+   "break_before": false
+  },
+  {
+   "n": 3097,
+   "local": 229,
+   "html": "\"Oh, indeed, in very deed, this is my punishment if ever there was one! Of <em>course</em> you're in here blackmailing me to save your fellow students, not to save yourself! I can't imagine why I would have thought otherwise!\" Dumbledore was now laughing even harder. He pounded his fist on the desk three times.",
+   "text": "\"Oh, indeed, in very deed, this is my punishment if ever there was one! Of course you're in here blackmailing me to save your fellow students, not to save yourself! I can't imagine why I would have thought otherwise!\" Dumbledore was now laughing even harder. He pounded his fist on the desk three times.",
+   "break_before": false
+  },
+  {
+   "n": 3098,
+   "local": 230,
+   "html": "Harry's gaze grew uncertain. His face turned toward her, addressing her for the first time. \"Excuse me,\" Harry said. His voice seemed to be wavering. \"Does he need to take his medication or something?\"",
+   "text": "Harry's gaze grew uncertain. His face turned toward her, addressing her for the first time. \"Excuse me,\" Harry said. His voice seemed to be wavering. \"Does he need to take his medication or something?\"",
+   "break_before": false
+  },
+  {
+   "n": 3099,
+   "local": 231,
+   "html": "\"Ah...\" Minerva had no idea what she could possibly say.",
+   "text": "\"Ah...\" Minerva had no idea what she could possibly say.",
+   "break_before": false
+  },
+  {
+   "n": 3100,
+   "local": 232,
+   "html": "\"Well,\" said Dumbledore. He wiped away tears that had formed in his eyes. \"Pardon me. I'm sorry for the interruption. Please continue with the blackmail.\"",
+   "text": "\"Well,\" said Dumbledore. He wiped away tears that had formed in his eyes. \"Pardon me. I'm sorry for the interruption. Please continue with the blackmail.\"",
+   "break_before": false
+  },
+  {
+   "n": 3101,
+   "local": 233,
+   "html": "Harry opened his mouth, then closed it again. He now seemed a little unsteady. \"Ah... he's also to stop reading students' minds.\"",
+   "text": "Harry opened his mouth, then closed it again. He now seemed a little unsteady. \"Ah... he's also to stop reading students' minds.\"",
+   "break_before": false
+  },
+  {
+   "n": 3102,
+   "local": 234,
+   "html": "\"Minerva,\" Severus said, his voice deadly, \"you -\"",
+   "text": "\"Minerva,\" Severus said, his voice deadly, \"you -\"",
+   "break_before": false
+  },
+  {
+   "n": 3103,
+   "local": 235,
+   "html": "\"Sorting Hat warned me,\" said Harry.",
+   "text": "\"Sorting Hat warned me,\" said Harry.",
+   "break_before": false
+  },
+  {
+   "n": 3104,
+   "local": 236,
+   "html": "\"<em>What?</em> \"",
+   "text": "\"What? \"",
+   "break_before": false
+  },
+  {
+   "n": 3105,
+   "local": 237,
+   "html": "\"Can't say anything else. Anyway I think that's it. I'm done.\"",
+   "text": "\"Can't say anything else. Anyway I think that's it. I'm done.\"",
+   "break_before": false
+  },
+  {
+   "n": 3106,
+   "local": 238,
+   "html": "Silence.",
+   "text": "Silence.",
+   "break_before": false
+  },
+  {
+   "n": 3107,
+   "local": 239,
+   "html": "\"Now what?\" Minerva said, when it became apparent that no one else was going to say anything.",
+   "text": "\"Now what?\" Minerva said, when it became apparent that no one else was going to say anything.",
+   "break_before": false
+  },
+  {
+   "n": 3108,
+   "local": 240,
+   "html": "\"Now what?\" Dumbledore echoed. \"Why, now the hero wins, of course.\"",
+   "text": "\"Now what?\" Dumbledore echoed. \"Why, now the hero wins, of course.\"",
+   "break_before": false
+  },
+  {
+   "n": 3109,
+   "local": 241,
+   "html": "\"<em>What?</em> \" said Severus, Minerva, and Harry.",
+   "text": "\"What? \" said Severus, Minerva, and Harry.",
+   "break_before": false
+  },
+  {
+   "n": 3110,
+   "local": 242,
+   "html": "\"Well, he certainly seems to have backed us into a corner,\" Dumbledore said, smiling happily. \"But Hogwarts <em>does</em> need an evil Potions Master, or it just wouldn't be a proper magical school, now would it? So how about if Professor Snape is only awful toward students in their fifth year and higher?\"",
+   "text": "\"Well, he certainly seems to have backed us into a corner,\" Dumbledore said, smiling happily. \"But Hogwarts does need an evil Potions Master, or it just wouldn't be a proper magical school, now would it? So how about if Professor Snape is only awful toward students in their fifth year and higher?\"",
+   "break_before": false
+  },
+  {
+   "n": 3111,
+   "local": 243,
+   "html": "\"<em>What?</em> \" said all three of them again.",
+   "text": "\"What? \" said all three of them again.",
+   "break_before": false
+  },
+  {
+   "n": 3112,
+   "local": 244,
+   "html": "\"If it's the most vulnerable victims about whom you're concerned. Maybe you're right, Harry. Maybe I <em>have</em> forgotten over the decades what it's like to be a child. So let's compromise. Severus will continue to unfairly award points to Slytherin and impose lax discipline on his House, and he will be awful to non-Slytherin students in their fifth year and higher. To others he will be scary, but not abusive. He will promise to only read minds when the safety of a student requires it. Hogwarts will have its evil Potions Master, and the most vulnerable victims, as you put it, will be safe.\"",
+   "text": "\"If it's the most vulnerable victims about whom you're concerned. Maybe you're right, Harry. Maybe I have forgotten over the decades what it's like to be a child. So let's compromise. Severus will continue to unfairly award points to Slytherin and impose lax discipline on his House, and he will be awful to non-Slytherin students in their fifth year and higher. To others he will be scary, but not abusive. He will promise to only read minds when the safety of a student requires it. Hogwarts will have its evil Potions Master, and the most vulnerable victims, as you put it, will be safe.\"",
+   "break_before": false
+  },
+  {
+   "n": 3113,
+   "local": 245,
+   "html": "Minerva McGonagall was as shocked as she'd ever been in her life. She glanced uncertainly at Severus, whose face had been left completely neutral, as though he couldn't decide what sort of expression he ought to be wearing.",
+   "text": "Minerva McGonagall was as shocked as she'd ever been in her life. She glanced uncertainly at Severus, whose face had been left completely neutral, as though he couldn't decide what sort of expression he ought to be wearing.",
+   "break_before": false
+  },
+  {
+   "n": 3114,
+   "local": 246,
+   "html": "\"I suppose that is acceptable,\" Harry said. His voice sounded a bit odd.",
+   "text": "\"I suppose that is acceptable,\" Harry said. His voice sounded a bit odd.",
+   "break_before": false
+  },
+  {
+   "n": 3115,
+   "local": 247,
+   "html": "\"You can't be serious,\" Severus said, his voice as expressionless as his face.",
+   "text": "\"You can't be serious,\" Severus said, his voice as expressionless as his face.",
+   "break_before": false
+  },
+  {
+   "n": 3116,
+   "local": 248,
+   "html": "\"I am very much in favor of this,\" Minerva said slowly. She was so much in favor that her heart was pounding wildly beneath her robes. \"But what could we possibly tell the students? They might not have questioned this while Severus was... being awful to everyone, but -\"",
+   "text": "\"I am very much in favor of this,\" Minerva said slowly. She was so much in favor that her heart was pounding wildly beneath her robes. \"But what could we possibly tell the students? They might not have questioned this while Severus was... being awful to everyone, but -\"",
+   "break_before": false
+  },
+  {
+   "n": 3117,
+   "local": 249,
+   "html": "\"Harry can tell the other students that he discovered a terrible secret of Severus's and did a bit of blackmail,\" said Dumbledore. \"It's true, after all; he discovered that Severus was reading minds, and he certainly did blackmail us.\"",
+   "text": "\"Harry can tell the other students that he discovered a terrible secret of Severus's and did a bit of blackmail,\" said Dumbledore. \"It's true, after all; he discovered that Severus was reading minds, and he certainly did blackmail us.\"",
+   "break_before": false
+  },
+  {
+   "n": 3118,
+   "local": 250,
+   "html": "\"This is insanity!\" exploded Severus.",
+   "text": "\"This is insanity!\" exploded Severus.",
+   "break_before": false
+  },
+  {
+   "n": 3119,
+   "local": 251,
+   "html": "\"Bwah ha ha!\" said Dumbledore.",
+   "text": "\"Bwah ha ha!\" said Dumbledore.",
+   "break_before": false
+  },
+  {
+   "n": 3120,
+   "local": 252,
+   "html": "\"Ah...\" said Harry uncertainly. \"And if anyone asks me why fifth years and above got shafted? I wouldn't blame them for being irate, and that part wasn't exactly my idea -\"",
+   "text": "\"Ah...\" said Harry uncertainly. \"And if anyone asks me why fifth years and above got shafted? I wouldn't blame them for being irate, and that part wasn't exactly my idea -\"",
+   "break_before": false
+  },
+  {
+   "n": 3121,
+   "local": 253,
+   "html": "\"Tell them,\" said Dumbledore, \"that it wasn't you who suggested the compromise, that it was all you could get. And then refuse to say anything more. That, too, is true. There's an art to it, you'll pick it up with practice.\"",
+   "text": "\"Tell them,\" said Dumbledore, \"that it wasn't you who suggested the compromise, that it was all you could get. And then refuse to say anything more. That, too, is true. There's an art to it, you'll pick it up with practice.\"",
+   "break_before": false
+  },
+  {
+   "n": 3122,
+   "local": 254,
+   "html": "Harry nodded slowly. \"And the points he took from Ravenclaw?\"",
+   "text": "Harry nodded slowly. \"And the points he took from Ravenclaw?\"",
+   "break_before": false
+  },
+  {
+   "n": 3123,
+   "local": 255,
+   "html": "\"They must not be given back.\"",
+   "text": "\"They must not be given back.\"",
+   "break_before": false
+  },
+  {
+   "n": 3124,
+   "local": 256,
+   "html": "It was Minerva who said it.",
+   "text": "It was Minerva who said it.",
+   "break_before": false
+  },
+  {
+   "n": 3125,
+   "local": 257,
+   "html": "Harry looked at her.",
+   "text": "Harry looked at her.",
+   "break_before": false
+  },
+  {
+   "n": 3126,
+   "local": 258,
+   "html": "\"I'm sorry, Mr. Potter,\" she said. She <em>was</em> sorry, but it had to be done. \"There <em>must</em> be some consequences for your misbehavior or this school will fall to pieces.\"",
+   "text": "\"I'm sorry, Mr. Potter,\" she said. She was sorry, but it had to be done. \"There must be some consequences for your misbehavior or this school will fall to pieces.\"",
+   "break_before": false
+  },
+  {
+   "n": 3127,
+   "local": 259,
+   "html": "Harry shrugged. \"Acceptable,\" he said flatly. \"But in the future Severus will not strike at my House connections by taking points from me, nor will he waste my valuable time with detentions. Should he feel that my behavior requires correction, he may communicate his concerns to Professor McGonagall.\"",
+   "text": "Harry shrugged. \"Acceptable,\" he said flatly. \"But in the future Severus will not strike at my House connections by taking points from me, nor will he waste my valuable time with detentions. Should he feel that my behavior requires correction, he may communicate his concerns to Professor McGonagall.\"",
+   "break_before": false
+  },
+  {
+   "n": 3128,
+   "local": 260,
+   "html": "\"Harry,\" Minerva said, \"will you continue to submit to school discipline, or are you to be above the law now, as Severus was?\"",
+   "text": "\"Harry,\" Minerva said, \"will you continue to submit to school discipline, or are you to be above the law now, as Severus was?\"",
+   "break_before": false
+  },
+  {
+   "n": 3129,
+   "local": 261,
+   "html": "Harry looked at her. Something warm touched his gaze, briefly before it was quashed. \"I will continue to be an ordinary student to every member of the staff who is not insane or evil, provided that they do not come under pressure from others who are.\" Harry glanced briefly at Severus, then turned back to Dumbledore. \"Leave Minerva alone, and I'll be a regular Hogwarts student in her presence. No special privileges or immunities.\"",
+   "text": "Harry looked at her. Something warm touched his gaze, briefly before it was quashed. \"I will continue to be an ordinary student to every member of the staff who is not insane or evil, provided that they do not come under pressure from others who are.\" Harry glanced briefly at Severus, then turned back to Dumbledore. \"Leave Minerva alone, and I'll be a regular Hogwarts student in her presence. No special privileges or immunities.\"",
+   "break_before": false
+  },
+  {
+   "n": 3130,
+   "local": 262,
+   "html": "\"Beautiful,\" Dumbledore said sincerely. \"Spoken like a true hero.\"",
+   "text": "\"Beautiful,\" Dumbledore said sincerely. \"Spoken like a true hero.\"",
+   "break_before": false
+  },
+  {
+   "n": 3131,
+   "local": 263,
+   "html": "\"And,\" she said, \"Mr. Potter must publicly apologize for his actions of today.\"",
+   "text": "\"And,\" she said, \"Mr. Potter must publicly apologize for his actions of today.\"",
+   "break_before": false
+  },
+  {
+   "n": 3132,
+   "local": 264,
+   "html": "Harry gave her another look. This one was a bit skeptical.",
+   "text": "Harry gave her another look. This one was a bit skeptical.",
+   "break_before": false
+  },
+  {
+   "n": 3133,
+   "local": 265,
+   "html": "\"The discipline of the school has been gravely injured by your actions, Mr. Potter,\" Minerva said. \"It must be restored.\"",
+   "text": "\"The discipline of the school has been gravely injured by your actions, Mr. Potter,\" Minerva said. \"It must be restored.\"",
+   "break_before": false
+  },
+  {
+   "n": 3134,
+   "local": 266,
+   "html": "\"I think, Professor McGonagall, that you considerably overestimate the importance of what you call school discipline, as compared to having History taught by a live teacher or not torturing your students. Maintaining the current status hierarchy and enforcing its rules seems ever so much more wise and moral and important when you are on the top and doing the enforcing than when you are on the bottom, and I can cite studies to this effect if required. I could go on for several hours about this point, but I will leave it at that.\"",
+   "text": "\"I think, Professor McGonagall, that you considerably overestimate the importance of what you call school discipline, as compared to having History taught by a live teacher or not torturing your students. Maintaining the current status hierarchy and enforcing its rules seems ever so much more wise and moral and important when you are on the top and doing the enforcing than when you are on the bottom, and I can cite studies to this effect if required. I could go on for several hours about this point, but I will leave it at that.\"",
+   "break_before": false
+  },
+  {
+   "n": 3135,
+   "local": 267,
+   "html": "Minerva shook her head. \"Mr. Potter, you underestimate the importance of discipline because you are not in need of it yourself -\" She paused. That hadn't come out right, and Severus, Dumbledore, and even Harry were giving her strange looks. \"To learn, I mean. Not every child can learn in the absence of authority. And it is the other children who will be hurt, Mr. Potter, if they see your example as one to be followed.\"",
+   "text": "Minerva shook her head. \"Mr. Potter, you underestimate the importance of discipline because you are not in need of it yourself -\" She paused. That hadn't come out right, and Severus, Dumbledore, and even Harry were giving her strange looks. \"To learn, I mean. Not every child can learn in the absence of authority. And it is the other children who will be hurt, Mr. Potter, if they see your example as one to be followed.\"",
+   "break_before": false
+  },
+  {
+   "n": 3136,
+   "local": 268,
+   "html": "Harry's lips curved into a twisted smile. \"The first and last resort is the truth. The truth is that I shouldn't have gotten angry, I shouldn't have disrupted the class, I shouldn't have done what I did, and I set a bad example for everyone. The truth is also that Severus Snape behaved in a fashion unbecoming a Hogwarts professor, and that from now on he will be more mindful of the injured feelings of students in their fourth year and under. The two of us could both get up and speak the truth. I could live with that.\"",
+   "text": "Harry's lips curved into a twisted smile. \"The first and last resort is the truth. The truth is that I shouldn't have gotten angry, I shouldn't have disrupted the class, I shouldn't have done what I did, and I set a bad example for everyone. The truth is also that Severus Snape behaved in a fashion unbecoming a Hogwarts professor, and that from now on he will be more mindful of the injured feelings of students in their fourth year and under. The two of us could both get up and speak the truth. I could live with that.\"",
+   "break_before": false
+  },
+  {
+   "n": 3137,
+   "local": 269,
+   "html": "\"In your dreams, Potter!\" spat Severus.",
+   "text": "\"In your dreams, Potter!\" spat Severus.",
+   "break_before": false
+  },
+  {
+   "n": 3138,
+   "local": 270,
+   "html": "\"After all,\" said Harry, smiling grimly, \"if the students see that rules are for <em>everyone...</em> for professors too, not just for poor helpless students who get nothing but suffering out of the system... why, the positive effects on school discipline should be <em>tremendous.</em>\"",
+   "text": "\"After all,\" said Harry, smiling grimly, \"if the students see that rules are for everyone... for professors too, not just for poor helpless students who get nothing but suffering out of the system... why, the positive effects on school discipline should be tremendous.\"",
+   "break_before": false
+  },
+  {
+   "n": 3139,
+   "local": 271,
+   "html": "There was a brief pause, and then Dumbledore chuckled. \"Minerva is thinking that you're righter than you have any right to be.\"",
+   "text": "There was a brief pause, and then Dumbledore chuckled. \"Minerva is thinking that you're righter than you have any right to be.\"",
+   "break_before": false
+  },
+  {
+   "n": 3140,
+   "local": 272,
+   "html": "Harry's gaze jerked away from Dumbledore, down to the floor. \"Are <em>you</em> reading <em>her</em> mind?\"",
+   "text": "Harry's gaze jerked away from Dumbledore, down to the floor. \"Are you reading her mind?\"",
+   "break_before": false
+  },
+  {
+   "n": 3141,
+   "local": 273,
+   "html": "\"Common sense is often mistaken for Legilimency,\" said Dumbledore. \"I shall talk over this matter with Severus, and no apology will be required from you unless he apologizes as well. And now I declare this matter concluded, at least until lunchtime.\" He paused. \"Although, Harry, I'm afraid that Minerva wished to speak with you about an additional matter. And that is not the result of any pressure on my part. Minerva, if you would?\"",
+   "text": "\"Common sense is often mistaken for Legilimency,\" said Dumbledore. \"I shall talk over this matter with Severus, and no apology will be required from you unless he apologizes as well. And now I declare this matter concluded, at least until lunchtime.\" He paused. \"Although, Harry, I'm afraid that Minerva wished to speak with you about an additional matter. And that is not the result of any pressure on my part. Minerva, if you would?\"",
+   "break_before": false
+  },
+  {
+   "n": 3142,
+   "local": 274,
+   "html": "Minerva rose from her chair and almost fell. There was too much adrenaline in her blood, her heart was beating too fast.",
+   "text": "Minerva rose from her chair and almost fell. There was too much adrenaline in her blood, her heart was beating too fast.",
+   "break_before": false
+  },
+  {
+   "n": 3143,
+   "local": 275,
+   "html": "\"Fawkes,\" said Dumbledore, \"accompany her, please.\"",
+   "text": "\"Fawkes,\" said Dumbledore, \"accompany her, please.\"",
+   "break_before": false
+  },
+  {
+   "n": 3144,
+   "local": 276,
+   "html": "\"I don't -\" she started to say.",
+   "text": "\"I don't -\" she started to say.",
+   "break_before": false
+  },
+  {
+   "n": 3145,
+   "local": 277,
+   "html": "Dumbledore shot her a look, and she fell silent.",
+   "text": "Dumbledore shot her a look, and she fell silent.",
+   "break_before": false
+  },
+  {
+   "n": 3146,
+   "local": 278,
+   "html": "The phoenix soared across the room like a smooth tongue of flame leaping out, and landed on her shoulder. She felt the warmth through her robes, all through her body.",
+   "text": "The phoenix soared across the room like a smooth tongue of flame leaping out, and landed on her shoulder. She felt the warmth through her robes, all through her body.",
+   "break_before": false
+  },
+  {
+   "n": 3147,
+   "local": 279,
+   "html": "\"Please follow me, Mr. Potter,\" she said, firmly now, and they left through the door.",
+   "text": "\"Please follow me, Mr. Potter,\" she said, firmly now, and they left through the door.",
+   "break_before": false
+  },
+  {
+   "n": 3148,
+   "local": 280,
+   "html": "They stood on the rotating stairs, descending in silence.",
+   "text": "They stood on the rotating stairs, descending in silence.",
+   "break_before": true
+  },
+  {
+   "n": 3149,
+   "local": 281,
+   "html": "Minerva didn't know what to say. She didn't know this person who stood beside her.",
+   "text": "Minerva didn't know what to say. She didn't know this person who stood beside her.",
+   "break_before": false
+  },
+  {
+   "n": 3150,
+   "local": 282,
+   "html": "And Fawkes began to croon.",
+   "text": "And Fawkes began to croon.",
+   "break_before": false
+  },
+  {
+   "n": 3151,
+   "local": 283,
+   "html": "It was tender, and soft, like a fireplace would sound if it had melody, and it washed over Minerva's mind, easing, soothing, gentling what it touched...",
+   "text": "It was tender, and soft, like a fireplace would sound if it had melody, and it washed over Minerva's mind, easing, soothing, gentling what it touched...",
+   "break_before": false
+  },
+  {
+   "n": 3152,
+   "local": 284,
+   "html": "\"<em>What</em> is <em>that?</em> \" Harry whispered beside her. His voice was unstable, wobbling, changing pitch.",
+   "text": "\"What is that? \" Harry whispered beside her. His voice was unstable, wobbling, changing pitch.",
+   "break_before": false
+  },
+  {
+   "n": 3153,
+   "local": 285,
+   "html": "\"The song of the phoenix,\" said Minerva, not really aware of what she was saying, her attention was all on that strange quiet music. \"It, too, heals.\"",
+   "text": "\"The song of the phoenix,\" said Minerva, not really aware of what she was saying, her attention was all on that strange quiet music. \"It, too, heals.\"",
+   "break_before": false
+  },
+  {
+   "n": 3154,
+   "local": 286,
+   "html": "Harry turned his face from her, but she caught a glimpse of something agonized.",
+   "text": "Harry turned his face from her, but she caught a glimpse of something agonized.",
+   "break_before": false
+  },
+  {
+   "n": 3155,
+   "local": 287,
+   "html": "The descent seemed to take a very long time, or maybe it was only that the music seemed to take a very long time, and when they stepped out through the gap where a gargoyle had been, she was holding Harry's hand firmly in hers.",
+   "text": "The descent seemed to take a very long time, or maybe it was only that the music seemed to take a very long time, and when they stepped out through the gap where a gargoyle had been, she was holding Harry's hand firmly in hers.",
+   "break_before": false
+  },
+  {
+   "n": 3156,
+   "local": 288,
+   "html": "As the gargoyle stepped back into place, Fawkes left her shoulder, and swooped to hover in front of Harry.",
+   "text": "As the gargoyle stepped back into place, Fawkes left her shoulder, and swooped to hover in front of Harry.",
+   "break_before": false
+  },
+  {
+   "n": 3157,
+   "local": 289,
+   "html": "Harry stared at Fawkes like someone hypnotized by the ever-changing light of a fire.",
+   "text": "Harry stared at Fawkes like someone hypnotized by the ever-changing light of a fire.",
+   "break_before": false
+  },
+  {
+   "n": 3158,
+   "local": 290,
+   "html": "\"What am I to do, Fawkes?\" whispered Harry. \"I couldn't have protected them if I hadn't been angry.\"",
+   "text": "\"What am I to do, Fawkes?\" whispered Harry. \"I couldn't have protected them if I hadn't been angry.\"",
+   "break_before": false
+  },
+  {
+   "n": 3159,
+   "local": 291,
+   "html": "The phoenix's wings continued flapping, it continued hovering in place. There was no sound but the beating of the wings. Then there was a flash like a fire flaring up and going out, and Fawkes was gone.",
+   "text": "The phoenix's wings continued flapping, it continued hovering in place. There was no sound but the beating of the wings. Then there was a flash like a fire flaring up and going out, and Fawkes was gone.",
+   "break_before": false
+  },
+  {
+   "n": 3160,
+   "local": 292,
+   "html": "Both of them blinked, like waking up from a dream, or maybe like falling asleep again.",
+   "text": "Both of them blinked, like waking up from a dream, or maybe like falling asleep again.",
+   "break_before": false
+  },
+  {
+   "n": 3161,
+   "local": 293,
+   "html": "Minerva looked down.",
+   "text": "Minerva looked down.",
+   "break_before": false
+  },
+  {
+   "n": 3162,
+   "local": 294,
+   "html": "Harry Potter's bright young face looked up at her.",
+   "text": "Harry Potter's bright young face looked up at her.",
+   "break_before": false
+  },
+  {
+   "n": 3163,
+   "local": 295,
+   "html": "\"Are phoenixes people?\" said Harry. \"I mean, are they smart enough to count as people? Could I talk with Fawkes if I knew how?\"",
+   "text": "\"Are phoenixes people?\" said Harry. \"I mean, are they smart enough to count as people? Could I talk with Fawkes if I knew how?\"",
+   "break_before": false
+  },
+  {
+   "n": 3164,
+   "local": 296,
+   "html": "Minerva blinked hard. Then she blinked again. \"No,\" Minerva said, her voice wavering. \"Phoenixes are creatures of powerful magic. That magic gives their existence a weight of meaning which no simple animal could possess. They are fire, light, healing, rebirth. But in the end, no.\"",
+   "text": "Minerva blinked hard. Then she blinked again. \"No,\" Minerva said, her voice wavering. \"Phoenixes are creatures of powerful magic. That magic gives their existence a weight of meaning which no simple animal could possess. They are fire, light, healing, rebirth. But in the end, no.\"",
+   "break_before": false
+  },
+  {
+   "n": 3165,
+   "local": 297,
+   "html": "\"Where can I get one?\"",
+   "text": "\"Where can I get one?\"",
+   "break_before": false
+  },
+  {
+   "n": 3166,
+   "local": 298,
+   "html": "Minerva leaned down and hugged him. She hadn't meant to, but she didn't seem to have much choice in the matter.",
+   "text": "Minerva leaned down and hugged him. She hadn't meant to, but she didn't seem to have much choice in the matter.",
+   "break_before": false
+  },
+  {
+   "n": 3167,
+   "local": 299,
+   "html": "When she stood up she found it hard to speak. But she had to ask. \"What happened today, Harry?\"",
+   "text": "When she stood up she found it hard to speak. But she had to ask. \"What happened today, Harry?\"",
+   "break_before": false
+  },
+  {
+   "n": 3168,
+   "local": 300,
+   "html": "\"I don't know the answers to any of the important questions either. Aside from that I'd really rather not think about it for a while.\"",
+   "text": "\"I don't know the answers to any of the important questions either. Aside from that I'd really rather not think about it for a while.\"",
+   "break_before": false
+  },
+  {
+   "n": 3169,
+   "local": 301,
+   "html": "Minerva took his hand in hers again, and they walked the rest of the way in silence.",
+   "text": "Minerva took his hand in hers again, and they walked the rest of the way in silence.",
+   "break_before": false
+  },
+  {
+   "n": 3170,
+   "local": 302,
+   "html": "It was only a short trip, since naturally the office of the Deputy was close to the office of the Headmaster.",
+   "text": "It was only a short trip, since naturally the office of the Deputy was close to the office of the Headmaster.",
+   "break_before": false
+  },
+  {
+   "n": 3171,
+   "local": 303,
+   "html": "Minerva sat behind her desk.",
+   "text": "Minerva sat behind her desk.",
+   "break_before": false
+  },
+  {
+   "n": 3172,
+   "local": 304,
+   "html": "Harry sat in front of her desk.",
+   "text": "Harry sat in front of her desk.",
+   "break_before": false
+  },
+  {
+   "n": 3173,
+   "local": 305,
+   "html": "\"So,\" Minerva whispered. She would have given almost anything not to do this, or not to be the one who had to do it, or for it to be any time but right now. \"There is a matter of school discipline. From which you are not exempt.\"",
+   "text": "\"So,\" Minerva whispered. She would have given almost anything not to do this, or not to be the one who had to do it, or for it to be any time but right now. \"There is a matter of school discipline. From which you are not exempt.\"",
+   "break_before": false
+  },
+  {
+   "n": 3174,
+   "local": 306,
+   "html": "\"Namely?\" said Harry.",
+   "text": "\"Namely?\" said Harry.",
+   "break_before": false
+  },
+  {
+   "n": 3175,
+   "local": 307,
+   "html": "He didn't know. He hadn't figured it out yet. She felt her throat tighten. But there was work to be done and she would not shirk it.",
+   "text": "He didn't know. He hadn't figured it out yet. She felt her throat tighten. But there was work to be done and she would not shirk it.",
+   "break_before": false
+  },
+  {
+   "n": 3176,
+   "local": 308,
+   "html": "\"Mr. Potter,\" said Professor McGonagall, \"I need to see your Time-Turner, please.\"",
+   "text": "\"Mr. Potter,\" said Professor McGonagall, \"I need to see your Time-Turner, please.\"",
+   "break_before": false
+  },
+  {
+   "n": 3177,
+   "local": 309,
+   "html": "All the peace of the phoenix vanished from his face in an instant and Minerva felt like she had just stabbed him.",
+   "text": "All the peace of the phoenix vanished from his face in an instant and Minerva felt like she had just stabbed him.",
+   "break_before": false
+  },
+  {
+   "n": 3178,
+   "local": 310,
+   "html": "\"<em>No!</em> \" Harry said. His voice was panicked. \"I need it, I won't be able to attend Hogwarts, I won't be able to sleep!\"",
+   "text": "\"No! \" Harry said. His voice was panicked. \"I need it, I won't be able to attend Hogwarts, I won't be able to sleep!\"",
+   "break_before": false
+  },
+  {
+   "n": 3179,
+   "local": 311,
+   "html": "\"You'll be able to sleep,\" she said. \"The Ministry has delivered the protective shell for your Time-Turner. I will enchant it to open only between the hours of 9PM and midnight.\"",
+   "text": "\"You'll be able to sleep,\" she said. \"The Ministry has delivered the protective shell for your Time-Turner. I will enchant it to open only between the hours of 9PM and midnight.\"",
+   "break_before": false
+  },
+  {
+   "n": 3180,
+   "local": 312,
+   "html": "Harry's face twisted. \"But - but I -\"",
+   "text": "Harry's face twisted. \"But - but I -\"",
+   "break_before": false
+  },
+  {
+   "n": 3181,
+   "local": 313,
+   "html": "\"Mr. Potter, how many times have you used the Time-Turner since Monday? How many hours?\"",
+   "text": "\"Mr. Potter, how many times have you used the Time-Turner since Monday? How many hours?\"",
+   "break_before": false
+  },
+  {
+   "n": 3182,
+   "local": 314,
+   "html": "\"I...\" Harry said. \"Hold on, let me add it up -\" He glanced down at his watch.",
+   "text": "\"I...\" Harry said. \"Hold on, let me add it up -\" He glanced down at his watch.",
+   "break_before": false
+  },
+  {
+   "n": 3183,
+   "local": 315,
+   "html": "Minerva felt a rush of sadness. She'd thought so. \"It wasn't just two per day, then. I suspect that if I asked your dormmates, I would find that you were struggling to stay up long enough to go to sleep at a reasonable time, and waking up earlier and earlier every morning. Correct?\"",
+   "text": "Minerva felt a rush of sadness. She'd thought so. \"It wasn't just two per day, then. I suspect that if I asked your dormmates, I would find that you were struggling to stay up long enough to go to sleep at a reasonable time, and waking up earlier and earlier every morning. Correct?\"",
+   "break_before": false
+  },
+  {
+   "n": 3184,
+   "local": 316,
+   "html": "Harry's face said everything she needed to know.",
+   "text": "Harry's face said everything she needed to know.",
+   "break_before": false
+  },
+  {
+   "n": 3185,
+   "local": 317,
+   "html": "\"Mr. Potter,\" she said gently, \"there are students who cannot be entrusted with Time-Turners, because they become addicted to them. We give them a potion which lengthens their sleep cycle by the necessary amount, but they end up using the Time-Turner for more than just attending their classes. And so we must take them back. Mr. Potter, you have taken to using the Time-Turner as your solution to everything, often very foolishly so. You used it to get back a Remembrall. You vanished from a closet in a fashion apparent to other students, instead of going back after you were out and getting me or someone else to come and open the door.\"",
+   "text": "\"Mr. Potter,\" she said gently, \"there are students who cannot be entrusted with Time-Turners, because they become addicted to them. We give them a potion which lengthens their sleep cycle by the necessary amount, but they end up using the Time-Turner for more than just attending their classes. And so we must take them back. Mr. Potter, you have taken to using the Time-Turner as your solution to everything, often very foolishly so. You used it to get back a Remembrall. You vanished from a closet in a fashion apparent to other students, instead of going back after you were out and getting me or someone else to come and open the door.\"",
+   "break_before": false
+  },
+  {
+   "n": 3186,
+   "local": 318,
+   "html": "From the look on Harry's face he hadn't thought of that.",
+   "text": "From the look on Harry's face he hadn't thought of that.",
+   "break_before": false
+  },
+  {
+   "n": 3187,
+   "local": 319,
+   "html": "\"And more importantly,\" she said, \"you should have simply sat in Professor Snape's class. And watched. And left at the end of class. As you would have done if you had not possessed a Time-Turner. There are some students who cannot be entrusted with Time-Turners, Mr. Potter. You are one of them. I am sorry.\"",
+   "text": "\"And more importantly,\" she said, \"you should have simply sat in Professor Snape's class. And watched. And left at the end of class. As you would have done if you had not possessed a Time-Turner. There are some students who cannot be entrusted with Time-Turners, Mr. Potter. You are one of them. I am sorry.\"",
+   "break_before": false
+  },
+  {
+   "n": 3188,
+   "local": 320,
+   "html": "\"But I <em>need</em> it!\" Harry blurted. \"What if there are Slytherins threatening me and I have to escape? It keeps me <em>safe</em> -\"",
+   "text": "\"But I need it!\" Harry blurted. \"What if there are Slytherins threatening me and I have to escape? It keeps me safe -\"",
+   "break_before": false
+  },
+  {
+   "n": 3189,
+   "local": 321,
+   "html": "\"Every other student in this castle runs the same risk, and I assure you that they survive. No student has died in this castle for fifty years. Mr. Potter, you will hand over your Time-Turner and do so now.\"",
+   "text": "\"Every other student in this castle runs the same risk, and I assure you that they survive. No student has died in this castle for fifty years. Mr. Potter, you will hand over your Time-Turner and do so now.\"",
+   "break_before": false
+  },
+  {
+   "n": 3190,
+   "local": 322,
+   "html": "Harry's face twisted in agony, but he drew out the Time-Turner from under his robes and gave it to her.",
+   "text": "Harry's face twisted in agony, but he drew out the Time-Turner from under his robes and gave it to her.",
+   "break_before": false
+  },
+  {
+   "n": 3191,
+   "local": 323,
+   "html": "From her desk, Minerva drew out one of the protective shells that had been sent to Hogwarts. She snapped the cover into place around the Time-Turner's turning hourglass, and then she laid her wand on the cover to complete the enchantment.",
+   "text": "From her desk, Minerva drew out one of the protective shells that had been sent to Hogwarts. She snapped the cover into place around the Time-Turner's turning hourglass, and then she laid her wand on the cover to complete the enchantment.",
+   "break_before": false
+  },
+  {
+   "n": 3192,
+   "local": 324,
+   "html": "\"<em>This isn't fair!</em> \" Harry shrieked. \"I saved half of Hogwarts from Professor Snape today, is it right that I be punished for it? I saw the look on your face, you <em>hated</em> what he was doing!\"",
+   "text": "\"This isn't fair! \" Harry shrieked. \"I saved half of Hogwarts from Professor Snape today, is it right that I be punished for it? I saw the look on your face, you hated what he was doing!\"",
+   "break_before": false
+  },
+  {
+   "n": 3193,
+   "local": 325,
+   "html": "Minerva didn't speak for a few moments. She was enchanting.",
+   "text": "Minerva didn't speak for a few moments. She was enchanting.",
+   "break_before": false
+  },
+  {
+   "n": 3194,
+   "local": 326,
+   "html": "When she finished and looked up, she knew that her face was stern. Maybe it was the wrong thing to do. And then again maybe it was the right thing to do. There was an obstinate child in front of her, and that <em>didn't</em> mean the universe was broken.",
+   "text": "When she finished and looked up, she knew that her face was stern. Maybe it was the wrong thing to do. And then again maybe it was the right thing to do. There was an obstinate child in front of her, and that didn't mean the universe was broken.",
+   "break_before": false
+  },
+  {
+   "n": 3195,
+   "local": 327,
+   "html": "\"<em>Fair,</em> Mr. Potter?\" she snapped. \"I have had to file <em>two reports</em> with the Ministry on public use of a Time-Turner in <em>two successive days!</em> Be <em>extremely</em> grateful you were allowed to retain the Time-Turner even in restricted form! The Headmaster made a Floo call to plead with them personally and if you were not the Boy-Who-Lived even that would not have sufficed!\"",
+   "text": "\"Fair, Mr. Potter?\" she snapped. \"I have had to file two reports with the Ministry on public use of a Time-Turner in two successive days! Be extremely grateful you were allowed to retain the Time-Turner even in restricted form! The Headmaster made a Floo call to plead with them personally and if you were not the Boy-Who-Lived even that would not have sufficed!\"",
+   "break_before": false
+  },
+  {
+   "n": 3196,
+   "local": 328,
+   "html": "Harry gaped at her.",
+   "text": "Harry gaped at her.",
+   "break_before": false
+  },
+  {
+   "n": 3197,
+   "local": 329,
+   "html": "She knew that he was seeing the angry face of Professor McGonagall.",
+   "text": "She knew that he was seeing the angry face of Professor McGonagall.",
+   "break_before": false
+  },
+  {
+   "n": 3198,
+   "local": 330,
+   "html": "Harry's eyes filled up with tears.",
+   "text": "Harry's eyes filled up with tears.",
+   "break_before": false
+  },
+  {
+   "n": 3199,
+   "local": 331,
+   "html": "\"I'm, sorry,\" he whispered, voice now choked and broken. \"I'm sorry, to have, disappointed you...\"",
+   "text": "\"I'm, sorry,\" he whispered, voice now choked and broken. \"I'm sorry, to have, disappointed you...\"",
+   "break_before": false
+  },
+  {
+   "n": 3200,
+   "local": 332,
+   "html": "\"I'm sorry too, Mr. Potter,\" she said sternly, and handed him the newly restricted Time-Turner. \"You may go.\"",
+   "text": "\"I'm sorry too, Mr. Potter,\" she said sternly, and handed him the newly restricted Time-Turner. \"You may go.\"",
+   "break_before": false
+  },
+  {
+   "n": 3201,
+   "local": 333,
+   "html": "Harry turned and fled from her office, sobbing. She heard his feet pattering away down the hall, and then the sound cut off as the door swung closed.",
+   "text": "Harry turned and fled from her office, sobbing. She heard his feet pattering away down the hall, and then the sound cut off as the door swung closed.",
+   "break_before": false
+  },
+  {
+   "n": 3202,
+   "local": 334,
+   "html": "\"I'm sorry too, Harry,\" she whispered to the quiet room. \"I'm sorry too.\"",
+   "text": "\"I'm sorry too, Harry,\" she whispered to the quiet room. \"I'm sorry too.\"",
+   "break_before": false
+  },
+  {
+   "n": 3203,
+   "local": 335,
+   "html": "Fifteen minutes into lunch hour.",
+   "text": "Fifteen minutes into lunch hour.",
+   "break_before": true
+  },
+  {
+   "n": 3204,
+   "local": 336,
+   "html": "No one was speaking to Harry. Some of the Ravenclaws were shooting him looks of anger, others of sympathy, a few of the youngest students even had looks of admiration, but no one was talking to him. Even Hermione hadn't tried to come over.",
+   "text": "No one was speaking to Harry. Some of the Ravenclaws were shooting him looks of anger, others of sympathy, a few of the youngest students even had looks of admiration, but no one was talking to him. Even Hermione hadn't tried to come over.",
+   "break_before": false
+  },
+  {
+   "n": 3205,
+   "local": 337,
+   "html": "Fred and George had gingerly stepped near. They hadn't said anything. The offer was clear, and its optionality. Harry had told them that he would come over when dessert started, no earlier. They had nodded and quickly walked away.",
+   "text": "Fred and George had gingerly stepped near. They hadn't said anything. The offer was clear, and its optionality. Harry had told them that he would come over when dessert started, no earlier. They had nodded and quickly walked away.",
+   "break_before": false
+  },
+  {
+   "n": 3206,
+   "local": 338,
+   "html": "It was probably the utterly expressionless look on Harry's face that was doing it.",
+   "text": "It was probably the utterly expressionless look on Harry's face that was doing it.",
+   "break_before": false
+  },
+  {
+   "n": 3207,
+   "local": 339,
+   "html": "The others probably thought he was controlling anger, or dismay. They knew, because they'd seen Flitwick come and get him, that he'd been called to the Headmaster's office.",
+   "text": "The others probably thought he was controlling anger, or dismay. They knew, because they'd seen Flitwick come and get him, that he'd been called to the Headmaster's office.",
+   "break_before": false
+  },
+  {
+   "n": 3208,
+   "local": 340,
+   "html": "Harry was trying not to smile, because if he smiled, he would start laughing, and if he started laughing, he wouldn't stop until the nice people in white jackets came to haul him away.",
+   "text": "Harry was trying not to smile, because if he smiled, he would start laughing, and if he started laughing, he wouldn't stop until the nice people in white jackets came to haul him away.",
+   "break_before": false
+  },
+  {
+   "n": 3209,
+   "local": 341,
+   "html": "It was too much. It was just all too much. Harry had almost gone over to the Dark Side, his dark side had done things that seemed in retrospect insane, his dark side had won an impossible victory that might have been real and might have been a pure whim of a crazy Headmaster, his dark side had protected his friends. He just couldn't handle it any more. He needed Fawkes to sing to him again. He needed to use the Time-Turner to go off and take a quiet hour to recover but that wasn't an option any more and the loss was like a hole in his existence but he couldn't think about that because then he might start laughing.",
+   "text": "It was too much. It was just all too much. Harry had almost gone over to the Dark Side, his dark side had done things that seemed in retrospect insane, his dark side had won an impossible victory that might have been real and might have been a pure whim of a crazy Headmaster, his dark side had protected his friends. He just couldn't handle it any more. He needed Fawkes to sing to him again. He needed to use the Time-Turner to go off and take a quiet hour to recover but that wasn't an option any more and the loss was like a hole in his existence but he couldn't think about that because then he might start laughing.",
+   "break_before": false
+  },
+  {
+   "n": 3210,
+   "local": 342,
+   "html": "Twenty minutes. All the students who were going to eat lunch had arrived, almost none had departed.",
+   "text": "Twenty minutes. All the students who were going to eat lunch had arrived, almost none had departed.",
+   "break_before": false
+  },
+  {
+   "n": 3211,
+   "local": 343,
+   "html": "The tapping of a spoon rang through the Great Hall.",
+   "text": "The tapping of a spoon rang through the Great Hall.",
+   "break_before": false
+  },
+  {
+   "n": 3212,
+   "local": 344,
+   "html": "\"If I may have your attention please,\" Dumbledore said. \"Harry Potter has something he would like to share with us.\"",
+   "text": "\"If I may have your attention please,\" Dumbledore said. \"Harry Potter has something he would like to share with us.\"",
+   "break_before": false
+  },
+  {
+   "n": 3213,
+   "local": 345,
+   "html": "Harry took a deep breath and got up. He walked over to the Head Table, with every eye staring at him.",
+   "text": "Harry took a deep breath and got up. He walked over to the Head Table, with every eye staring at him.",
+   "break_before": false
+  },
+  {
+   "n": 3214,
+   "local": 346,
+   "html": "Harry turned and looked out at the four tables.",
+   "text": "Harry turned and looked out at the four tables.",
+   "break_before": false
+  },
+  {
+   "n": 3215,
+   "local": 347,
+   "html": "It was becoming harder and harder not to smile, but Harry kept his face expressionless as he spoke his brief and memorized speech.",
+   "text": "It was becoming harder and harder not to smile, but Harry kept his face expressionless as he spoke his brief and memorized speech.",
+   "break_before": false
+  },
+  {
+   "n": 3216,
+   "local": 348,
+   "html": "\"The truth is sacred,\" Harry said tonelessly. \"One of my most treasured possessions is a button which reads 'Speak the truth, even if your voice trembles'. This, then, is the truth. Remember that. I am not saying it because I am being forced to say it, I am saying it because it is true. What I did in Professor Snape's class was foolish, stupid, childish, and an inexcusable violation of the rules of Hogwarts. I disrupted the classroom and deprived my fellow students of their irreplaceable learning time. All because I failed to control my temper. I hope that not a single one of you will ever follow my example. I certainly intend to try never to follow it again.\"",
+   "text": "\"The truth is sacred,\" Harry said tonelessly. \"One of my most treasured possessions is a button which reads 'Speak the truth, even if your voice trembles'. This, then, is the truth. Remember that. I am not saying it because I am being forced to say it, I am saying it because it is true. What I did in Professor Snape's class was foolish, stupid, childish, and an inexcusable violation of the rules of Hogwarts. I disrupted the classroom and deprived my fellow students of their irreplaceable learning time. All because I failed to control my temper. I hope that not a single one of you will ever follow my example. I certainly intend to try never to follow it again.\"",
+   "break_before": false
+  },
+  {
+   "n": 3217,
+   "local": 349,
+   "html": "Many of the students gazing at Harry now had solemn, unhappy looks upon their faces, such as one might see at a ceremony marking the loss of a fallen champion. At the younger parts of the Gryffindor table the look was almost universal.",
+   "text": "Many of the students gazing at Harry now had solemn, unhappy looks upon their faces, such as one might see at a ceremony marking the loss of a fallen champion. At the younger parts of the Gryffindor table the look was almost universal.",
+   "break_before": false
+  },
+  {
+   "n": 3218,
+   "local": 350,
+   "html": "Until Harry raised his hand.",
+   "text": "Until Harry raised his hand.",
+   "break_before": false
+  },
+  {
+   "n": 3219,
+   "local": 351,
+   "html": "He did not raise it high. That might have appeared preemptory. He certainly did not raise it toward Severus. Harry simply raised his hand to chest level, and softly snapped his fingers, a gesture that was seen more than heard. It was possible that most of the Head Table wouldn't see it at all.",
+   "text": "He did not raise it high. That might have appeared preemptory. He certainly did not raise it toward Severus. Harry simply raised his hand to chest level, and softly snapped his fingers, a gesture that was seen more than heard. It was possible that most of the Head Table wouldn't see it at all.",
+   "break_before": false
+  },
+  {
+   "n": 3220,
+   "local": 352,
+   "html": "This seeming gesture of defiance won sudden smiles from the younger students and Gryffindors, and coldly superior sneers from Slytherin, and frowns and worried looks from all others.",
+   "text": "This seeming gesture of defiance won sudden smiles from the younger students and Gryffindors, and coldly superior sneers from Slytherin, and frowns and worried looks from all others.",
+   "break_before": false
+  },
+  {
+   "n": 3221,
+   "local": 353,
+   "html": "Harry kept his face expressionless. \"Thank you,\" he said. \"That's all.\"",
+   "text": "Harry kept his face expressionless. \"Thank you,\" he said. \"That's all.\"",
+   "break_before": false
+  },
+  {
+   "n": 3222,
+   "local": 354,
+   "html": "\"Thank you, Mr. Potter,\" said the Headmaster. \"And now Professor Snape has something to share with us as well.\"",
+   "text": "\"Thank you, Mr. Potter,\" said the Headmaster. \"And now Professor Snape has something to share with us as well.\"",
+   "break_before": false
+  },
+  {
+   "n": 3223,
+   "local": 355,
+   "html": "Severus smoothly stood up from his place at the Head Table. \"It has been brought to my attention,\" he said, \"that my own actions played a part in provoking the admittedly inexcusable anger of Mr. Potter, and in the ensuing discussion I realized that I had forgotten how easily injured are the feelings of the young and immature -\"",
+   "text": "Severus smoothly stood up from his place at the Head Table. \"It has been brought to my attention,\" he said, \"that my own actions played a part in provoking the admittedly inexcusable anger of Mr. Potter, and in the ensuing discussion I realized that I had forgotten how easily injured are the feelings of the young and immature -\"",
+   "break_before": false
+  },
+  {
+   "n": 3224,
+   "local": 356,
+   "html": "There was the sound of many people emitting muffled chokes at the same time.",
+   "text": "There was the sound of many people emitting muffled chokes at the same time.",
+   "break_before": false
+  },
+  {
+   "n": 3225,
+   "local": 357,
+   "html": "Severus continued as if he had not heard. \"The Potions classroom is a dangerous place, and I still feel that strict discipline is necessary, but henceforth I will be more aware of the... emotional fragility... of students in their fourth year and younger. My deduction of points from Ravenclaw still stands, but I will revoke Mr. Potter's detention. Thank you.\"",
+   "text": "Severus continued as if he had not heard. \"The Potions classroom is a dangerous place, and I still feel that strict discipline is necessary, but henceforth I will be more aware of the... emotional fragility... of students in their fourth year and younger. My deduction of points from Ravenclaw still stands, but I will revoke Mr. Potter's detention. Thank you.\"",
+   "break_before": false
+  },
+  {
+   "n": 3226,
+   "local": 358,
+   "html": "There was a single clap from the direction of Gryffindor and faster than lightning Severus's wand was in his hand and \"<em>Quietus!</em> \" silenced the offender.",
+   "text": "There was a single clap from the direction of Gryffindor and faster than lightning Severus's wand was in his hand and \"Quietus! \" silenced the offender.",
+   "break_before": false
+  },
+  {
+   "n": 3227,
+   "local": 359,
+   "html": "\"I will still demand discipline and respect in <em>all</em> my classes,\" Severus said coldly, \"and anyone who trifles with me will regret it.\"",
+   "text": "\"I will still demand discipline and respect in all my classes,\" Severus said coldly, \"and anyone who trifles with me will regret it.\"",
+   "break_before": false
+  },
+  {
+   "n": 3228,
+   "local": 360,
+   "html": "He sat down.",
+   "text": "He sat down.",
+   "break_before": false
+  },
+  {
+   "n": 3229,
+   "local": 361,
+   "html": "\"Thank you too!\" Headmaster Dumbledore said cheerfully. \"Carry on!\"",
+   "text": "\"Thank you too!\" Headmaster Dumbledore said cheerfully. \"Carry on!\"",
+   "break_before": false
+  },
+  {
+   "n": 3230,
+   "local": 362,
+   "html": "And Harry, still expressionless, began to walk back to his seat in Ravenclaw.",
+   "text": "And Harry, still expressionless, began to walk back to his seat in Ravenclaw.",
+   "break_before": false
+  },
+  {
+   "n": 3231,
+   "local": 363,
+   "html": "There was an explosion of conversation. Two words were clearly identifiable in the beginning. The first was an initial \"What -\" beginning many different sentences such as \"What just happened -\" and \"What the hell -\" The second was \"<em>Scourgify!</em> \" as students cleaned up the dropped food and spit-out drinks from themselves, the tablecloth, and each other.",
+   "text": "There was an explosion of conversation. Two words were clearly identifiable in the beginning. The first was an initial \"What -\" beginning many different sentences such as \"What just happened -\" and \"What the hell -\" The second was \"Scourgify! \" as students cleaned up the dropped food and spit-out drinks from themselves, the tablecloth, and each other.",
+   "break_before": false
+  },
+  {
+   "n": 3232,
+   "local": 364,
+   "html": "Some students were weeping openly. So was Professor Sprout.",
+   "text": "Some students were weeping openly. So was Professor Sprout.",
+   "break_before": false
+  },
+  {
+   "n": 3233,
+   "local": 365,
+   "html": "At the Gryffindor table, where a cake waited with fifty-one unlit candles, Fred whispered, \"I think we may be out of our league here, George.\"",
+   "text": "At the Gryffindor table, where a cake waited with fifty-one unlit candles, Fred whispered, \"I think we may be out of our league here, George.\"",
+   "break_before": false
+  },
+  {
+   "n": 3234,
+   "local": 366,
+   "html": "And from that day onward, no matter what Hermione tried to tell anyone, it would be an accepted legend of Hogwarts that Harry Potter could make absolutely anything happen by snapping his fingers.",
+   "text": "And from that day onward, no matter what Hermione tried to tell anyone, it would be an accepted legend of Hogwarts that Harry Potter could make absolutely anything happen by snapping his fingers.",
+   "break_before": false
+  }
+ ]
+}

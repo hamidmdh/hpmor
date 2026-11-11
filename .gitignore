@@ -1,0 +1,13 @@
+# data/raw contains cached upstream HTML and is reproducible with fetch_chapters.py
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build/package output
+_site/
+
+# OS
+.DS_Store
+Thumbs.db

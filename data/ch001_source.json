@@ -1,0 +1,679 @@
+{
+ "chapter": 1,
+ "title": "A Day of Very Low Probability",
+ "source": "https://hpmor.info/chapter/1/",
+ "paragraphs": [
+  {
+   "n": 1,
+   "local": 1,
+   "html": "Disclaimer: J. K. Rowling owns Harry Potter, and no one owns the methods of rationality.",
+   "text": "Disclaimer: J. K. Rowling owns Harry Potter, and no one owns the methods of rationality.",
+   "break_before": false
+  },
+  {
+   "n": 2,
+   "local": 2,
+   "html": "This fic is widely considered to have really hit its stride starting at around Chapter 5. If you still don't like it after Chapter 10, give up.",
+   "text": "This fic is widely considered to have really hit its stride starting at around Chapter 5. If you still don't like it after Chapter 10, give up.",
+   "break_before": false
+  },
+  {
+   "n": 3,
+   "local": 3,
+   "html": "<strong>Please visit HPMOR DOT COM for:</strong>",
+   "text": "Please visit HPMOR DOT COM for:",
+   "break_before": false
+  },
+  {
+   "n": 4,
+   "local": 4,
+   "html": "* Easy email notification system, RSS feed, and Twitter feed for new chapters;<br>* Current Author's Notes and progress updates;<br>* Lovely fan- made book-style PDF version;<br>* Ad-free mirror of the text;<br>* ePUB and MOBI e-texts;<br>* Ongoing podcast of the story;<br>* Fan art in vast quantities;<br>* Cameo list (characters named after fan artists);<br>* Fan- fanfiction of this fanfiction;<br>* Fan music, songs, and animations;<br>* Fan translations;<br>* The OKCupid keyword for HPMOR readers;<br>* Links to TV Tropes page and discussion forum;<br>* Trigger warnings page (warnings about possible traumatic associations for some readers; to avoid spoilers for most readers, there are <em>no</em> warnings inside the main story);<br>* How to learn everything the main character knows;<br>* Open job positions at a related nonprofit;<br>* And ever so much more.",
+   "text": "* Easy email notification system, RSS feed, and Twitter feed for new chapters;\n* Current Author's Notes and progress updates;\n* Lovely fan- made book-style PDF version;\n* Ad-free mirror of the text;\n* ePUB and MOBI e-texts;\n* Ongoing podcast of the story;\n* Fan art in vast quantities;\n* Cameo list (characters named after fan artists);\n* Fan- fanfiction of this fanfiction;\n* Fan music, songs, and animations;\n* Fan translations;\n* The OKCupid keyword for HPMOR readers;\n* Links to TV Tropes page and discussion forum;\n* Trigger warnings page (warnings about possible traumatic associations for some readers; to avoid spoilers for most readers, there are no warnings inside the main story);\n* How to learn everything the main character knows;\n* Open job positions at a related nonprofit;\n* And ever so much more.",
+   "break_before": false
+  },
+  {
+   "n": 5,
+   "local": 5,
+   "html": "Reviews make me happy. You can leave reviews on any chapter, no login required, and there's no need to finish reading it all before you start reviewing chapters - but do please leave at most <em>one</em> review per chapter.",
+   "text": "Reviews make me happy. You can leave reviews on any chapter, no login required, and there's no need to finish reading it all before you start reviewing chapters - but do please leave at most one review per chapter.",
+   "break_before": false
+  },
+  {
+   "n": 6,
+   "local": 6,
+   "html": "This is <em>not</em> a strict single-point-of-departure fic - there exists a primary point of departure, at some point in the past, but also other alterations. The best term I've heard for this fic is \"parallel universe\".",
+   "text": "This is not a strict single-point-of-departure fic - there exists a primary point of departure, at some point in the past, but also other alterations. The best term I've heard for this fic is \"parallel universe\".",
+   "break_before": false
+  },
+  {
+   "n": 7,
+   "local": 7,
+   "html": "The text contains many clues: obvious clues, not-so-obvious clues, truly obscure hints which I was shocked to see some readers successfully decode, and massive evidence left out in plain sight. This is a rationalist story; its mysteries are solvable, and meant to be solved.",
+   "text": "The text contains many clues: obvious clues, not-so-obvious clues, truly obscure hints which I was shocked to see some readers successfully decode, and massive evidence left out in plain sight. This is a rationalist story; its mysteries are solvable, and meant to be solved.",
+   "break_before": false
+  },
+  {
+   "n": 8,
+   "local": 8,
+   "html": "The pacing of the story is that of serial fiction, i.e., that of a TV show running for a predetermined number of seasons, whose episodes are individually plotted but with an overall arc building to a final conclusion.",
+   "text": "The pacing of the story is that of serial fiction, i.e., that of a TV show running for a predetermined number of seasons, whose episodes are individually plotted but with an overall arc building to a final conclusion.",
+   "break_before": false
+  },
+  {
+   "n": 9,
+   "local": 9,
+   "html": "The story has been corrected to British English up to Ch. 17, and further Britpicking is currently in progress (see the /HPMOR subreddit).",
+   "text": "The story has been corrected to British English up to Ch. 17, and further Britpicking is currently in progress (see the /HPMOR subreddit).",
+   "break_before": false
+  },
+  {
+   "n": 10,
+   "local": 10,
+   "html": "All science mentioned is real science. But please keep in mind that, beyond the realm of science, the views of the characters may not be those of the author. Not everything the protagonist does is a lesson in wisdom, and advice offered by darker characters may be untrustworthy or dangerously double-edged.",
+   "text": "All science mentioned is real science. But please keep in mind that, beyond the realm of science, the views of the characters may not be those of the author. Not everything the protagonist does is a lesson in wisdom, and advice offered by darker characters may be untrustworthy or dangerously double-edged.",
+   "break_before": false
+  },
+  {
+   "n": 11,
+   "local": 11,
+   "html": "<em>Beneath the moonlight glints a tiny fragment of silver, a fraction of a line...</em>",
+   "text": "Beneath the moonlight glints a tiny fragment of silver, a fraction of a line...",
+   "break_before": true
+  },
+  {
+   "n": 12,
+   "local": 12,
+   "html": "<em>(black robes, falling)</em>",
+   "text": "(black robes, falling)",
+   "break_before": false
+  },
+  {
+   "n": 13,
+   "local": 13,
+   "html": "<em>...blood spills out in litres, and someone screams a word.</em>",
+   "text": "...blood spills out in litres, and someone screams a word.",
+   "break_before": false
+  },
+  {
+   "n": 14,
+   "local": 14,
+   "html": "Every inch of wall space is covered by a bookcase. Each bookcase has six shelves, going almost to the ceiling. Some bookshelves are stacked to the brim with hardback books: science, maths, history, and everything else. Other shelves have two layers of paperback science fiction, with the back layer of books propped up on old tissue boxes or lengths of wood, so that you can see the back layer of books above the books in front. And it still isn't enough. Books are overflowing onto the tables and the sofas and making little heaps under the windows.",
+   "text": "Every inch of wall space is covered by a bookcase. Each bookcase has six shelves, going almost to the ceiling. Some bookshelves are stacked to the brim with hardback books: science, maths, history, and everything else. Other shelves have two layers of paperback science fiction, with the back layer of books propped up on old tissue boxes or lengths of wood, so that you can see the back layer of books above the books in front. And it still isn't enough. Books are overflowing onto the tables and the sofas and making little heaps under the windows.",
+   "break_before": true
+  },
+  {
+   "n": 15,
+   "local": 15,
+   "html": "This is the living-room of the house occupied by the eminent Professor Michael Verres-Evans, and his wife, Mrs. Petunia Evans-Verres, and their adopted son, Harry James Potter-Evans-Verres.",
+   "text": "This is the living-room of the house occupied by the eminent Professor Michael Verres-Evans, and his wife, Mrs. Petunia Evans-Verres, and their adopted son, Harry James Potter-Evans-Verres.",
+   "break_before": false
+  },
+  {
+   "n": 16,
+   "local": 16,
+   "html": "There is a letter lying on the living-room table, and an unstamped envelope of yellowish parchment, addressed to <em>Mr. H. Potter</em> in emerald-green ink.",
+   "text": "There is a letter lying on the living-room table, and an unstamped envelope of yellowish parchment, addressed to Mr. H. Potter in emerald-green ink.",
+   "break_before": false
+  },
+  {
+   "n": 17,
+   "local": 17,
+   "html": "The Professor and his wife are speaking sharply at each other, but they are not shouting. The Professor considers shouting to be uncivilised.",
+   "text": "The Professor and his wife are speaking sharply at each other, but they are not shouting. The Professor considers shouting to be uncivilised.",
+   "break_before": false
+  },
+  {
+   "n": 18,
+   "local": 18,
+   "html": "\"You're joking,\" Michael said to Petunia. His tone indicated that he was very much afraid that she was serious.",
+   "text": "\"You're joking,\" Michael said to Petunia. His tone indicated that he was very much afraid that she was serious.",
+   "break_before": false
+  },
+  {
+   "n": 19,
+   "local": 19,
+   "html": "\"My sister was a witch,\" Petunia repeated. She looked frightened, but stood her ground. \"Her husband was a wizard.\"",
+   "text": "\"My sister was a witch,\" Petunia repeated. She looked frightened, but stood her ground. \"Her husband was a wizard.\"",
+   "break_before": false
+  },
+  {
+   "n": 20,
+   "local": 20,
+   "html": "\"This is absurd!\" Michael said sharply. \"They were at our wedding - they visited for Christmas -\"",
+   "text": "\"This is absurd!\" Michael said sharply. \"They were at our wedding - they visited for Christmas -\"",
+   "break_before": false
+  },
+  {
+   "n": 21,
+   "local": 21,
+   "html": "\"I told them you weren't to know,\" Petunia whispered. \"But it's true. I've seen things -\"",
+   "text": "\"I told them you weren't to know,\" Petunia whispered. \"But it's true. I've seen things -\"",
+   "break_before": false
+  },
+  {
+   "n": 22,
+   "local": 22,
+   "html": "The Professor rolled his eyes. \"Dear, I understand that you're not familiar with the sceptical literature. You may not realise how easy it is for a trained magician to fake the seemingly impossible. Remember how I taught Harry to bend spoons? If it seemed like they could always guess what you were thinking, that's called cold reading -\"",
+   "text": "The Professor rolled his eyes. \"Dear, I understand that you're not familiar with the sceptical literature. You may not realise how easy it is for a trained magician to fake the seemingly impossible. Remember how I taught Harry to bend spoons? If it seemed like they could always guess what you were thinking, that's called cold reading -\"",
+   "break_before": false
+  },
+  {
+   "n": 23,
+   "local": 23,
+   "html": "\"It wasn't bending spoons -\"",
+   "text": "\"It wasn't bending spoons -\"",
+   "break_before": false
+  },
+  {
+   "n": 24,
+   "local": 24,
+   "html": "\"What was it, then?\"",
+   "text": "\"What was it, then?\"",
+   "break_before": false
+  },
+  {
+   "n": 25,
+   "local": 25,
+   "html": "Petunia bit her lip. \"I can't just tell you. You'll think I'm -\" She swallowed. \"Listen. Michael. I wasn't - always like this -\" She gestured at herself, as though to indicate her lithe form. \"Lily did this. Because I - because I <em>begged</em> her. For years, I begged her. Lily had <em>always</em> been prettier than me, and I'd... been mean to her, because of that, and then she got <em>magic,</em> can you imagine how I felt? And I <em>begged</em> her to use some of that magic on me so that I could be pretty too, even if I couldn't have her magic, at least I could be pretty.\"",
+   "text": "Petunia bit her lip. \"I can't just tell you. You'll think I'm -\" She swallowed. \"Listen. Michael. I wasn't - always like this -\" She gestured at herself, as though to indicate her lithe form. \"Lily did this. Because I - because I begged her. For years, I begged her. Lily had always been prettier than me, and I'd... been mean to her, because of that, and then she got magic, can you imagine how I felt? And I begged her to use some of that magic on me so that I could be pretty too, even if I couldn't have her magic, at least I could be pretty.\"",
+   "break_before": false
+  },
+  {
+   "n": 26,
+   "local": 26,
+   "html": "Tears were gathering in Petunia's eyes.",
+   "text": "Tears were gathering in Petunia's eyes.",
+   "break_before": false
+  },
+  {
+   "n": 27,
+   "local": 27,
+   "html": "\"And Lily would tell me no, and make up the most ridiculous excuses, like the world would end if she were nice to her sister, or a centaur told her not to - the most ridiculous things, and I hated her for it. And when I had just graduated from university, I was going out with this boy, Vernon Dursley, he was fat and he was the only boy who would talk to me. And he said he wanted children, and that his first son would be named Dudley. And I thought to myself, <em>what kind of parent names their child Dudley Dursley?</em> It was like I saw my whole future life stretching out in front of me, and I couldn't stand it. And I wrote to my sister and told her that if she didn't help me I'd rather just -\"",
+   "text": "\"And Lily would tell me no, and make up the most ridiculous excuses, like the world would end if she were nice to her sister, or a centaur told her not to - the most ridiculous things, and I hated her for it. And when I had just graduated from university, I was going out with this boy, Vernon Dursley, he was fat and he was the only boy who would talk to me. And he said he wanted children, and that his first son would be named Dudley. And I thought to myself, what kind of parent names their child Dudley Dursley? It was like I saw my whole future life stretching out in front of me, and I couldn't stand it. And I wrote to my sister and told her that if she didn't help me I'd rather just -\"",
+   "break_before": false
+  },
+  {
+   "n": 28,
+   "local": 28,
+   "html": "Petunia stopped.",
+   "text": "Petunia stopped.",
+   "break_before": false
+  },
+  {
+   "n": 29,
+   "local": 29,
+   "html": "\"Anyway,\" Petunia said, her voice small, \"she gave in. She told me it was dangerous, and I said I didn't care any more, and I drank this potion and I was sick for weeks, but when I got better my skin cleared up and I finally filled out and... I was beautiful, people were <em>nice</em> to me,\" her voice broke, \"and after that I couldn't hate my sister any more, especially when I learned what her magic brought her in the end -\"",
+   "text": "\"Anyway,\" Petunia said, her voice small, \"she gave in. She told me it was dangerous, and I said I didn't care any more, and I drank this potion and I was sick for weeks, but when I got better my skin cleared up and I finally filled out and... I was beautiful, people were nice to me,\" her voice broke, \"and after that I couldn't hate my sister any more, especially when I learned what her magic brought her in the end -\"",
+   "break_before": false
+  },
+  {
+   "n": 30,
+   "local": 30,
+   "html": "\"Darling,\" Michael said gently, \"you got sick, you gained some weight while resting in bed, and your skin cleared up on its own. Or being sick made you change your diet -\"",
+   "text": "\"Darling,\" Michael said gently, \"you got sick, you gained some weight while resting in bed, and your skin cleared up on its own. Or being sick made you change your diet -\"",
+   "break_before": false
+  },
+  {
+   "n": 31,
+   "local": 31,
+   "html": "\"She was a witch,\" Petunia repeated. \"I saw it.\"",
+   "text": "\"She was a witch,\" Petunia repeated. \"I saw it.\"",
+   "break_before": false
+  },
+  {
+   "n": 32,
+   "local": 32,
+   "html": "\"Petunia,\" Michael said. The annoyance was creeping into his voice. \"You <em>know</em> that can't be true. Do I really have to explain why?\"",
+   "text": "\"Petunia,\" Michael said. The annoyance was creeping into his voice. \"You know that can't be true. Do I really have to explain why?\"",
+   "break_before": false
+  },
+  {
+   "n": 33,
+   "local": 33,
+   "html": "Petunia wrung her hands. She seemed to be on the verge of tears. \"My love, I know I can't win arguments with you, but please, you have to trust me on this -\"",
+   "text": "Petunia wrung her hands. She seemed to be on the verge of tears. \"My love, I know I can't win arguments with you, but please, you have to trust me on this -\"",
+   "break_before": false
+  },
+  {
+   "n": 34,
+   "local": 34,
+   "html": "\"<em>Dad! Mum!</em> \"",
+   "text": "\"Dad! Mum! \"",
+   "break_before": false
+  },
+  {
+   "n": 35,
+   "local": 35,
+   "html": "The two of them stopped and looked at Harry as though they'd forgotten there was a third person in the room.",
+   "text": "The two of them stopped and looked at Harry as though they'd forgotten there was a third person in the room.",
+   "break_before": false
+  },
+  {
+   "n": 36,
+   "local": 36,
+   "html": "Harry took a deep breath. \"Mum, <em>your</em> parents didn't have magic, did they?\"",
+   "text": "Harry took a deep breath. \"Mum, your parents didn't have magic, did they?\"",
+   "break_before": false
+  },
+  {
+   "n": 37,
+   "local": 37,
+   "html": "\"No,\" Petunia said, looking puzzled.",
+   "text": "\"No,\" Petunia said, looking puzzled.",
+   "break_before": false
+  },
+  {
+   "n": 38,
+   "local": 38,
+   "html": "\"Then no one in your family knew about magic when Lily got her letter. How did <em>they</em> get convinced?\"",
+   "text": "\"Then no one in your family knew about magic when Lily got her letter. How did they get convinced?\"",
+   "break_before": false
+  },
+  {
+   "n": 39,
+   "local": 39,
+   "html": "\"Ah...\" Petunia said. \"They didn't just send a letter. They sent a professor from Hogwarts. He -\" Petunia's eyes flicked to Michael. \"He showed us some magic.\"",
+   "text": "\"Ah...\" Petunia said. \"They didn't just send a letter. They sent a professor from Hogwarts. He -\" Petunia's eyes flicked to Michael. \"He showed us some magic.\"",
+   "break_before": false
+  },
+  {
+   "n": 40,
+   "local": 40,
+   "html": "\"Then you don't have to fight over this,\" Harry said firmly. Hoping against hope that this time, just this once, they would listen to him. \"If it's true, we can just get a Hogwarts professor here and see the magic for ourselves, and Dad will admit that it's true. And if not, then Mum will admit that it's false. That's what the experimental method is for, so that we don't have to resolve things just by arguing.\"",
+   "text": "\"Then you don't have to fight over this,\" Harry said firmly. Hoping against hope that this time, just this once, they would listen to him. \"If it's true, we can just get a Hogwarts professor here and see the magic for ourselves, and Dad will admit that it's true. And if not, then Mum will admit that it's false. That's what the experimental method is for, so that we don't have to resolve things just by arguing.\"",
+   "break_before": false
+  },
+  {
+   "n": 41,
+   "local": 41,
+   "html": "The Professor turned and looked down at him, dismissive as usual. \"Oh, come now, Harry. Really, <em>magic?</em> I thought <em>you'd</em> know better than to take this seriously, son, even if you're only ten. Magic is just about the most unscientific thing there is!\"",
+   "text": "The Professor turned and looked down at him, dismissive as usual. \"Oh, come now, Harry. Really, magic? I thought you'd know better than to take this seriously, son, even if you're only ten. Magic is just about the most unscientific thing there is!\"",
+   "break_before": false
+  },
+  {
+   "n": 42,
+   "local": 42,
+   "html": "Harry's mouth twisted bitterly. He was treated well, probably better than most genetic fathers treated their own children. Harry had been sent to the best primary schools - and when that didn't work out, he was provided with tutors from the endless pool of starving students. Always Harry had been encouraged to study whatever caught his attention, bought all the books that caught his fancy, sponsored in whatever maths or science competitions he entered. He was given anything reasonable that he wanted, except, maybe, the slightest shred of respect. A Doctor teaching biochemistry at Oxford could hardly be expected to listen to the advice of a little boy. You would listen to Show Interest, of course; that's what a Good Parent would do, and so, if you conceived of yourself as a Good Parent, you would do it. But take a ten-year-old <em>seriously?</em> Hardly.",
+   "text": "Harry's mouth twisted bitterly. He was treated well, probably better than most genetic fathers treated their own children. Harry had been sent to the best primary schools - and when that didn't work out, he was provided with tutors from the endless pool of starving students. Always Harry had been encouraged to study whatever caught his attention, bought all the books that caught his fancy, sponsored in whatever maths or science competitions he entered. He was given anything reasonable that he wanted, except, maybe, the slightest shred of respect. A Doctor teaching biochemistry at Oxford could hardly be expected to listen to the advice of a little boy. You would listen to Show Interest, of course; that's what a Good Parent would do, and so, if you conceived of yourself as a Good Parent, you would do it. But take a ten-year-old seriously? Hardly.",
+   "break_before": false
+  },
+  {
+   "n": 43,
+   "local": 43,
+   "html": "Sometimes Harry wanted to scream at his father.",
+   "text": "Sometimes Harry wanted to scream at his father.",
+   "break_before": false
+  },
+  {
+   "n": 44,
+   "local": 44,
+   "html": "\"Mum,\" Harry said. \"If you want to win this argument with Dad, look in chapter two of the first book of the Feynman Lectures on Physics. There's a quote there about how philosophers say a great deal about what science absolutely requires, and it is all wrong, because the only rule in science is that the final arbiter is observation - that you just have to look at the world and report what you see. Um... off the top of my head I can't think of where to find something about how it's an ideal of science to settle things by experiment instead of arguments -\"",
+   "text": "\"Mum,\" Harry said. \"If you want to win this argument with Dad, look in chapter two of the first book of the Feynman Lectures on Physics. There's a quote there about how philosophers say a great deal about what science absolutely requires, and it is all wrong, because the only rule in science is that the final arbiter is observation - that you just have to look at the world and report what you see. Um... off the top of my head I can't think of where to find something about how it's an ideal of science to settle things by experiment instead of arguments -\"",
+   "break_before": false
+  },
+  {
+   "n": 45,
+   "local": 45,
+   "html": "His mother looked down at him and smiled. \"Thank you, Harry. But -\" her head rose back up to stare at her husband. \"I don't want to win an argument with your father. I want my husband to, to listen to his wife who loves him, and trust her just this once -\"",
+   "text": "His mother looked down at him and smiled. \"Thank you, Harry. But -\" her head rose back up to stare at her husband. \"I don't want to win an argument with your father. I want my husband to, to listen to his wife who loves him, and trust her just this once -\"",
+   "break_before": false
+  },
+  {
+   "n": 46,
+   "local": 46,
+   "html": "Harry closed his eyes briefly. <em>Hopeless.</em> Both of his parents were just hopeless.",
+   "text": "Harry closed his eyes briefly. Hopeless. Both of his parents were just hopeless.",
+   "break_before": false
+  },
+  {
+   "n": 47,
+   "local": 47,
+   "html": "Now his parents were getting into one of <em>those</em> arguments again, one where his mother tried to make his father feel guilty, and his father tried to make his mother feel stupid.",
+   "text": "Now his parents were getting into one of those arguments again, one where his mother tried to make his father feel guilty, and his father tried to make his mother feel stupid.",
+   "break_before": false
+  },
+  {
+   "n": 48,
+   "local": 48,
+   "html": "\"I'm going to go to my room,\" Harry announced. His voice trembled a little. \"Please try not to fight too much about this, Mum, Dad, we'll know soon enough how it comes out, right?\"",
+   "text": "\"I'm going to go to my room,\" Harry announced. His voice trembled a little. \"Please try not to fight too much about this, Mum, Dad, we'll know soon enough how it comes out, right?\"",
+   "break_before": false
+  },
+  {
+   "n": 49,
+   "local": 49,
+   "html": "\"Of course, Harry,\" said his father, and his mother gave him a reassuring kiss, and then they went on fighting while Harry climbed the stairs to his bedroom.",
+   "text": "\"Of course, Harry,\" said his father, and his mother gave him a reassuring kiss, and then they went on fighting while Harry climbed the stairs to his bedroom.",
+   "break_before": false
+  },
+  {
+   "n": 50,
+   "local": 50,
+   "html": "He shut the door behind him and tried to think.",
+   "text": "He shut the door behind him and tried to think.",
+   "break_before": false
+  },
+  {
+   "n": 51,
+   "local": 51,
+   "html": "The funny thing was, he <em>should</em> have agreed with Dad. No one had ever seen any evidence of magic, and according to Mum, there was a whole magical world out there. How could anyone keep something like that a secret? More magic? That seemed like a rather suspicious sort of excuse.",
+   "text": "The funny thing was, he should have agreed with Dad. No one had ever seen any evidence of magic, and according to Mum, there was a whole magical world out there. How could anyone keep something like that a secret? More magic? That seemed like a rather suspicious sort of excuse.",
+   "break_before": false
+  },
+  {
+   "n": 52,
+   "local": 52,
+   "html": "It should have been a clean case for Mum joking, lying or being insane, in ascending order of awfulness. If Mum had sent the letter herself, that would explain how it arrived at the letterbox without a stamp. A little insanity was far, far less improbable than the universe really working like that.",
+   "text": "It should have been a clean case for Mum joking, lying or being insane, in ascending order of awfulness. If Mum had sent the letter herself, that would explain how it arrived at the letterbox without a stamp. A little insanity was far, far less improbable than the universe really working like that.",
+   "break_before": false
+  },
+  {
+   "n": 53,
+   "local": 53,
+   "html": "Except that some part of Harry was utterly convinced that magic was real, and had been since the instant he saw the putative letter from the Hogwarts School of Witchcraft and Wizardry.",
+   "text": "Except that some part of Harry was utterly convinced that magic was real, and had been since the instant he saw the putative letter from the Hogwarts School of Witchcraft and Wizardry.",
+   "break_before": false
+  },
+  {
+   "n": 54,
+   "local": 54,
+   "html": "Harry rubbed his forehead, grimacing. <em>Don't believe everything you think,</em> one of his books had said.",
+   "text": "Harry rubbed his forehead, grimacing. Don't believe everything you think, one of his books had said.",
+   "break_before": false
+  },
+  {
+   "n": 55,
+   "local": 55,
+   "html": "But this bizarre certainty... Harry was finding himself just <em>expecting</em> that, yes, a Hogwarts professor would show up and wave a wand and magic would come out. The strange certainty was making no effort to guard itself against falsification - wasn't making excuses in advance for why there wouldn't be a professor, or the professor would only be able to bend spoons.",
+   "text": "But this bizarre certainty... Harry was finding himself just expecting that, yes, a Hogwarts professor would show up and wave a wand and magic would come out. The strange certainty was making no effort to guard itself against falsification - wasn't making excuses in advance for why there wouldn't be a professor, or the professor would only be able to bend spoons.",
+   "break_before": false
+  },
+  {
+   "n": 56,
+   "local": 56,
+   "html": "<em>Where do you come from, strange little prediction?</em> Harry directed the thought at his brain. <em>Why do I believe what I believe?</em>",
+   "text": "Where do you come from, strange little prediction? Harry directed the thought at his brain. Why do I believe what I believe?",
+   "break_before": false
+  },
+  {
+   "n": 57,
+   "local": 57,
+   "html": "Usually Harry was pretty good at answering that question, but in this particular case, he had no <em>clue</em> what his brain was thinking.",
+   "text": "Usually Harry was pretty good at answering that question, but in this particular case, he had no clue what his brain was thinking.",
+   "break_before": false
+  },
+  {
+   "n": 58,
+   "local": 58,
+   "html": "Harry mentally shrugged. A flat metal plate on a door affords pushing, and a handle on a door affords pulling, and the thing to do with a testable hypothesis is to go and test it.",
+   "text": "Harry mentally shrugged. A flat metal plate on a door affords pushing, and a handle on a door affords pulling, and the thing to do with a testable hypothesis is to go and test it.",
+   "break_before": false
+  },
+  {
+   "n": 59,
+   "local": 59,
+   "html": "He took a piece of lined paper from his desk, and started writing.",
+   "text": "He took a piece of lined paper from his desk, and started writing.",
+   "break_before": false
+  },
+  {
+   "n": 60,
+   "local": 60,
+   "html": "<em>Dear Deputy Headmistress</em>",
+   "text": "Dear Deputy Headmistress",
+   "break_before": false
+  },
+  {
+   "n": 61,
+   "local": 61,
+   "html": "Harry paused, reflecting; then discarded the paper for another, tapping another millimetre of graphite from his mechanical pencil. This called for careful calligraphy.",
+   "text": "Harry paused, reflecting; then discarded the paper for another, tapping another millimetre of graphite from his mechanical pencil. This called for careful calligraphy.",
+   "break_before": false
+  },
+  {
+   "n": 62,
+   "local": 62,
+   "html": "<em>Dear Deputy Headmistress Minerva McGonagall,</em>",
+   "text": "Dear Deputy Headmistress Minerva McGonagall,",
+   "break_before": false
+  },
+  {
+   "n": 63,
+   "local": 63,
+   "html": "<em>Or Whomsoever It May Concern:</em>",
+   "text": "Or Whomsoever It May Concern:",
+   "break_before": false
+  },
+  {
+   "n": 64,
+   "local": 64,
+   "html": "<em>I recently received your letter of acceptance to Hogwarts, addressed to Mr. H. Potter. You may not be aware that my genetic parents, James Potter and Lily Potter (formerly Lily Evans) are dead. I was adopted by Lily's sister, Petunia Evans-Verres, and her husband, Michael Verres-Evans.</em>",
+   "text": "I recently received your letter of acceptance to Hogwarts, addressed to Mr. H. Potter. You may not be aware that my genetic parents, James Potter and Lily Potter (formerly Lily Evans) are dead. I was adopted by Lily's sister, Petunia Evans-Verres, and her husband, Michael Verres-Evans.",
+   "break_before": false
+  },
+  {
+   "n": 65,
+   "local": 65,
+   "html": "<em>I am extremely interested in attending Hogwarts, conditional on such a place actually existing. Only my mother Petunia says she knows about magic, and she can't use it herself. My father is highly sceptical. I myself am uncertain. I also don't know where to obtain any of the books or equipment listed in your acceptance letter.</em>",
+   "text": "I am extremely interested in attending Hogwarts, conditional on such a place actually existing. Only my mother Petunia says she knows about magic, and she can't use it herself. My father is highly sceptical. I myself am uncertain. I also don't know where to obtain any of the books or equipment listed in your acceptance letter.",
+   "break_before": false
+  },
+  {
+   "n": 66,
+   "local": 66,
+   "html": "<em>Mother mentioned that you sent a Hogwarts representative to Lily Potter (then Lily Evans) in order to demonstrate to her family that magic was real, and, I presume, help Lily obtain her school materials. If you could do this for my own family it would be extremely helpful.</em>",
+   "text": "Mother mentioned that you sent a Hogwarts representative to Lily Potter (then Lily Evans) in order to demonstrate to her family that magic was real, and, I presume, help Lily obtain her school materials. If you could do this for my own family it would be extremely helpful.",
+   "break_before": false
+  },
+  {
+   "n": 67,
+   "local": 67,
+   "html": "<em>Sincerely,</em>",
+   "text": "Sincerely,",
+   "break_before": false
+  },
+  {
+   "n": 68,
+   "local": 68,
+   "html": "<em>Harry James Potter-Evans-Verres.</em>",
+   "text": "Harry James Potter-Evans-Verres.",
+   "break_before": false
+  },
+  {
+   "n": 69,
+   "local": 69,
+   "html": "Harry added their current address, then folded up the letter and put it in an envelope, which he addressed to Hogwarts. Further consideration led him to obtain a candle and drip wax onto the flap of the envelope, into which, using a penknife's tip, he impressed the initials H.J.P.E.V. If he was going to descend into this madness, he was going to do it with style.",
+   "text": "Harry added their current address, then folded up the letter and put it in an envelope, which he addressed to Hogwarts. Further consideration led him to obtain a candle and drip wax onto the flap of the envelope, into which, using a penknife's tip, he impressed the initials H.J.P.E.V. If he was going to descend into this madness, he was going to do it with style.",
+   "break_before": false
+  },
+  {
+   "n": 70,
+   "local": 70,
+   "html": "Then he opened his door and went back downstairs. His father was sitting in the living-room and reading a book of higher maths to show how smart he was; and his mother was in the kitchen preparing one of his father's favourite meals to show how loving she was. It didn't look like they were talking to one another at all. As scary as arguments could be, <em>not arguing</em> was somehow much worse.",
+   "text": "Then he opened his door and went back downstairs. His father was sitting in the living-room and reading a book of higher maths to show how smart he was; and his mother was in the kitchen preparing one of his father's favourite meals to show how loving she was. It didn't look like they were talking to one another at all. As scary as arguments could be, not arguing was somehow much worse.",
+   "break_before": false
+  },
+  {
+   "n": 71,
+   "local": 71,
+   "html": "\"Mum,\" Harry said into the unnerving silence, \"I'm going to test the hypothesis. According to your theory, how do I send an owl to Hogwarts?\"",
+   "text": "\"Mum,\" Harry said into the unnerving silence, \"I'm going to test the hypothesis. According to your theory, how do I send an owl to Hogwarts?\"",
+   "break_before": false
+  },
+  {
+   "n": 72,
+   "local": 72,
+   "html": "His mother turned from the kitchen sink to stare at him, looking shocked. \"I - I don't know, I think you just have to own a magic owl.\"",
+   "text": "His mother turned from the kitchen sink to stare at him, looking shocked. \"I - I don't know, I think you just have to own a magic owl.\"",
+   "break_before": false
+  },
+  {
+   "n": 73,
+   "local": 73,
+   "html": "That should've sounded highly suspicious, <em>oh, so there's no way to test your theory then,</em> but the peculiar certainty in Harry seemed willing to stick its neck out even further.",
+   "text": "That should've sounded highly suspicious, oh, so there's no way to test your theory then, but the peculiar certainty in Harry seemed willing to stick its neck out even further.",
+   "break_before": false
+  },
+  {
+   "n": 74,
+   "local": 74,
+   "html": "\"Well, the letter got here somehow,\" Harry said, \"so I'll just wave it around outside and call 'letter for Hogwarts!' and see if an owl picks it up. Dad, do you want to come and watch?\"",
+   "text": "\"Well, the letter got here somehow,\" Harry said, \"so I'll just wave it around outside and call 'letter for Hogwarts!' and see if an owl picks it up. Dad, do you want to come and watch?\"",
+   "break_before": false
+  },
+  {
+   "n": 75,
+   "local": 75,
+   "html": "His father shook his head minutely and kept on reading. <em>Of course,</em> Harry thought to himself. Magic was a disgraceful thing that only stupid people believed in; if his father went so far as to <em>test</em> the hypothesis, or even <em>watch</em> it being tested, that would feel like <em>associating</em> himself with that...",
+   "text": "His father shook his head minutely and kept on reading. Of course, Harry thought to himself. Magic was a disgraceful thing that only stupid people believed in; if his father went so far as to test the hypothesis, or even watch it being tested, that would feel like associating himself with that...",
+   "break_before": false
+  },
+  {
+   "n": 76,
+   "local": 76,
+   "html": "Only as Harry stumped out the back door, into the back garden, did it occur to him that if an owl <em>did</em> come down and snatch the letter, he was going to have some trouble telling Dad about it.",
+   "text": "Only as Harry stumped out the back door, into the back garden, did it occur to him that if an owl did come down and snatch the letter, he was going to have some trouble telling Dad about it.",
+   "break_before": false
+  },
+  {
+   "n": 77,
+   "local": 77,
+   "html": "<em>But - well - that can't</em> really <em>happen, can it? No matter what my brain seems to believe. If an owl really comes down and grabs this envelope, I'm going to have worries a lot more important than what Dad thinks.</em>",
+   "text": "But - well - that can't really happen, can it? No matter what my brain seems to believe. If an owl really comes down and grabs this envelope, I'm going to have worries a lot more important than what Dad thinks.",
+   "break_before": false
+  },
+  {
+   "n": 78,
+   "local": 78,
+   "html": "Harry took a deep breath, and raised the envelope into the air.",
+   "text": "Harry took a deep breath, and raised the envelope into the air.",
+   "break_before": false
+  },
+  {
+   "n": 79,
+   "local": 79,
+   "html": "He swallowed.",
+   "text": "He swallowed.",
+   "break_before": false
+  },
+  {
+   "n": 80,
+   "local": 80,
+   "html": "Calling out <em>Letter for Hogwarts!</em> while holding an envelope high in the air in the middle of your own back garden was... actually pretty embarrassing, now that he thought about it.",
+   "text": "Calling out Letter for Hogwarts! while holding an envelope high in the air in the middle of your own back garden was... actually pretty embarrassing, now that he thought about it.",
+   "break_before": false
+  },
+  {
+   "n": 81,
+   "local": 81,
+   "html": "<em>No. I'm better than Dad. I will use the scientific method even if it makes me feel stupid.</em>",
+   "text": "No. I'm better than Dad. I will use the scientific method even if it makes me feel stupid.",
+   "break_before": false
+  },
+  {
+   "n": 82,
+   "local": 82,
+   "html": "\"Letter -\" Harry said, but it actually came out as more of a whispered croak.",
+   "text": "\"Letter -\" Harry said, but it actually came out as more of a whispered croak.",
+   "break_before": false
+  },
+  {
+   "n": 83,
+   "local": 83,
+   "html": "Harry steeled his will, and shouted into the empty sky, \"<em>Letter for Hogwarts! Can I get an owl?</em> \"",
+   "text": "Harry steeled his will, and shouted into the empty sky, \"Letter for Hogwarts! Can I get an owl? \"",
+   "break_before": false
+  },
+  {
+   "n": 84,
+   "local": 84,
+   "html": "\"Harry?\" asked a bemused woman's voice, one of the neighbours.",
+   "text": "\"Harry?\" asked a bemused woman's voice, one of the neighbours.",
+   "break_before": false
+  },
+  {
+   "n": 85,
+   "local": 85,
+   "html": "Harry pulled down his hand like it was on fire and hid the envelope behind his back like it was drug money. His whole face was hot with shame.",
+   "text": "Harry pulled down his hand like it was on fire and hid the envelope behind his back like it was drug money. His whole face was hot with shame.",
+   "break_before": false
+  },
+  {
+   "n": 86,
+   "local": 86,
+   "html": "An old woman's face peered out from above the neighbouring fence, grizzled grey hair escaping from her hairnet. Mrs. Figg, the occasional babysitter. \"What are you doing, Harry?\"",
+   "text": "An old woman's face peered out from above the neighbouring fence, grizzled grey hair escaping from her hairnet. Mrs. Figg, the occasional babysitter. \"What are you doing, Harry?\"",
+   "break_before": false
+  },
+  {
+   "n": 87,
+   "local": 87,
+   "html": "\"Nothing,\" Harry said in a strangled voice. \"Just - testing a really silly theory -\"",
+   "text": "\"Nothing,\" Harry said in a strangled voice. \"Just - testing a really silly theory -\"",
+   "break_before": false
+  },
+  {
+   "n": 88,
+   "local": 88,
+   "html": "\"Did you get your acceptance letter from Hogwarts?\"",
+   "text": "\"Did you get your acceptance letter from Hogwarts?\"",
+   "break_before": false
+  },
+  {
+   "n": 89,
+   "local": 89,
+   "html": "Harry froze in place<em>.</em>",
+   "text": "Harry froze in place.",
+   "break_before": false
+  },
+  {
+   "n": 90,
+   "local": 90,
+   "html": "\"Yes,\" Harry's lips said a little while later. \"I got a letter from Hogwarts. They say they want my owl by the 31st of July, but -\"",
+   "text": "\"Yes,\" Harry's lips said a little while later. \"I got a letter from Hogwarts. They say they want my owl by the 31st of July, but -\"",
+   "break_before": false
+  },
+  {
+   "n": 91,
+   "local": 91,
+   "html": "\"But you don't <em>have</em> an owl. Poor dear! I can't imagine <em>what</em> someone must have been thinking, sending you just the standard letter.\"",
+   "text": "\"But you don't have an owl. Poor dear! I can't imagine what someone must have been thinking, sending you just the standard letter.\"",
+   "break_before": false
+  },
+  {
+   "n": 92,
+   "local": 92,
+   "html": "A wrinkled arm stretched out over the fence, and opened an expectant hand. Hardly even thinking at this point, Harry gave over his envelope.",
+   "text": "A wrinkled arm stretched out over the fence, and opened an expectant hand. Hardly even thinking at this point, Harry gave over his envelope.",
+   "break_before": false
+  },
+  {
+   "n": 93,
+   "local": 93,
+   "html": "\"Just leave it to me, dear,\" said Mrs. Figg, \"and in a jiffy or two I'll have someone over.\"",
+   "text": "\"Just leave it to me, dear,\" said Mrs. Figg, \"and in a jiffy or two I'll have someone over.\"",
+   "break_before": false
+  },
+  {
+   "n": 94,
+   "local": 94,
+   "html": "And her face disappeared from over the fence.",
+   "text": "And her face disappeared from over the fence.",
+   "break_before": false
+  },
+  {
+   "n": 95,
+   "local": 95,
+   "html": "There was a long silence in the garden.",
+   "text": "There was a long silence in the garden.",
+   "break_before": false
+  },
+  {
+   "n": 96,
+   "local": 96,
+   "html": "Then a boy's voice said, calmly and quietly, \"What.\"",
+   "text": "Then a boy's voice said, calmly and quietly, \"What.\"",
+   "break_before": false
+  }
+ ]
+}
