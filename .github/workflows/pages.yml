@@ -16,6 +16,10 @@ concurrency:
 
 jobs:
   build:
+    # GitHub Pages on a private repo needs a paid plan. On the free plan this
+    # job skips itself; set the repository variable ENABLE_PAGES=true after
+    # upgrading, or make the repo public, to enable automatic deployment.
+    if: vars.ENABLE_PAGES == 'true' || github.event.repository.private == false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

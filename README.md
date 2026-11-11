@@ -14,6 +14,11 @@ Persian translation and summaries here are produced for this project.
 
 Live site (after Pages is enabled): `https://hamidmdh.github.io/hpmor/`
 
+> GitHub Pages on a **private** repository requires a paid GitHub plan. On the
+> free plan, make the repository public or deploy `_site/` to another static
+> host (Cloudflare Pages, Netlify, etc.). The included workflow skips itself on
+> private repos unless the repository variable `ENABLE_PAGES` is set to `true`.
+
 ## Status
 
 - English source: **all 122 chapters** saved in `data/chNNN_source.json`
