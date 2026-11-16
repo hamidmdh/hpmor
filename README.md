@@ -1,12 +1,10 @@
 # HPMOR — Persian parallel translation
 
-A static, four-column reading site for *Harry Potter and the Methods of
+A static, two-column reading site for *Harry Potter and the Methods of
 Rationality* by Eliezer Yudkowsky:
 
 1. **Verbatim English** — the original paragraph, unchanged
-2. **Persian translation** — faithful, close to the original
-3. **English summary** — one or two sentences per section
-4. **Persian summary** — the same section, condensed in Persian
+2. **Persian translation** — natural, faithful Persian
 
 
 Live site: **https://hamidmdh.github.io/hpmor/**
@@ -14,15 +12,11 @@ Live site: **https://hamidmdh.github.io/hpmor/**
 ## Status
 
 - English source: **all 122 chapters** saved in `data/chNNN_source.json`
-- Persian translation: **all 122 chapters readable**
-  - chapters **1–2**: hand-translated, edited
-  - chapters **3–122**: machine-translated with Google Translate, clearly
-    labelled `"translation": "machine"` and marked in the index and on every
-    page as *needing editing*
-- The index can filter by hand-translated, machine-translated, and English-only
-  chapters
-
-Progress is shown automatically on the home page.
+- Persian translation: chapters are being **hand-translated one chapter at a
+  time**. Finished chapters have no `"translation"` field; the index shows the
+  current progress.
+- Any chapter still carrying `"translation": "machine"` is an older machine
+  draft that is waiting to be replaced.
 
 ## Repository layout
 
@@ -37,7 +31,7 @@ data/chNNN.json            Persian translation for one chapter (optional)
 data/titles_fa.json        Persian titles for all 122 chapters
 scripts/fetch_chapters.py  download English source
 scripts/scaffold_chapter.py create an empty translation skeleton
-scripts/machine_translate.py machine-translate chapters (resumable)
+scripts/machine_translate.py legacy machine-draft generator (not used for new translations)
 scripts/build.py           build all HTML pages
 scripts/verify.py          validate data and translation coverage
 scripts/package.py         copy publishable files to _site/
@@ -62,11 +56,6 @@ python3 scripts/fetch_chapters.py 1 2 3    # selected chapters
 # Start a new chapter translation
 python3 scripts/scaffold_chapter.py 2
 # then edit data/ch002.json, run build + verify
-
-# Machine-translate the remaining chapters (resumable, cached)
-python3 scripts/machine_translate.py --all
-python3 scripts/machine_translate.py 3        # one chapter
-python3 scripts/machine_translate.py 3-20     # a range
 ```
 
 No third-party Python packages are required (standard library only).
@@ -74,8 +63,8 @@ No third-party Python packages are required (standard library only).
 ## Translation data format
 
 `data/ch001.json` is the model to copy. A chapter is split into short
-**sections**; each section stores the paragraph numbers it covers, its two
-summaries, and one Persian translation per paragraph:
+**sections**; each section stores the paragraph numbers it covers and one
+Persian translation per paragraph:
 
 ```json
 {
@@ -86,24 +75,20 @@ summaries, and one Persian translation per paragraph:
     {
       "id": 1,
       "paras": [1, 2],
-      "summary_en": "One or two sentences in English.",
-      "translation_fa": ["ترجمهٔ پاراگراف اول.", "ترجمهٔ پاراگراف دوم."],
-      "summary_fa": "یک یا دو جملهٔ فارسی."
+      "translation_fa": ["ترجمهٔ پاراگراف اول.", "ترجمهٔ پاراگراف دوم."]
     }
   ]
 }
 ```
 
-Machine-generated files also carry `"translation": "machine"`. The site uses
-that field to show a warning banner and a distinct badge. To promote a chapter
-to a hand translation, edit the text and remove the field (or set it to
-`"hand"`).
+Machine-draft files also carry `"translation": "machine"`. The site uses that
+field to show a warning banner and a distinct badge. To promote a chapter to a
+hand translation, replace the text and remove the field.
 
 Rules enforced by `scripts/verify.py`:
 
 - `paras` must cover every paragraph of the source exactly once, in order
 - `translation_fa` must have exactly one non-empty string per paragraph
-- `summary_en` and `summary_fa` must be non-empty
 - `id` values must be unique within the chapter
 
 The English column is always read directly from `data/chNNN_source.json`, so it
@@ -112,7 +97,8 @@ cannot drift from the translation file.
 ## Adding a translation
 
 1. Run `python3 scripts/scaffold_chapter.py N` to create `data/chNNN.json`.
-2. Translate each paragraph and write both summaries.
+2. Translate each paragraph from the English source and write it into
+   `translation_fa`.
 3. Run `python3 scripts/build.py && python3 scripts/verify.py`.
 4. Commit `data/chNNN.json` together with the regenerated `chapterN.html`,
    `index.html`, and `about.html`.

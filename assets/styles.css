@@ -235,10 +235,8 @@ table.parallel {
   direction: ltr;
 }
 table.parallel col.c-sec { width: 3.4rem; }
-table.parallel col.c-en { width: 29%; }
-table.parallel col.c-sum { width: 18%; }
-table.parallel col.c-fa { width: 30%; }
-table.parallel col.c-fasum { width: 18%; }
+table.parallel col.c-en { width: 49%; }
+table.parallel col.c-fa { width: 51%; }
 table.parallel thead th {
   position: sticky; top: 4.2rem; z-index: 5;
   background: #efe9dc; color: #3d3a34;

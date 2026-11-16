@@ -50,9 +50,7 @@ def main() -> int:
             {
                 "id": next_id,
                 "paras": current,
-                "summary_en": "",
                 "translation_fa": ["" for _ in current],
-                "summary_fa": "",
             }
         )
         next_id += 1

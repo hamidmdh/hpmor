@@ -81,10 +81,6 @@ def main() -> int:
             translations = sec.get("translation_fa", [])
             if len(sec_paras) != len(translations):
                 fail(f"{tr_path.name} section {sid}: paragraph/translation count mismatch")
-            if not str(sec.get("summary_en", "")).strip():
-                fail(f"{tr_path.name} section {sid}: missing summary_en")
-            if not str(sec.get("summary_fa", "")).strip():
-                fail(f"{tr_path.name} section {sid}: missing summary_fa")
             for pn, text in zip(sec_paras, translations):
                 if not str(text).strip():
                     fail(f"{tr_path.name} section {sid}: empty translation for paragraph {pn}")

@@ -28,7 +28,6 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -42,16 +41,6 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/122 Safari/537.3
 # The container proxy can disappear while a run is in progress. Talk to
 # Google directly, and fall back between two public endpoints.
 _OPENER = urllib.request.build_opener(urllib.request.ProxyHandler({}))
-
-STOPWORDS = set(
-    """a an the and or but if then than that this these those of to in on at
-    for with from by as is are was were be been being it its he she they them
-    his her their you your i we our not no so do does did have has had will
-    would can could should may might must about into over after before while
-    during without within through up down out off again further once here there
-    when where why how all any both each few more most other some such only own
-    same too very just also now""".split()
-)
 
 # Names and setting terms that Google Translate mangles. Each entry is replaced
 # by an opaque token before translation and restored afterwards. This keeps
@@ -138,48 +127,6 @@ def unshield(text: str, mapping: dict[str, str]) -> str:
 
 def load_json(path: pathlib.Path):
     return json.loads(path.read_text(encoding="utf-8"))
-
-
-def split_sentences(text: str) -> list[str]:
-    text = re.sub(r"\s+", " ", text).strip()
-    if not text:
-        return []
-    parts = re.split(r"(?<=[.!?])\s+", text)
-    return [p.strip() for p in parts if p.strip()]
-
-
-def summarize(texts: list[str], max_sentences: int) -> str:
-    """Small extractive summary: score sentences by content-word frequency."""
-    text = " ".join(texts)
-    sentences = split_sentences(text)
-    if not sentences:
-        return text[:300]
-    if len(sentences) <= max_sentences:
-        return " ".join(sentences)
-    words = re.findall(r"[A-Za-z][A-Za-z'-]+", text.lower())
-    freq = Counter(w for w in words if len(w) > 2 and w not in STOPWORDS)
-    scored = []
-    for idx, sent in enumerate(sentences):
-        sw = [w for w in re.findall(r"[A-Za-z][A-Za-z'-]+", sent.lower()) if w not in STOPWORDS]
-        if not sw:
-            continue
-        score = sum(freq[w] for w in sw) / (len(sw) + 4)
-        if len(sent) < 25:
-            score *= 0.5
-        scored.append((score, idx, sent))
-    # Always keep the opening sentence so the summary starts in context, then
-    # add the highest-scoring sentences up to the limit.
-    chosen_idx = [0]
-    for _, idx, _ in sorted(scored, reverse=True):
-        if len(chosen_idx) >= max_sentences:
-            break
-        if idx not in chosen_idx:
-            chosen_idx.append(idx)
-    chosen_idx.sort()
-    out = " ".join(sentences[i] for i in chosen_idx)
-    if len(out) > 420:
-        out = out[:420].rsplit(" ", 1)[0] + "…"
-    return out
 
 
 def cache_path(text: str) -> pathlib.Path:
@@ -307,20 +254,15 @@ def translate_chapter(n: int, workers: int, batch_chars: int, force: bool) -> bo
     sections = []
     items: list[tuple[str, str]] = []
     for sid, paras in enumerate(groups, start=1):
-        texts = [by_n[p]["text"] for p in paras]
-        summary_en = summarize(texts, 2 if len(texts) >= 4 else 1)
         sections.append(
             {
                 "id": sid,
                 "paras": paras,
-                "summary_en": summary_en,
                 "translation_fa": [],
-                "summary_fa": "",
             }
         )
         for p in paras:
             items.append((f"p{p}", by_n[p]["text"]))
-        items.append((f"s{sid}", summary_en))
 
     # Deduplicate identical texts while preserving keys.
     batches = make_batches(items, batch_chars)
@@ -340,7 +282,6 @@ def translate_chapter(n: int, workers: int, batch_chars: int, force: bool) -> bo
 
     for sec in sections:
         sec["translation_fa"] = [results[f"p{p}"] for p in sec["paras"]]
-        sec["summary_fa"] = results[f"s{sec['id']}"]
 
     data = {
         "chapter": n,
